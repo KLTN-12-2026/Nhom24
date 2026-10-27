@@ -1,0 +1,45 @@
+{
+  "name": "recruitment-ai-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Backend nền tảng tuyển dụng trực tuyến hỗ trợ sàng lọc ứng viên bằng AI",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "test": "vitest run",
+    "seed": "node scripts/seed.js",
+    "eval": "node scripts/eval.js",
+    "alerts:run": "node scripts/alerts.js",
+    "cleanup": "node scripts/cleanup.js",
+    "wallet:verify": "node scripts/walletVerify.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "express-rate-limit": "^7.4.0",
+    "google-auth-library": "^11.3.1",
+    "helmet": "^7.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mammoth": "^1.8.0",
+    "mongoose": "^8.7.0",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.5-lts.1",
+    "nodemailer": "^6.10.1",
+    "pdf-parse": "^1.1.1",
+    "sharp": "^0.35.5",
+    "uuid": "^14.0.3",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "jszip": "^3.10.2",
+    "mongodb-memory-server": "^10.1.0",
+    "supertest": "^7.0.0",
+    "vitest": "^4.1.12"
+  }
+}

@@ -1,0 +1,385 @@
+{
+  "version": "2025-07-01",
+  "source": "Nghị quyết 202/2025/QH15 và Quyết định 19/2025/QĐ-TTg (34 đơn vị hành chính cấp tỉnh từ 01/07/2025)",
+  "remote": {
+    "code": "remote",
+    "name": "Làm việc từ xa / Toàn quốc",
+    "nameSearch": "lam viec tu xa / toan quoc",
+    "group": "remote",
+    "popular": false,
+    "aliases": [
+      "Remote",
+      "Từ xa",
+      "Toàn quốc",
+      "Làm việc từ xa",
+      "Toan quoc"
+    ]
+  },
+  "provinces": [
+    {
+      "code": "ha-noi",
+      "name": "Hà Nội",
+      "nameSearch": "ha noi",
+      "group": "city",
+      "popular": true,
+      "aliases": [
+        "TP. Hà Nội",
+        "Thành phố Hà Nội",
+        "HN",
+        "Hanoi",
+        "Ha Noi"
+      ]
+    },
+    {
+      "code": "tp-ho-chi-minh",
+      "name": "TP. Hồ Chí Minh",
+      "nameSearch": "tp ho chi minh",
+      "group": "city",
+      "popular": true,
+      "aliases": [
+        "TP.HCM",
+        "TPHCM",
+        "TP HCM",
+        "HCM",
+        "HCMC",
+        "Hồ Chí Minh",
+        "Ho Chi Minh",
+        "Ho Chi Minh City",
+        "Thành phố Hồ Chí Minh",
+        "Sài Gòn",
+        "Saigon",
+        "Bình Dương",
+        "Bà Rịa - Vũng Tàu",
+        "Bà Rịa Vũng Tàu",
+        "Vũng Tàu"
+      ]
+    },
+    {
+      "code": "da-nang",
+      "name": "Đà Nẵng",
+      "nameSearch": "da nang",
+      "group": "city",
+      "popular": true,
+      "aliases": [
+        "TP. Đà Nẵng",
+        "Thành phố Đà Nẵng",
+        "Da Nang",
+        "Quảng Nam"
+      ]
+    },
+    {
+      "code": "can-tho",
+      "name": "Cần Thơ",
+      "nameSearch": "can tho",
+      "group": "city",
+      "popular": true,
+      "aliases": [
+        "TP. Cần Thơ",
+        "Thành phố Cần Thơ",
+        "Can Tho",
+        "Sóc Trăng",
+        "Hậu Giang"
+      ]
+    },
+    {
+      "code": "hai-phong",
+      "name": "Hải Phòng",
+      "nameSearch": "hai phong",
+      "group": "city",
+      "popular": true,
+      "aliases": [
+        "TP. Hải Phòng",
+        "Thành phố Hải Phòng",
+        "Hai Phong",
+        "Hải Dương"
+      ]
+    },
+    {
+      "code": "hue",
+      "name": "Huế",
+      "nameSearch": "hue",
+      "group": "city",
+      "popular": false,
+      "aliases": [
+        "TP. Huế",
+        "Thành phố Huế",
+        "Thừa Thiên Huế",
+        "Thừa Thiên - Huế",
+        "Hue"
+      ]
+    },
+    {
+      "code": "an-giang",
+      "name": "An Giang",
+      "nameSearch": "an giang",
+      "group": "province",
+      "popular": false,
+      "aliases": [
+        "Kiên Giang"
+      ]
+    },
+    {
+      "code": "bac-ninh",
+      "name": "Bắc Ninh",
+      "nameSearch": "bac ninh",
+      "group": "province",
+      "popular": false,
+      "aliases": [
+        "Bắc Giang"
+      ]
+    },
+    {
+      "code": "ca-mau",
+      "name": "Cà Mau",
+      "nameSearch": "ca mau",
+      "group": "province",
+      "popular": false,
+      "aliases": [
+        "Bạc Liêu"
+      ]
+    },
+    {
+      "code": "cao-bang",
+      "name": "Cao Bằng",
+      "nameSearch": "cao bang",
+      "group": "province",
+      "popular": false,
+      "aliases": []
+    },
+    {
+      "code": "dak-lak",
+      "name": "Đắk Lắk",
+      "nameSearch": "dak lak",
+      "group": "province",
+      "popular": false,
+      "aliases": [
+        "Đăk Lăk",
+        "Dak Lak",
+        "Phú Yên"
+      ]
+    },
+    {
+      "code": "dien-bien",
+      "name": "Điện Biên",
+      "nameSearch": "dien bien",
+      "group": "province",
+      "popular": false,
+      "aliases": []
+    },
+    {
+      "code": "dong-nai",
+      "name": "Đồng Nai",
+      "nameSearch": "dong nai",
+      "group": "province",
+      "popular": false,
+      "aliases": [
+        "Bình Phước"
+      ]
+    },
+    {
+      "code": "dong-thap",
+      "name": "Đồng Tháp",
+      "nameSearch": "dong thap",
+      "group": "province",
+      "popular": false,
+      "aliases": [
+        "Tiền Giang"
+      ]
+    },
+    {
+      "code": "gia-lai",
+      "name": "Gia Lai",
+      "nameSearch": "gia lai",
+      "group": "province",
+      "popular": false,
+      "aliases": [
+        "Bình Định",
+        "Quy Nhơn"
+      ]
+    },
+    {
+      "code": "ha-tinh",
+      "name": "Hà Tĩnh",
+      "nameSearch": "ha tinh",
+      "group": "province",
+      "popular": false,
+      "aliases": []
+    },
+    {
+      "code": "hung-yen",
+      "name": "Hưng Yên",
+      "nameSearch": "hung yen",
+      "group": "province",
+      "popular": false,
+      "aliases": [
+        "Thái Bình"
+      ]
+    },
+    {
+      "code": "khanh-hoa",
+      "name": "Khánh Hòa",
+      "nameSearch": "khanh hoa",
+      "group": "province",
+      "popular": false,
+      "aliases": [
+        "Ninh Thuận",
+        "Nha Trang"
+      ]
+    },
+    {
+      "code": "lai-chau",
+      "name": "Lai Châu",
+      "nameSearch": "lai chau",
+      "group": "province",
+      "popular": false,
+      "aliases": []
+    },
+    {
+      "code": "lam-dong",
+      "name": "Lâm Đồng",
+      "nameSearch": "lam dong",
+      "group": "province",
+      "popular": false,
+      "aliases": [
+        "Đắk Nông",
+        "Đăk Nông",
+        "Bình Thuận",
+        "Đà Lạt"
+      ]
+    },
+    {
+      "code": "lang-son",
+      "name": "Lạng Sơn",
+      "nameSearch": "lang son",
+      "group": "province",
+      "popular": false,
+      "aliases": []
+    },
+    {
+      "code": "lao-cai",
+      "name": "Lào Cai",
+      "nameSearch": "lao cai",
+      "group": "province",
+      "popular": false,
+      "aliases": [
+        "Yên Bái"
+      ]
+    },
+    {
+      "code": "nghe-an",
+      "name": "Nghệ An",
+      "nameSearch": "nghe an",
+      "group": "province",
+      "popular": false,
+      "aliases": []
+    },
+    {
+      "code": "ninh-binh",
+      "name": "Ninh Bình",
+      "nameSearch": "ninh binh",
+      "group": "province",
+      "popular": false,
+      "aliases": [
+        "Hà Nam",
+        "Nam Định"
+      ]
+    },
+    {
+      "code": "phu-tho",
+      "name": "Phú Thọ",
+      "nameSearch": "phu tho",
+      "group": "province",
+      "popular": false,
+      "aliases": [
+        "Vĩnh Phúc",
+        "Hòa Bình"
+      ]
+    },
+    {
+      "code": "quang-ngai",
+      "name": "Quảng Ngãi",
+      "nameSearch": "quang ngai",
+      "group": "province",
+      "popular": false,
+      "aliases": [
+        "Kon Tum"
+      ]
+    },
+    {
+      "code": "quang-ninh",
+      "name": "Quảng Ninh",
+      "nameSearch": "quang ninh",
+      "group": "province",
+      "popular": false,
+      "aliases": []
+    },
+    {
+      "code": "quang-tri",
+      "name": "Quảng Trị",
+      "nameSearch": "quang tri",
+      "group": "province",
+      "popular": false,
+      "aliases": [
+        "Quảng Bình"
+      ]
+    },
+    {
+      "code": "son-la",
+      "name": "Sơn La",
+      "nameSearch": "son la",
+      "group": "province",
+      "popular": false,
+      "aliases": []
+    },
+    {
+      "code": "tay-ninh",
+      "name": "Tây Ninh",
+      "nameSearch": "tay ninh",
+      "group": "province",
+      "popular": false,
+      "aliases": [
+        "Long An"
+      ]
+    },
+    {
+      "code": "thai-nguyen",
+      "name": "Thái Nguyên",
+      "nameSearch": "thai nguyen",
+      "group": "province",
+      "popular": false,
+      "aliases": [
+        "Bắc Kạn",
+        "Bắc Cạn"
+      ]
+    },
+    {
+      "code": "thanh-hoa",
+      "name": "Thanh Hóa",
+      "nameSearch": "thanh hoa",
+      "group": "province",
+      "popular": false,
+      "aliases": []
+    },
+    {
+      "code": "tuyen-quang",
+      "name": "Tuyên Quang",
+      "nameSearch": "tuyen quang",
+      "group": "province",
+      "popular": false,
+      "aliases": [
+        "Hà Giang"
+      ]
+    },
+    {
+      "code": "vinh-long",
+      "name": "Vĩnh Long",
+      "nameSearch": "vinh long",
+      "group": "province",
+      "popular": false,
+      "aliases": [
+        "Bến Tre",
+        "Trà Vinh"
+      ]
+    }
+  ]
+}
