@@ -1,0 +1,3642 @@
+[
+  {
+    "name": "JavaScript",
+    "normalized": "javascript",
+    "aliases": [
+      "js",
+      "ecmascript",
+      "es6",
+      "es2015",
+      "vanilla js",
+      "vanilla javascript"
+    ]
+  },
+  {
+    "name": "TypeScript",
+    "normalized": "typescript",
+    "aliases": [
+      "ts"
+    ]
+  },
+  {
+    "name": "Python",
+    "normalized": "python",
+    "aliases": [
+      "python3",
+      "python 3"
+    ]
+  },
+  {
+    "name": "Java",
+    "normalized": "java",
+    "aliases": [
+      "core java",
+      "java core",
+      "java se",
+      "java 8",
+      "java 11",
+      "java 17"
+    ]
+  },
+  {
+    "name": "C#",
+    "normalized": "csharp",
+    "aliases": [
+      "c sharp",
+      "c-sharp"
+    ]
+  },
+  {
+    "name": "C++",
+    "normalized": "cpp",
+    "aliases": [
+      "c plus plus",
+      "cplusplus"
+    ]
+  },
+  {
+    "name": "C",
+    "normalized": "c",
+    "aliases": [
+      "c language",
+      "ngôn ngữ c"
+    ]
+  },
+  {
+    "name": "Go",
+    "normalized": "go",
+    "aliases": [
+      "golang",
+      "go lang"
+    ]
+  },
+  {
+    "name": "Rust",
+    "normalized": "rust",
+    "aliases": [
+      "rust lang"
+    ]
+  },
+  {
+    "name": "PHP",
+    "normalized": "php",
+    "aliases": [
+      "php7",
+      "php 8"
+    ]
+  },
+  {
+    "name": "Ruby",
+    "normalized": "ruby",
+    "aliases": [
+      "ruby lang"
+    ]
+  },
+  {
+    "name": "Swift",
+    "normalized": "swift",
+    "aliases": [
+      "swift lang"
+    ]
+  },
+  {
+    "name": "Kotlin",
+    "normalized": "kotlin",
+    "aliases": [
+      "kotlin lang"
+    ]
+  },
+  {
+    "name": "Dart",
+    "normalized": "dart",
+    "aliases": [
+      "dart lang"
+    ]
+  },
+  {
+    "name": "Scala",
+    "normalized": "scala",
+    "aliases": []
+  },
+  {
+    "name": "R",
+    "normalized": "r",
+    "aliases": [
+      "r language",
+      "r programming",
+      "ngôn ngữ r"
+    ]
+  },
+  {
+    "name": "MATLAB",
+    "normalized": "matlab",
+    "aliases": []
+  },
+  {
+    "name": "Perl",
+    "normalized": "perl",
+    "aliases": []
+  },
+  {
+    "name": "Lua",
+    "normalized": "lua",
+    "aliases": []
+  },
+  {
+    "name": "Bash",
+    "normalized": "bash",
+    "aliases": [
+      "shell script",
+      "bash script",
+      "shell"
+    ]
+  },
+  {
+    "name": "PowerShell",
+    "normalized": "powershell",
+    "aliases": []
+  },
+  {
+    "name": "SQL",
+    "normalized": "sql",
+    "aliases": [
+      "structured query language",
+      "t-sql",
+      "tsql",
+      "pl/sql",
+      "plsql"
+    ]
+  },
+  {
+    "name": "HTML",
+    "normalized": "html",
+    "aliases": [
+      "html5",
+      "html 5"
+    ]
+  },
+  {
+    "name": "CSS",
+    "normalized": "css",
+    "aliases": [
+      "css3",
+      "css 3"
+    ]
+  },
+  {
+    "name": "HTML/CSS",
+    "normalized": "html/css",
+    "aliases": [
+      "html css",
+      "html & css",
+      "html and css",
+      "html5/css3",
+      "html/css3"
+    ]
+  },
+  {
+    "name": "Sass",
+    "normalized": "sass",
+    "aliases": [
+      "scss"
+    ]
+  },
+  {
+    "name": "Less",
+    "normalized": "less",
+    "aliases": [
+      "less css"
+    ]
+  },
+  {
+    "name": "Tailwind CSS",
+    "normalized": "tailwindcss",
+    "aliases": [
+      "tailwind"
+    ]
+  },
+  {
+    "name": "Bootstrap",
+    "normalized": "bootstrap",
+    "aliases": [
+      "bootstrap 5",
+      "bootstrap 4"
+    ]
+  },
+  {
+    "name": "Material UI",
+    "normalized": "material ui",
+    "aliases": [
+      "mui",
+      "material-ui"
+    ]
+  },
+  {
+    "name": "Ant Design",
+    "normalized": "ant design",
+    "aliases": [
+      "antd",
+      "ant-design"
+    ]
+  },
+  {
+    "name": "React",
+    "normalized": "react",
+    "aliases": [
+      "reactjs",
+      "react.js",
+      "react js",
+      "react 18"
+    ]
+  },
+  {
+    "name": "Next.js",
+    "normalized": "nextjs",
+    "aliases": [
+      "next js",
+      "next"
+    ]
+  },
+  {
+    "name": "Vue.js",
+    "normalized": "vue",
+    "aliases": [
+      "vuejs",
+      "vue js",
+      "vue 3",
+      "vue3"
+    ]
+  },
+  {
+    "name": "Nuxt.js",
+    "normalized": "nuxtjs",
+    "aliases": [
+      "nuxt",
+      "nuxt js"
+    ]
+  },
+  {
+    "name": "Angular",
+    "normalized": "angular",
+    "aliases": [
+      "angularjs",
+      "angular.js",
+      "angular 2+"
+    ]
+  },
+  {
+    "name": "Svelte",
+    "normalized": "svelte",
+    "aliases": [
+      "sveltekit"
+    ]
+  },
+  {
+    "name": "jQuery",
+    "normalized": "jquery",
+    "aliases": []
+  },
+  {
+    "name": "Redux",
+    "normalized": "redux",
+    "aliases": [
+      "redux toolkit",
+      "rtk"
+    ]
+  },
+  {
+    "name": "React Native",
+    "normalized": "react native",
+    "aliases": [
+      "reactnative",
+      "react-native"
+    ]
+  },
+  {
+    "name": "Flutter",
+    "normalized": "flutter",
+    "aliases": [
+      "flutter sdk"
+    ]
+  },
+  {
+    "name": "Android",
+    "normalized": "android",
+    "aliases": [
+      "android sdk",
+      "android development",
+      "lập trình android"
+    ]
+  },
+  {
+    "name": "iOS",
+    "normalized": "ios",
+    "aliases": [
+      "ios development",
+      "lập trình ios"
+    ]
+  },
+  {
+    "name": "SwiftUI",
+    "normalized": "swiftui",
+    "aliases": []
+  },
+  {
+    "name": "Jetpack Compose",
+    "normalized": "jetpack compose",
+    "aliases": [
+      "compose"
+    ]
+  },
+  {
+    "name": "Xamarin",
+    "normalized": "xamarin",
+    "aliases": []
+  },
+  {
+    "name": "Ionic",
+    "normalized": "ionic",
+    "aliases": []
+  },
+  {
+    "name": "Webpack",
+    "normalized": "webpack",
+    "aliases": []
+  },
+  {
+    "name": "Vite",
+    "normalized": "vite",
+    "aliases": [
+      "vitejs"
+    ]
+  },
+  {
+    "name": "Babel",
+    "normalized": "babel",
+    "aliases": []
+  },
+  {
+    "name": "Node.js",
+    "normalized": "nodejs",
+    "aliases": [
+      "node",
+      "node js"
+    ]
+  },
+  {
+    "name": "Express.js",
+    "normalized": "express",
+    "aliases": [
+      "expressjs",
+      "express js"
+    ]
+  },
+  {
+    "name": "NestJS",
+    "normalized": "nestjs",
+    "aliases": [
+      "nest.js",
+      "nest js",
+      "nest"
+    ]
+  },
+  {
+    "name": "Fastify",
+    "normalized": "fastify",
+    "aliases": []
+  },
+  {
+    "name": "Koa",
+    "normalized": "koa",
+    "aliases": [
+      "koajs",
+      "koa.js"
+    ]
+  },
+  {
+    "name": "Django",
+    "normalized": "django",
+    "aliases": [
+      "django rest framework",
+      "drf"
+    ]
+  },
+  {
+    "name": "Flask",
+    "normalized": "flask",
+    "aliases": []
+  },
+  {
+    "name": "FastAPI",
+    "normalized": "fastapi",
+    "aliases": [
+      "fast api"
+    ]
+  },
+  {
+    "name": "Spring Boot",
+    "normalized": "spring boot",
+    "aliases": [
+      "springboot",
+      "spring-boot"
+    ]
+  },
+  {
+    "name": "Spring Framework",
+    "normalized": "spring",
+    "aliases": [
+      "spring mvc",
+      "spring cloud"
+    ]
+  },
+  {
+    "name": "Hibernate",
+    "normalized": "hibernate",
+    "aliases": [
+      "jpa",
+      "hibernate orm"
+    ]
+  },
+  {
+    "name": ".NET",
+    "normalized": "dotnet",
+    "aliases": [
+      ".net core",
+      "dotnet core",
+      "asp.net",
+      "asp.net core",
+      "asp net",
+      ".net framework"
+    ]
+  },
+  {
+    "name": "Entity Framework",
+    "normalized": "entity framework",
+    "aliases": [
+      "ef core",
+      "entity framework core"
+    ]
+  },
+  {
+    "name": "Laravel",
+    "normalized": "laravel",
+    "aliases": [
+      "laravel framework"
+    ]
+  },
+  {
+    "name": "Symfony",
+    "normalized": "symfony",
+    "aliases": []
+  },
+  {
+    "name": "CodeIgniter",
+    "normalized": "codeigniter",
+    "aliases": []
+  },
+  {
+    "name": "WordPress",
+    "normalized": "wordpress",
+    "aliases": [
+      "wp",
+      "word press"
+    ]
+  },
+  {
+    "name": "Ruby on Rails",
+    "normalized": "ruby on rails",
+    "aliases": [
+      "rails",
+      "ror"
+    ]
+  },
+  {
+    "name": "Gin",
+    "normalized": "gin",
+    "aliases": [
+      "gin gonic",
+      "gin-gonic"
+    ]
+  },
+  {
+    "name": "GraphQL",
+    "normalized": "graphql",
+    "aliases": [
+      "graph ql",
+      "apollo graphql"
+    ]
+  },
+  {
+    "name": "REST API",
+    "normalized": "rest api",
+    "aliases": [
+      "restful",
+      "restful api",
+      "rest",
+      "rest apis",
+      "restful apis",
+      "api restful",
+      "web api"
+    ]
+  },
+  {
+    "name": "gRPC",
+    "normalized": "grpc",
+    "aliases": []
+  },
+  {
+    "name": "WebSocket",
+    "normalized": "websocket",
+    "aliases": [
+      "websockets",
+      "web socket",
+      "socket.io",
+      "socketio"
+    ]
+  },
+  {
+    "name": "Microservices",
+    "normalized": "microservices",
+    "aliases": [
+      "microservice",
+      "micro services",
+      "kiến trúc microservices"
+    ]
+  },
+  {
+    "name": "OOP",
+    "normalized": "oop",
+    "aliases": [
+      "object oriented programming",
+      "object-oriented programming",
+      "lập trình hướng đối tượng"
+    ]
+  },
+  {
+    "name": "Design Patterns",
+    "normalized": "design patterns",
+    "aliases": [
+      "design pattern",
+      "mẫu thiết kế"
+    ]
+  },
+  {
+    "name": "Data Structures & Algorithms",
+    "normalized": "data structures",
+    "aliases": [
+      "dsa",
+      "algorithms",
+      "data structures and algorithms",
+      "cấu trúc dữ liệu và giải thuật",
+      "giải thuật"
+    ]
+  },
+  {
+    "name": "System Design",
+    "normalized": "system design",
+    "aliases": [
+      "thiết kế hệ thống",
+      "software architecture"
+    ]
+  },
+  {
+    "name": "Clean Architecture",
+    "normalized": "clean architecture",
+    "aliases": []
+  },
+  {
+    "name": "MongoDB",
+    "normalized": "mongodb",
+    "aliases": [
+      "mongo",
+      "mongo db"
+    ]
+  },
+  {
+    "name": "Mongoose",
+    "normalized": "mongoose",
+    "aliases": [
+      "mongoose odm"
+    ]
+  },
+  {
+    "name": "MySQL",
+    "normalized": "mysql",
+    "aliases": [
+      "my sql"
+    ]
+  },
+  {
+    "name": "PostgreSQL",
+    "normalized": "postgresql",
+    "aliases": [
+      "postgres",
+      "postgre sql",
+      "psql"
+    ]
+  },
+  {
+    "name": "SQL Server",
+    "normalized": "sql server",
+    "aliases": [
+      "mssql",
+      "ms sql",
+      "microsoft sql server",
+      "mssql server"
+    ]
+  },
+  {
+    "name": "Oracle Database",
+    "normalized": "oracle",
+    "aliases": [
+      "oracle db",
+      "oracle sql"
+    ]
+  },
+  {
+    "name": "SQLite",
+    "normalized": "sqlite",
+    "aliases": []
+  },
+  {
+    "name": "MariaDB",
+    "normalized": "mariadb",
+    "aliases": []
+  },
+  {
+    "name": "Redis",
+    "normalized": "redis",
+    "aliases": []
+  },
+  {
+    "name": "Elasticsearch",
+    "normalized": "elasticsearch",
+    "aliases": [
+      "elastic search",
+      "elk",
+      "elk stack",
+      "opensearch"
+    ]
+  },
+  {
+    "name": "Cassandra",
+    "normalized": "cassandra",
+    "aliases": [
+      "apache cassandra"
+    ]
+  },
+  {
+    "name": "DynamoDB",
+    "normalized": "dynamodb",
+    "aliases": [
+      "dynamo db"
+    ]
+  },
+  {
+    "name": "Firebase",
+    "normalized": "firebase",
+    "aliases": [
+      "firestore",
+      "firebase realtime database"
+    ]
+  },
+  {
+    "name": "Neo4j",
+    "normalized": "neo4j",
+    "aliases": [
+      "graph database"
+    ]
+  },
+  {
+    "name": "Prisma",
+    "normalized": "prisma",
+    "aliases": [
+      "prisma orm"
+    ]
+  },
+  {
+    "name": "Sequelize",
+    "normalized": "sequelize",
+    "aliases": []
+  },
+  {
+    "name": "TypeORM",
+    "normalized": "typeorm",
+    "aliases": []
+  },
+  {
+    "name": "Database Design",
+    "normalized": "database design",
+    "aliases": [
+      "thiết kế csdl",
+      "thiết kế cơ sở dữ liệu",
+      "database modeling",
+      "erd"
+    ]
+  },
+  {
+    "name": "NoSQL",
+    "normalized": "nosql",
+    "aliases": [
+      "no sql"
+    ]
+  },
+  {
+    "name": "Apache Kafka",
+    "normalized": "kafka",
+    "aliases": []
+  },
+  {
+    "name": "RabbitMQ",
+    "normalized": "rabbitmq",
+    "aliases": [
+      "rabbit mq"
+    ]
+  },
+  {
+    "name": "Docker",
+    "normalized": "docker",
+    "aliases": [
+      "docker compose",
+      "docker-compose",
+      "containerization",
+      "container"
+    ]
+  },
+  {
+    "name": "Kubernetes",
+    "normalized": "kubernetes",
+    "aliases": [
+      "k8s",
+      "kube"
+    ]
+  },
+  {
+    "name": "Helm",
+    "normalized": "helm",
+    "aliases": [
+      "helm chart"
+    ]
+  },
+  {
+    "name": "Terraform",
+    "normalized": "terraform",
+    "aliases": [
+      "iac",
+      "infrastructure as code"
+    ]
+  },
+  {
+    "name": "Ansible",
+    "normalized": "ansible",
+    "aliases": []
+  },
+  {
+    "name": "Jenkins",
+    "normalized": "jenkins",
+    "aliases": []
+  },
+  {
+    "name": "GitLab CI",
+    "normalized": "gitlab ci",
+    "aliases": [
+      "gitlab-ci",
+      "gitlab ci/cd"
+    ]
+  },
+  {
+    "name": "GitHub Actions",
+    "normalized": "github actions",
+    "aliases": [
+      "github action"
+    ]
+  },
+  {
+    "name": "CI/CD",
+    "normalized": "ci/cd",
+    "aliases": [
+      "cicd",
+      "ci cd",
+      "ci-cd",
+      "continuous integration",
+      "continuous delivery",
+      "continuous deployment",
+      "devops pipeline"
+    ]
+  },
+  {
+    "name": "DevOps",
+    "normalized": "devops",
+    "aliases": [
+      "dev ops"
+    ]
+  },
+  {
+    "name": "Nginx",
+    "normalized": "nginx",
+    "aliases": []
+  },
+  {
+    "name": "Apache HTTP Server",
+    "normalized": "apache",
+    "aliases": [
+      "apache httpd",
+      "apache server"
+    ]
+  },
+  {
+    "name": "Prometheus",
+    "normalized": "prometheus",
+    "aliases": []
+  },
+  {
+    "name": "Grafana",
+    "normalized": "grafana",
+    "aliases": []
+  },
+  {
+    "name": "Datadog",
+    "normalized": "datadog",
+    "aliases": []
+  },
+  {
+    "name": "Linux",
+    "normalized": "linux",
+    "aliases": [
+      "ubuntu",
+      "centos",
+      "debian",
+      "red hat",
+      "rhel",
+      "linux administration"
+    ]
+  },
+  {
+    "name": "Windows Server",
+    "normalized": "windows server",
+    "aliases": [
+      "windows server 2019",
+      "active directory"
+    ]
+  },
+  {
+    "name": "Computer Networking",
+    "normalized": "networking",
+    "aliases": [
+      "network",
+      "mạng máy tính",
+      "tcp/ip",
+      "cisco",
+      "ccna",
+      "quản trị mạng"
+    ]
+  },
+  {
+    "name": "VPN",
+    "normalized": "vpn",
+    "aliases": []
+  },
+  {
+    "name": "AWS",
+    "normalized": "aws",
+    "aliases": [
+      "amazon web services",
+      "aws cloud",
+      "amazon aws"
+    ]
+  },
+  {
+    "name": "AWS EC2",
+    "normalized": "ec2",
+    "aliases": []
+  },
+  {
+    "name": "AWS S3",
+    "normalized": "s3",
+    "aliases": [
+      "amazon s3"
+    ]
+  },
+  {
+    "name": "AWS Lambda",
+    "normalized": "lambda",
+    "aliases": [
+      "serverless"
+    ]
+  },
+  {
+    "name": "Microsoft Azure",
+    "normalized": "azure",
+    "aliases": [
+      "azure cloud"
+    ]
+  },
+  {
+    "name": "Google Cloud Platform",
+    "normalized": "gcp",
+    "aliases": [
+      "google cloud"
+    ]
+  },
+  {
+    "name": "Cloud Computing",
+    "normalized": "cloud computing",
+    "aliases": [
+      "cloud",
+      "điện toán đám mây"
+    ]
+  },
+  {
+    "name": "Git",
+    "normalized": "git",
+    "aliases": [
+      "git flow",
+      "gitflow",
+      "version control",
+      "quản lý phiên bản"
+    ]
+  },
+  {
+    "name": "GitHub",
+    "normalized": "github",
+    "aliases": []
+  },
+  {
+    "name": "GitLab",
+    "normalized": "gitlab",
+    "aliases": []
+  },
+  {
+    "name": "Bitbucket",
+    "normalized": "bitbucket",
+    "aliases": []
+  },
+  {
+    "name": "Jira",
+    "normalized": "jira",
+    "aliases": [
+      "atlassian jira"
+    ]
+  },
+  {
+    "name": "Confluence",
+    "normalized": "confluence",
+    "aliases": []
+  },
+  {
+    "name": "Trello",
+    "normalized": "trello",
+    "aliases": []
+  },
+  {
+    "name": "Notion",
+    "normalized": "notion",
+    "aliases": []
+  },
+  {
+    "name": "Slack",
+    "normalized": "slack",
+    "aliases": []
+  },
+  {
+    "name": "Postman",
+    "normalized": "postman",
+    "aliases": []
+  },
+  {
+    "name": "Swagger",
+    "normalized": "swagger",
+    "aliases": [
+      "openapi",
+      "open api"
+    ]
+  },
+  {
+    "name": "Visual Studio Code",
+    "normalized": "vscode",
+    "aliases": [
+      "vs code"
+    ]
+  },
+  {
+    "name": "IntelliJ IDEA",
+    "normalized": "intellij",
+    "aliases": [
+      "idea"
+    ]
+  },
+  {
+    "name": "Visual Studio",
+    "normalized": "visual studio",
+    "aliases": [
+      "ms visual studio"
+    ]
+  },
+  {
+    "name": "Android Studio",
+    "normalized": "android studio",
+    "aliases": []
+  },
+  {
+    "name": "Xcode",
+    "normalized": "xcode",
+    "aliases": []
+  },
+  {
+    "name": "Unity",
+    "normalized": "unity",
+    "aliases": [
+      "unity3d",
+      "unity 3d"
+    ]
+  },
+  {
+    "name": "Unreal Engine",
+    "normalized": "unreal engine",
+    "aliases": [
+      "ue4",
+      "ue5",
+      "unreal"
+    ]
+  },
+  {
+    "name": "Game Development",
+    "normalized": "game development",
+    "aliases": [
+      "phát triển game",
+      "lập trình game"
+    ]
+  },
+  {
+    "name": "Unit Testing",
+    "normalized": "unit testing",
+    "aliases": [
+      "unit test",
+      "unit tests",
+      "kiểm thử đơn vị"
+    ]
+  },
+  {
+    "name": "Jest",
+    "normalized": "jest",
+    "aliases": [
+      "jestjs"
+    ]
+  },
+  {
+    "name": "Vitest",
+    "normalized": "vitest",
+    "aliases": []
+  },
+  {
+    "name": "Mocha",
+    "normalized": "mocha",
+    "aliases": [
+      "mocha chai",
+      "chai"
+    ]
+  },
+  {
+    "name": "JUnit",
+    "normalized": "junit",
+    "aliases": [
+      "junit5",
+      "junit 5"
+    ]
+  },
+  {
+    "name": "Pytest",
+    "normalized": "pytest",
+    "aliases": []
+  },
+  {
+    "name": "Cypress",
+    "normalized": "cypress",
+    "aliases": [
+      "cypress.io"
+    ]
+  },
+  {
+    "name": "Playwright",
+    "normalized": "playwright",
+    "aliases": []
+  },
+  {
+    "name": "Selenium",
+    "normalized": "selenium",
+    "aliases": [
+      "selenium webdriver",
+      "webdriver"
+    ]
+  },
+  {
+    "name": "Appium",
+    "normalized": "appium",
+    "aliases": []
+  },
+  {
+    "name": "JMeter",
+    "normalized": "jmeter",
+    "aliases": [
+      "apache jmeter"
+    ]
+  },
+  {
+    "name": "Software Testing",
+    "normalized": "testing",
+    "aliases": [
+      "manual testing",
+      "kiểm thử phần mềm",
+      "qa",
+      "qc",
+      "quality assurance",
+      "test case",
+      "testcase",
+      "viết test case"
+    ]
+  },
+  {
+    "name": "Automation Testing",
+    "normalized": "automation testing",
+    "aliases": [
+      "automated testing",
+      "test automation",
+      "kiểm thử tự động"
+    ]
+  },
+  {
+    "name": "TDD",
+    "normalized": "tdd",
+    "aliases": [
+      "test driven development"
+    ]
+  },
+  {
+    "name": "Performance Testing",
+    "normalized": "performance testing",
+    "aliases": [
+      "load testing",
+      "stress testing"
+    ]
+  },
+  {
+    "name": "API Testing",
+    "normalized": "api testing",
+    "aliases": [
+      "kiểm thử api"
+    ]
+  },
+  {
+    "name": "Agile",
+    "normalized": "agile",
+    "aliases": [
+      "agile methodology",
+      "phương pháp agile"
+    ]
+  },
+  {
+    "name": "Scrum",
+    "normalized": "scrum",
+    "aliases": [
+      "scrum master",
+      "scrum framework"
+    ]
+  },
+  {
+    "name": "Kanban",
+    "normalized": "kanban",
+    "aliases": []
+  },
+  {
+    "name": "Waterfall",
+    "normalized": "waterfall",
+    "aliases": []
+  },
+  {
+    "name": "Project Management",
+    "normalized": "project management",
+    "aliases": [
+      "quản lý dự án",
+      "pm",
+      "project manager",
+      "quản lý dự án phần mềm"
+    ]
+  },
+  {
+    "name": "Product Management",
+    "normalized": "product management",
+    "aliases": [
+      "product owner",
+      "quản lý sản phẩm"
+    ]
+  },
+  {
+    "name": "Business Analysis",
+    "normalized": "business analysis",
+    "aliases": [
+      "ba",
+      "business analyst",
+      "phân tích nghiệp vụ",
+      "phân tích yêu cầu",
+      "requirement analysis"
+    ]
+  },
+  {
+    "name": "UML",
+    "normalized": "uml",
+    "aliases": [
+      "use case",
+      "sơ đồ uml"
+    ]
+  },
+  {
+    "name": "Machine Learning",
+    "normalized": "machine learning",
+    "aliases": [
+      "ml",
+      "học máy",
+      "machine-learning"
+    ]
+  },
+  {
+    "name": "Deep Learning",
+    "normalized": "deep learning",
+    "aliases": [
+      "dl",
+      "học sâu",
+      "deep-learning",
+      "neural networks",
+      "mạng nơ-ron"
+    ]
+  },
+  {
+    "name": "NLP",
+    "normalized": "nlp",
+    "aliases": [
+      "natural language processing",
+      "xử lý ngôn ngữ tự nhiên"
+    ]
+  },
+  {
+    "name": "Computer Vision",
+    "normalized": "computer vision",
+    "aliases": [
+      "thị giác máy tính",
+      "xử lý ảnh",
+      "image processing"
+    ]
+  },
+  {
+    "name": "LLM",
+    "normalized": "llm",
+    "aliases": [
+      "large language model",
+      "large language models",
+      "llms",
+      "generative ai",
+      "genai",
+      "gen ai"
+    ]
+  },
+  {
+    "name": "Prompt Engineering",
+    "normalized": "prompt engineering",
+    "aliases": [
+      "prompt design"
+    ]
+  },
+  {
+    "name": "RAG",
+    "normalized": "rag",
+    "aliases": [
+      "retrieval augmented generation",
+      "retrieval-augmented generation"
+    ]
+  },
+  {
+    "name": "LangChain",
+    "normalized": "langchain",
+    "aliases": []
+  },
+  {
+    "name": "OpenAI API",
+    "normalized": "openai api",
+    "aliases": [
+      "openai",
+      "chatgpt api",
+      "gpt api"
+    ]
+  },
+  {
+    "name": "TensorFlow",
+    "normalized": "tensorflow",
+    "aliases": [
+      "tf",
+      "tensor flow"
+    ]
+  },
+  {
+    "name": "Keras",
+    "normalized": "keras",
+    "aliases": []
+  },
+  {
+    "name": "PyTorch",
+    "normalized": "pytorch",
+    "aliases": [
+      "torch",
+      "py torch"
+    ]
+  },
+  {
+    "name": "scikit-learn",
+    "normalized": "scikit-learn",
+    "aliases": [
+      "sklearn",
+      "scikit learn"
+    ]
+  },
+  {
+    "name": "Hugging Face",
+    "normalized": "huggingface",
+    "aliases": [
+      "transformers"
+    ]
+  },
+  {
+    "name": "OpenCV",
+    "normalized": "opencv",
+    "aliases": [
+      "open cv"
+    ]
+  },
+  {
+    "name": "XGBoost",
+    "normalized": "xgboost",
+    "aliases": [
+      "lightgbm"
+    ]
+  },
+  {
+    "name": "Pandas",
+    "normalized": "pandas",
+    "aliases": []
+  },
+  {
+    "name": "NumPy",
+    "normalized": "numpy",
+    "aliases": []
+  },
+  {
+    "name": "Matplotlib",
+    "normalized": "matplotlib",
+    "aliases": [
+      "seaborn"
+    ]
+  },
+  {
+    "name": "Jupyter Notebook",
+    "normalized": "jupyter",
+    "aliases": [
+      "jupyter notebooks",
+      "colab",
+      "google colab"
+    ]
+  },
+  {
+    "name": "Data Analysis",
+    "normalized": "data analysis",
+    "aliases": [
+      "phân tích dữ liệu",
+      "data analytics",
+      "data analyst",
+      "analytics"
+    ]
+  },
+  {
+    "name": "Data Science",
+    "normalized": "data science",
+    "aliases": [
+      "khoa học dữ liệu",
+      "data scientist"
+    ]
+  },
+  {
+    "name": "Data Mining",
+    "normalized": "data mining",
+    "aliases": [
+      "khai phá dữ liệu"
+    ]
+  },
+  {
+    "name": "Statistics",
+    "normalized": "statistics",
+    "aliases": [
+      "thống kê",
+      "statistical analysis",
+      "xác suất thống kê"
+    ]
+  },
+  {
+    "name": "Data Visualization",
+    "normalized": "data visualization",
+    "aliases": [
+      "trực quan hóa dữ liệu",
+      "data viz",
+      "dashboard"
+    ]
+  },
+  {
+    "name": "Data Engineering",
+    "normalized": "data engineering",
+    "aliases": [
+      "data engineer",
+      "data pipeline",
+      "data pipelines"
+    ]
+  },
+  {
+    "name": "ETL",
+    "normalized": "etl",
+    "aliases": [
+      "elt",
+      "etl pipeline"
+    ]
+  },
+  {
+    "name": "Data Warehouse",
+    "normalized": "data warehouse",
+    "aliases": [
+      "data warehousing",
+      "datawarehouse",
+      "kho dữ liệu",
+      "dwh"
+    ]
+  },
+  {
+    "name": "Big Data",
+    "normalized": "big data",
+    "aliases": [
+      "dữ liệu lớn"
+    ]
+  },
+  {
+    "name": "Hadoop",
+    "normalized": "hadoop",
+    "aliases": [
+      "hdfs",
+      "mapreduce"
+    ]
+  },
+  {
+    "name": "Apache Spark",
+    "normalized": "spark",
+    "aliases": [
+      "pyspark"
+    ]
+  },
+  {
+    "name": "Apache Airflow",
+    "normalized": "airflow",
+    "aliases": []
+  },
+  {
+    "name": "dbt",
+    "normalized": "dbt",
+    "aliases": [
+      "data build tool"
+    ]
+  },
+  {
+    "name": "Snowflake",
+    "normalized": "snowflake",
+    "aliases": []
+  },
+  {
+    "name": "BigQuery",
+    "normalized": "bigquery",
+    "aliases": [
+      "google bigquery",
+      "big query"
+    ]
+  },
+  {
+    "name": "Databricks",
+    "normalized": "databricks",
+    "aliases": []
+  },
+  {
+    "name": "Power BI",
+    "normalized": "power bi",
+    "aliases": [
+      "powerbi",
+      "microsoft power bi",
+      "power-bi"
+    ]
+  },
+  {
+    "name": "Tableau",
+    "normalized": "tableau",
+    "aliases": []
+  },
+  {
+    "name": "Looker",
+    "normalized": "looker",
+    "aliases": [
+      "looker studio",
+      "data studio",
+      "google data studio"
+    ]
+  },
+  {
+    "name": "Metabase",
+    "normalized": "metabase",
+    "aliases": []
+  },
+  {
+    "name": "Excel",
+    "normalized": "excel",
+    "aliases": [
+      "microsoft excel",
+      "ms excel",
+      "excel nâng cao",
+      "advanced excel",
+      "vlookup",
+      "pivot table",
+      "tin học văn phòng excel"
+    ]
+  },
+  {
+    "name": "Google Sheets",
+    "normalized": "google sheets",
+    "aliases": [
+      "google sheet",
+      "gsheet"
+    ]
+  },
+  {
+    "name": "Microsoft Word",
+    "normalized": "word",
+    "aliases": [
+      "ms word"
+    ]
+  },
+  {
+    "name": "PowerPoint",
+    "normalized": "powerpoint",
+    "aliases": [
+      "ms powerpoint",
+      "microsoft powerpoint",
+      "ppt"
+    ]
+  },
+  {
+    "name": "Microsoft Office",
+    "normalized": "ms office",
+    "aliases": [
+      "office",
+      "tin học văn phòng",
+      "office 365",
+      "microsoft 365"
+    ]
+  },
+  {
+    "name": "Google Workspace",
+    "normalized": "google workspace",
+    "aliases": [
+      "g suite",
+      "gsuite",
+      "google docs"
+    ]
+  },
+  {
+    "name": "MLOps",
+    "normalized": "mlops",
+    "aliases": [
+      "ml ops"
+    ]
+  },
+  {
+    "name": "Cybersecurity",
+    "normalized": "cybersecurity",
+    "aliases": [
+      "an ninh mạng",
+      "an toàn thông tin",
+      "information security",
+      "infosec",
+      "network security"
+    ]
+  },
+  {
+    "name": "Penetration Testing",
+    "normalized": "penetration testing",
+    "aliases": [
+      "pentest",
+      "pen test",
+      "pentesting",
+      "kiểm thử xâm nhập"
+    ]
+  },
+  {
+    "name": "OWASP",
+    "normalized": "owasp",
+    "aliases": [
+      "owasp top 10"
+    ]
+  },
+  {
+    "name": "Cryptography",
+    "normalized": "cryptography",
+    "aliases": [
+      "mã hóa",
+      "encryption"
+    ]
+  },
+  {
+    "name": "IAM",
+    "normalized": "iam",
+    "aliases": [
+      "identity and access management",
+      "oauth",
+      "oauth2",
+      "sso"
+    ]
+  },
+  {
+    "name": "JWT",
+    "normalized": "jwt",
+    "aliases": [
+      "json web token",
+      "json web tokens"
+    ]
+  },
+  {
+    "name": "SOC",
+    "normalized": "soc",
+    "aliases": [
+      "security operations",
+      "siem",
+      "splunk"
+    ]
+  },
+  {
+    "name": "Embedded Systems",
+    "normalized": "embedded",
+    "aliases": [
+      "lập trình nhúng",
+      "nhúng",
+      "embedded c",
+      "firmware"
+    ]
+  },
+  {
+    "name": "Arduino",
+    "normalized": "arduino",
+    "aliases": []
+  },
+  {
+    "name": "Raspberry Pi",
+    "normalized": "raspberry pi",
+    "aliases": [
+      "raspberrypi"
+    ]
+  },
+  {
+    "name": "IoT",
+    "normalized": "iot",
+    "aliases": [
+      "internet of things"
+    ]
+  },
+  {
+    "name": "STM32",
+    "normalized": "stm32",
+    "aliases": []
+  },
+  {
+    "name": "PLC",
+    "normalized": "plc",
+    "aliases": [
+      "lập trình plc",
+      "siemens plc",
+      "programmable logic controller"
+    ]
+  },
+  {
+    "name": "SCADA",
+    "normalized": "scada",
+    "aliases": []
+  },
+  {
+    "name": "AutoCAD",
+    "normalized": "autocad",
+    "aliases": [
+      "auto cad",
+      "cad"
+    ]
+  },
+  {
+    "name": "SolidWorks",
+    "normalized": "solidworks",
+    "aliases": [
+      "solid works"
+    ]
+  },
+  {
+    "name": "Revit",
+    "normalized": "revit",
+    "aliases": [
+      "autodesk revit"
+    ]
+  },
+  {
+    "name": "SketchUp",
+    "normalized": "sketchup",
+    "aliases": [
+      "sketch up"
+    ]
+  },
+  {
+    "name": "3ds Max",
+    "normalized": "3ds max",
+    "aliases": [
+      "3dsmax",
+      "3d max",
+      "3d studio max"
+    ]
+  },
+  {
+    "name": "Blender",
+    "normalized": "blender",
+    "aliases": [
+      "blender 3d"
+    ]
+  },
+  {
+    "name": "Maya",
+    "normalized": "maya",
+    "aliases": [
+      "autodesk maya"
+    ]
+  },
+  {
+    "name": "Simulink",
+    "normalized": "matlab simulink",
+    "aliases": []
+  },
+  {
+    "name": "Mechanical Design",
+    "normalized": "mechanical design",
+    "aliases": [
+      "thiết kế cơ khí",
+      "cơ khí"
+    ]
+  },
+  {
+    "name": "Electrical Engineering",
+    "normalized": "electrical engineering",
+    "aliases": [
+      "điện công nghiệp",
+      "kỹ thuật điện",
+      "điện - điện tử"
+    ]
+  },
+  {
+    "name": "Construction Management",
+    "normalized": "construction management",
+    "aliases": [
+      "quản lý thi công",
+      "giám sát thi công",
+      "quản lý công trình"
+    ]
+  },
+  {
+    "name": "Quality Control",
+    "normalized": "quality control",
+    "aliases": [
+      "kiểm soát chất lượng",
+      "kcs"
+    ]
+  },
+  {
+    "name": "Lean Manufacturing",
+    "normalized": "lean manufacturing",
+    "aliases": [
+      "lean",
+      "6s",
+      "5s",
+      "kaizen",
+      "six sigma"
+    ]
+  },
+  {
+    "name": "ISO 9001",
+    "normalized": "iso 9001",
+    "aliases": [
+      "iso9001"
+    ]
+  },
+  {
+    "name": "Photoshop",
+    "normalized": "photoshop",
+    "aliases": [
+      "adobe photoshop",
+      "ps",
+      "photoshop cc"
+    ]
+  },
+  {
+    "name": "Illustrator",
+    "normalized": "illustrator",
+    "aliases": [
+      "adobe illustrator",
+      "ai illustrator"
+    ]
+  },
+  {
+    "name": "InDesign",
+    "normalized": "indesign",
+    "aliases": [
+      "adobe indesign"
+    ]
+  },
+  {
+    "name": "Premiere Pro",
+    "normalized": "premiere pro",
+    "aliases": [
+      "adobe premiere",
+      "premiere",
+      "adobe premiere pro"
+    ]
+  },
+  {
+    "name": "After Effects",
+    "normalized": "after effects",
+    "aliases": [
+      "adobe after effects",
+      "ae"
+    ]
+  },
+  {
+    "name": "Lightroom",
+    "normalized": "lightroom",
+    "aliases": [
+      "adobe lightroom"
+    ]
+  },
+  {
+    "name": "Figma",
+    "normalized": "figma",
+    "aliases": [
+      "figma design"
+    ]
+  },
+  {
+    "name": "Sketch",
+    "normalized": "sketch",
+    "aliases": [
+      "sketch app"
+    ]
+  },
+  {
+    "name": "Adobe XD",
+    "normalized": "adobe xd",
+    "aliases": [
+      "xd"
+    ]
+  },
+  {
+    "name": "Canva",
+    "normalized": "canva",
+    "aliases": []
+  },
+  {
+    "name": "CapCut",
+    "normalized": "capcut",
+    "aliases": [
+      "cap cut"
+    ]
+  },
+  {
+    "name": "DaVinci Resolve",
+    "normalized": "davinci resolve",
+    "aliases": [
+      "davinci"
+    ]
+  },
+  {
+    "name": "UI Design",
+    "normalized": "ui design",
+    "aliases": [
+      "thiết kế ui",
+      "user interface design",
+      "ui",
+      "thiết kế giao diện"
+    ]
+  },
+  {
+    "name": "UX Design",
+    "normalized": "ux design",
+    "aliases": [
+      "thiết kế ux",
+      "user experience",
+      "ux",
+      "ux research",
+      "nghiên cứu người dùng"
+    ]
+  },
+  {
+    "name": "Graphic Design",
+    "normalized": "graphic design",
+    "aliases": [
+      "thiết kế đồ họa",
+      "đồ họa",
+      "đồ họa máy tính"
+    ]
+  },
+  {
+    "name": "Web Design",
+    "normalized": "web design",
+    "aliases": [
+      "thiết kế web"
+    ]
+  },
+  {
+    "name": "Wireframing",
+    "normalized": "wireframing",
+    "aliases": [
+      "wireframe",
+      "prototyping",
+      "prototype",
+      "mockup"
+    ]
+  },
+  {
+    "name": "Branding",
+    "normalized": "branding",
+    "aliases": [
+      "nhận diện thương hiệu",
+      "brand identity",
+      "xây dựng thương hiệu"
+    ]
+  },
+  {
+    "name": "Motion Graphics",
+    "normalized": "motion graphics",
+    "aliases": [
+      "đồ họa chuyển động"
+    ]
+  },
+  {
+    "name": "Video Editing",
+    "normalized": "video editing",
+    "aliases": [
+      "dựng phim",
+      "dựng video",
+      "biên tập video"
+    ]
+  },
+  {
+    "name": "Photography",
+    "normalized": "photography",
+    "aliases": [
+      "chụp ảnh",
+      "nhiếp ảnh"
+    ]
+  },
+  {
+    "name": "Typography",
+    "normalized": "typography",
+    "aliases": []
+  },
+  {
+    "name": "Design System",
+    "normalized": "design system",
+    "aliases": [
+      "design systems"
+    ]
+  },
+  {
+    "name": "SEO",
+    "normalized": "seo",
+    "aliases": [
+      "search engine optimization",
+      "tối ưu công cụ tìm kiếm",
+      "seo onpage",
+      "seo offpage",
+      "seo website"
+    ]
+  },
+  {
+    "name": "SEM",
+    "normalized": "sem",
+    "aliases": [
+      "search engine marketing"
+    ]
+  },
+  {
+    "name": "Google Ads",
+    "normalized": "google ads",
+    "aliases": [
+      "adwords",
+      "google adwords",
+      "ggads",
+      "google ad"
+    ]
+  },
+  {
+    "name": "Facebook Ads",
+    "normalized": "facebook ads",
+    "aliases": [
+      "fb ads",
+      "meta ads",
+      "facebook advertising",
+      "quảng cáo facebook",
+      "facebook ad",
+      "fb ad"
+    ]
+  },
+  {
+    "name": "TikTok Ads",
+    "normalized": "tiktok ads",
+    "aliases": [
+      "tiktok ad",
+      "quảng cáo tiktok"
+    ]
+  },
+  {
+    "name": "Google Analytics",
+    "normalized": "google analytics",
+    "aliases": [
+      "ga4",
+      "ga",
+      "universal analytics"
+    ]
+  },
+  {
+    "name": "Google Tag Manager",
+    "normalized": "google tag manager",
+    "aliases": [
+      "gtm"
+    ]
+  },
+  {
+    "name": "Google Search Console",
+    "normalized": "google search console",
+    "aliases": [
+      "gsc",
+      "search console"
+    ]
+  },
+  {
+    "name": "Ahrefs",
+    "normalized": "ahrefs",
+    "aliases": []
+  },
+  {
+    "name": "SEMrush",
+    "normalized": "semrush",
+    "aliases": []
+  },
+  {
+    "name": "HubSpot",
+    "normalized": "hubspot",
+    "aliases": [
+      "hub spot"
+    ]
+  },
+  {
+    "name": "Mailchimp",
+    "normalized": "mailchimp",
+    "aliases": [
+      "mail chimp"
+    ]
+  },
+  {
+    "name": "Digital Marketing",
+    "normalized": "digital marketing",
+    "aliases": [
+      "marketing online",
+      "tiếp thị số",
+      "online marketing",
+      "marketing số"
+    ]
+  },
+  {
+    "name": "Content Marketing",
+    "normalized": "content marketing",
+    "aliases": [
+      "marketing nội dung",
+      "content marketing strategy"
+    ]
+  },
+  {
+    "name": "Content Writing",
+    "normalized": "content writing",
+    "aliases": [
+      "copywriting",
+      "viết content",
+      "viết nội dung",
+      "content creator",
+      "copywriter",
+      "content creation"
+    ]
+  },
+  {
+    "name": "Social Media Marketing",
+    "normalized": "social media marketing",
+    "aliases": [
+      "smm",
+      "social media",
+      "quản lý fanpage",
+      "facebook marketing",
+      "mạng xã hội"
+    ]
+  },
+  {
+    "name": "Email Marketing",
+    "normalized": "email marketing",
+    "aliases": []
+  },
+  {
+    "name": "Performance Marketing",
+    "normalized": "performance marketing",
+    "aliases": []
+  },
+  {
+    "name": "Affiliate Marketing",
+    "normalized": "affiliate marketing",
+    "aliases": [
+      "tiếp thị liên kết"
+    ]
+  },
+  {
+    "name": "Influencer Marketing",
+    "normalized": "influencer marketing",
+    "aliases": [
+      "kol marketing",
+      "kol",
+      "koc"
+    ]
+  },
+  {
+    "name": "Market Research",
+    "normalized": "market research",
+    "aliases": [
+      "nghiên cứu thị trường"
+    ]
+  },
+  {
+    "name": "Marketing Strategy",
+    "normalized": "marketing strategy",
+    "aliases": [
+      "chiến lược marketing",
+      "brand marketing",
+      "brand management"
+    ]
+  },
+  {
+    "name": "Public Relations",
+    "normalized": "pr",
+    "aliases": [
+      "quan hệ công chúng",
+      "truyền thông",
+      "communications"
+    ]
+  },
+  {
+    "name": "Event Management",
+    "normalized": "event management",
+    "aliases": [
+      "tổ chức sự kiện",
+      "event planning"
+    ]
+  },
+  {
+    "name": "CRM",
+    "normalized": "crm",
+    "aliases": [
+      "customer relationship management",
+      "quản lý quan hệ khách hàng"
+    ]
+  },
+  {
+    "name": "Salesforce",
+    "normalized": "salesforce",
+    "aliases": [
+      "sfdc"
+    ]
+  },
+  {
+    "name": "Zoho CRM",
+    "normalized": "zoho",
+    "aliases": []
+  },
+  {
+    "name": "Sales",
+    "normalized": "sales",
+    "aliases": [
+      "bán hàng",
+      "kỹ năng bán hàng",
+      "sales skills",
+      "kinh doanh",
+      "sale"
+    ]
+  },
+  {
+    "name": "B2B Sales",
+    "normalized": "b2b sales",
+    "aliases": [
+      "b2b",
+      "bán hàng b2b"
+    ]
+  },
+  {
+    "name": "B2C Sales",
+    "normalized": "b2c sales",
+    "aliases": [
+      "b2c"
+    ]
+  },
+  {
+    "name": "Account Management",
+    "normalized": "account management",
+    "aliases": [
+      "quản lý tài khoản khách hàng",
+      "key account",
+      "kam"
+    ]
+  },
+  {
+    "name": "Lead Generation",
+    "normalized": "lead generation",
+    "aliases": [
+      "tìm kiếm khách hàng",
+      "tìm kiếm khách hàng tiềm năng"
+    ]
+  },
+  {
+    "name": "Telesales",
+    "normalized": "telesales",
+    "aliases": [
+      "bán hàng qua điện thoại",
+      "tele sales"
+    ]
+  },
+  {
+    "name": "Customer Service",
+    "normalized": "customer service",
+    "aliases": [
+      "chăm sóc khách hàng",
+      "customer care",
+      "cskh",
+      "customer support",
+      "hỗ trợ khách hàng"
+    ]
+  },
+  {
+    "name": "Negotiation",
+    "normalized": "negotiation",
+    "aliases": [
+      "đàm phán",
+      "kỹ năng đàm phán",
+      "thương lượng"
+    ]
+  },
+  {
+    "name": "Retail Management",
+    "normalized": "retail",
+    "aliases": [
+      "bán lẻ",
+      "quản lý cửa hàng"
+    ]
+  },
+  {
+    "name": "E-commerce",
+    "normalized": "e-commerce",
+    "aliases": [
+      "ecommerce",
+      "thương mại điện tử",
+      "tmđt",
+      "shopee",
+      "lazada",
+      "tiki"
+    ]
+  },
+  {
+    "name": "Shopify",
+    "normalized": "shopify",
+    "aliases": []
+  },
+  {
+    "name": "Accounting",
+    "normalized": "accounting",
+    "aliases": [
+      "kế toán",
+      "kế toán tổng hợp",
+      "kế toán thuế",
+      "general accounting"
+    ]
+  },
+  {
+    "name": "Bookkeeping",
+    "normalized": "bookkeeping",
+    "aliases": [
+      "ghi sổ kế toán",
+      "sổ sách"
+    ]
+  },
+  {
+    "name": "Auditing",
+    "normalized": "auditing",
+    "aliases": [
+      "kiểm toán",
+      "audit",
+      "internal audit",
+      "kiểm toán nội bộ"
+    ]
+  },
+  {
+    "name": "Tax",
+    "normalized": "tax",
+    "aliases": [
+      "thuế",
+      "kê khai thuế",
+      "báo cáo thuế",
+      "báo cáo thuế gtgt",
+      "quyết toán thuế"
+    ]
+  },
+  {
+    "name": "Financial Analysis",
+    "normalized": "financial analysis",
+    "aliases": [
+      "phân tích tài chính",
+      "fp&a",
+      "financial modeling",
+      "financial modelling"
+    ]
+  },
+  {
+    "name": "Financial Reporting",
+    "normalized": "financial reporting",
+    "aliases": [
+      "báo cáo tài chính",
+      "bctc"
+    ]
+  },
+  {
+    "name": "Budgeting",
+    "normalized": "budgeting",
+    "aliases": [
+      "lập ngân sách",
+      "dự toán",
+      "budget planning"
+    ]
+  },
+  {
+    "name": "Banking",
+    "normalized": "banking",
+    "aliases": [
+      "ngân hàng",
+      "tín dụng",
+      "credit analysis"
+    ]
+  },
+  {
+    "name": "Investment",
+    "normalized": "investment",
+    "aliases": [
+      "đầu tư",
+      "chứng khoán",
+      "securities",
+      "portfolio management"
+    ]
+  },
+  {
+    "name": "Risk Management",
+    "normalized": "risk management",
+    "aliases": [
+      "quản trị rủi ro",
+      "quản lý rủi ro"
+    ]
+  },
+  {
+    "name": "Treasury",
+    "normalized": "treasury",
+    "aliases": [
+      "ngân quỹ",
+      "thủ quỹ"
+    ]
+  },
+  {
+    "name": "Payroll",
+    "normalized": "payroll",
+    "aliases": [
+      "tính lương",
+      "bảng lương",
+      "lương thưởng"
+    ]
+  },
+  {
+    "name": "Accounts Payable",
+    "normalized": "accounts payable",
+    "aliases": [
+      "ap",
+      "công nợ phải trả"
+    ]
+  },
+  {
+    "name": "Accounts Receivable",
+    "normalized": "accounts receivable",
+    "aliases": [
+      "ar",
+      "công nợ phải thu",
+      "công nợ"
+    ]
+  },
+  {
+    "name": "IFRS",
+    "normalized": "ifrs",
+    "aliases": [
+      "vas",
+      "chuẩn mực kế toán"
+    ]
+  },
+  {
+    "name": "MISA",
+    "normalized": "misa",
+    "aliases": [
+      "misa sme",
+      "misa accounting",
+      "phần mềm misa"
+    ]
+  },
+  {
+    "name": "FAST Accounting",
+    "normalized": "fast accounting",
+    "aliases": [
+      "fast",
+      "phần mềm fast"
+    ]
+  },
+  {
+    "name": "SAP",
+    "normalized": "sap",
+    "aliases": [
+      "sap erp",
+      "sap fico",
+      "sap s/4hana",
+      "sap hana"
+    ]
+  },
+  {
+    "name": "ERP",
+    "normalized": "erp",
+    "aliases": [
+      "odoo",
+      "oracle erp",
+      "netsuite",
+      "microsoft dynamics",
+      "hệ thống erp"
+    ]
+  },
+  {
+    "name": "QuickBooks",
+    "normalized": "quickbooks",
+    "aliases": [
+      "quick books"
+    ]
+  },
+  {
+    "name": "Recruitment",
+    "normalized": "recruitment",
+    "aliases": [
+      "tuyển dụng",
+      "talent acquisition",
+      "headhunt",
+      "headhunting",
+      "sourcing",
+      "talent sourcing"
+    ]
+  },
+  {
+    "name": "HR Management",
+    "normalized": "hr management",
+    "aliases": [
+      "quản trị nhân sự",
+      "nhân sự",
+      "human resources",
+      "hr",
+      "hrm",
+      "hành chính nhân sự"
+    ]
+  },
+  {
+    "name": "Training & Development",
+    "normalized": "training",
+    "aliases": [
+      "đào tạo",
+      "đào tạo nội bộ",
+      "learning and development",
+      "l&d",
+      "training and development"
+    ]
+  },
+  {
+    "name": "Compensation & Benefits",
+    "normalized": "compensation",
+    "aliases": [
+      "c&b",
+      "chế độ phúc lợi",
+      "compensation and benefits"
+    ]
+  },
+  {
+    "name": "Employee Relations",
+    "normalized": "employee relations",
+    "aliases": [
+      "quan hệ lao động",
+      "employer branding"
+    ]
+  },
+  {
+    "name": "Labor Law",
+    "normalized": "labor law",
+    "aliases": [
+      "luật lao động",
+      "bảo hiểm xã hội",
+      "bhxh"
+    ]
+  },
+  {
+    "name": "Office Administration",
+    "normalized": "administration",
+    "aliases": [
+      "hành chính",
+      "hành chính văn phòng",
+      "admin",
+      "văn thư",
+      "lưu trữ"
+    ]
+  },
+  {
+    "name": "Secretarial Work",
+    "normalized": "secretary",
+    "aliases": [
+      "thư ký",
+      "trợ lý",
+      "executive assistant",
+      "personal assistant"
+    ]
+  },
+  {
+    "name": "Teaching",
+    "normalized": "teaching",
+    "aliases": [
+      "giảng dạy",
+      "giáo viên",
+      "dạy học",
+      "instructor",
+      "tutoring",
+      "gia sư"
+    ]
+  },
+  {
+    "name": "Lesson Planning",
+    "normalized": "lesson planning",
+    "aliases": [
+      "soạn giáo án",
+      "giáo án",
+      "thiết kế bài giảng",
+      "curriculum development",
+      "xây dựng chương trình học"
+    ]
+  },
+  {
+    "name": "Classroom Management",
+    "normalized": "classroom management",
+    "aliases": [
+      "quản lý lớp học"
+    ]
+  },
+  {
+    "name": "E-learning",
+    "normalized": "elearning",
+    "aliases": [
+      "lms",
+      "moodle",
+      "học trực tuyến"
+    ]
+  },
+  {
+    "name": "TESOL",
+    "normalized": "tesol",
+    "aliases": [
+      "tefl",
+      "celta",
+      "ielts teaching",
+      "giảng dạy ielts"
+    ]
+  },
+  {
+    "name": "Early Childhood Education",
+    "normalized": "early childhood education",
+    "aliases": [
+      "giáo dục mầm non",
+      "mầm non"
+    ]
+  },
+  {
+    "name": "Nursing",
+    "normalized": "nursing",
+    "aliases": [
+      "điều dưỡng",
+      "chăm sóc bệnh nhân",
+      "patient care"
+    ]
+  },
+  {
+    "name": "Pharmacy",
+    "normalized": "pharmacy",
+    "aliases": [
+      "dược",
+      "dược sĩ",
+      "dược phẩm"
+    ]
+  },
+  {
+    "name": "Clinical Skills",
+    "normalized": "clinical",
+    "aliases": [
+      "lâm sàng",
+      "khám chữa bệnh",
+      "clinical practice"
+    ]
+  },
+  {
+    "name": "Medical Knowledge",
+    "normalized": "medical",
+    "aliases": [
+      "y khoa",
+      "bác sĩ",
+      "y tế"
+    ]
+  },
+  {
+    "name": "First Aid",
+    "normalized": "first aid",
+    "aliases": [
+      "sơ cứu",
+      "cấp cứu"
+    ]
+  },
+  {
+    "name": "Medical Devices",
+    "normalized": "medical device",
+    "aliases": [
+      "thiết bị y tế"
+    ]
+  },
+  {
+    "name": "Nutrition",
+    "normalized": "nutrition",
+    "aliases": [
+      "dinh dưỡng"
+    ]
+  },
+  {
+    "name": "Supply Chain Management",
+    "normalized": "supply chain",
+    "aliases": [
+      "chuỗi cung ứng",
+      "scm"
+    ]
+  },
+  {
+    "name": "Logistics",
+    "normalized": "logistics",
+    "aliases": [
+      "vận tải",
+      "giao nhận",
+      "forwarding",
+      "freight forwarding"
+    ]
+  },
+  {
+    "name": "Warehouse Management",
+    "normalized": "warehouse management",
+    "aliases": [
+      "quản lý kho",
+      "wms",
+      "kho vận",
+      "thủ kho"
+    ]
+  },
+  {
+    "name": "Inventory Management",
+    "normalized": "inventory management",
+    "aliases": [
+      "quản lý tồn kho",
+      "kiểm kê"
+    ]
+  },
+  {
+    "name": "Procurement",
+    "normalized": "procurement",
+    "aliases": [
+      "mua hàng",
+      "purchasing",
+      "thu mua",
+      "sourcing nhà cung cấp"
+    ]
+  },
+  {
+    "name": "Import Export",
+    "normalized": "import export",
+    "aliases": [
+      "xuất nhập khẩu",
+      "xnk",
+      "customs",
+      "thủ tục hải quan",
+      "hải quan",
+      "incoterms"
+    ]
+  },
+  {
+    "name": "Demand Planning",
+    "normalized": "demand planning",
+    "aliases": [
+      "hoạch định",
+      "production planning",
+      "kế hoạch sản xuất"
+    ]
+  },
+  {
+    "name": "Hotel Management",
+    "normalized": "hotel management",
+    "aliases": [
+      "quản lý khách sạn",
+      "khách sạn"
+    ]
+  },
+  {
+    "name": "Front Office",
+    "normalized": "front office",
+    "aliases": [
+      "lễ tân",
+      "reception",
+      "receptionist",
+      "front desk"
+    ]
+  },
+  {
+    "name": "Food & Beverage",
+    "normalized": "food and beverage",
+    "aliases": [
+      "f&b",
+      "fnb",
+      "nhà hàng",
+      "phục vụ bàn",
+      "bartender",
+      "barista",
+      "pha chế"
+    ]
+  },
+  {
+    "name": "Culinary Arts",
+    "normalized": "culinary",
+    "aliases": [
+      "nấu ăn",
+      "đầu bếp",
+      "bếp",
+      "chef",
+      "cooking"
+    ]
+  },
+  {
+    "name": "Housekeeping",
+    "normalized": "housekeeping",
+    "aliases": [
+      "buồng phòng"
+    ]
+  },
+  {
+    "name": "Tour Guide",
+    "normalized": "tour guide",
+    "aliases": [
+      "hướng dẫn viên",
+      "du lịch",
+      "tourism",
+      "travel",
+      "điều hành tour"
+    ]
+  },
+  {
+    "name": "Communication",
+    "normalized": "communication",
+    "aliases": [
+      "giao tiếp",
+      "kỹ năng giao tiếp",
+      "communication skills",
+      "kỹ năng truyền đạt"
+    ]
+  },
+  {
+    "name": "Teamwork",
+    "normalized": "teamwork",
+    "aliases": [
+      "làm việc nhóm",
+      "kỹ năng làm việc nhóm",
+      "team work",
+      "team player",
+      "collaboration",
+      "teamwork skills"
+    ]
+  },
+  {
+    "name": "Leadership",
+    "normalized": "leadership",
+    "aliases": [
+      "lãnh đạo",
+      "kỹ năng lãnh đạo",
+      "team leadership",
+      "quản lý nhóm",
+      "team lead",
+      "quản lý đội nhóm"
+    ]
+  },
+  {
+    "name": "Problem Solving",
+    "normalized": "problem solving",
+    "aliases": [
+      "giải quyết vấn đề",
+      "kỹ năng giải quyết vấn đề",
+      "problem-solving",
+      "analytical thinking",
+      "tư duy phân tích"
+    ]
+  },
+  {
+    "name": "Critical Thinking",
+    "normalized": "critical thinking",
+    "aliases": [
+      "tư duy phản biện",
+      "tư duy logic",
+      "logical thinking"
+    ]
+  },
+  {
+    "name": "Time Management",
+    "normalized": "time management",
+    "aliases": [
+      "quản lý thời gian",
+      "kỹ năng quản lý thời gian",
+      "sắp xếp công việc"
+    ]
+  },
+  {
+    "name": "Presentation",
+    "normalized": "presentation",
+    "aliases": [
+      "thuyết trình",
+      "kỹ năng thuyết trình",
+      "presentation skills",
+      "public speaking"
+    ]
+  },
+  {
+    "name": "Adaptability",
+    "normalized": "adaptability",
+    "aliases": [
+      "khả năng thích nghi",
+      "thích nghi",
+      "flexibility",
+      "linh hoạt"
+    ]
+  },
+  {
+    "name": "Creativity",
+    "normalized": "creativity",
+    "aliases": [
+      "sáng tạo",
+      "tư duy sáng tạo",
+      "creative thinking"
+    ]
+  },
+  {
+    "name": "Self-learning",
+    "normalized": "self-learning",
+    "aliases": [
+      "tự học",
+      "khả năng tự học",
+      "self learning",
+      "ham học hỏi",
+      "fast learner"
+    ]
+  },
+  {
+    "name": "Responsibility",
+    "normalized": "work ethic",
+    "aliases": [
+      "trách nhiệm",
+      "tinh thần trách nhiệm",
+      "chịu áp lực",
+      "làm việc dưới áp lực",
+      "work under pressure",
+      "chăm chỉ"
+    ]
+  },
+  {
+    "name": "Decision Making",
+    "normalized": "decision making",
+    "aliases": [
+      "ra quyết định"
+    ]
+  },
+  {
+    "name": "Conflict Resolution",
+    "normalized": "conflict resolution",
+    "aliases": [
+      "giải quyết xung đột"
+    ]
+  },
+  {
+    "name": "Mentoring",
+    "normalized": "mentoring",
+    "aliases": [
+      "coaching",
+      "hướng dẫn nhân viên mới"
+    ]
+  },
+  {
+    "name": "Emotional Intelligence",
+    "normalized": "emotional intelligence",
+    "aliases": [
+      "eq",
+      "trí tuệ cảm xúc"
+    ]
+  },
+  {
+    "name": "Planning & Organization",
+    "normalized": "planning",
+    "aliases": [
+      "lập kế hoạch",
+      "kỹ năng tổ chức",
+      "organization skills",
+      "organizational skills"
+    ]
+  },
+  {
+    "name": "Attention to Detail",
+    "normalized": "attention to detail",
+    "aliases": [
+      "tỉ mỉ",
+      "cẩn thận",
+      "chú ý chi tiết"
+    ]
+  },
+  {
+    "name": "English",
+    "normalized": "english",
+    "aliases": [
+      "tiếng anh",
+      "anh văn",
+      "english language"
+    ]
+  },
+  {
+    "name": "IELTS",
+    "normalized": "ielts",
+    "aliases": [
+      "ielts 6.5",
+      "ielts 7.0",
+      "ielts academic"
+    ]
+  },
+  {
+    "name": "TOEIC",
+    "normalized": "toeic",
+    "aliases": [
+      "toeic 700",
+      "toeic 800"
+    ]
+  },
+  {
+    "name": "TOEFL",
+    "normalized": "toefl",
+    "aliases": [
+      "toefl ibt"
+    ]
+  },
+  {
+    "name": "Japanese",
+    "normalized": "japanese",
+    "aliases": [
+      "tiếng nhật",
+      "nhật ngữ",
+      "jlpt",
+      "jlpt n2",
+      "jlpt n3",
+      "jlpt n1"
+    ]
+  },
+  {
+    "name": "Korean",
+    "normalized": "korean",
+    "aliases": [
+      "tiếng hàn",
+      "topik",
+      "hàn ngữ"
+    ]
+  },
+  {
+    "name": "Chinese",
+    "normalized": "chinese",
+    "aliases": [
+      "tiếng trung",
+      "hoa ngữ",
+      "hsk",
+      "mandarin",
+      "tiếng hoa"
+    ]
+  },
+  {
+    "name": "French",
+    "normalized": "french",
+    "aliases": [
+      "tiếng pháp",
+      "pháp ngữ"
+    ]
+  },
+  {
+    "name": "German",
+    "normalized": "german",
+    "aliases": [
+      "tiếng đức",
+      "đức ngữ"
+    ]
+  },
+  {
+    "name": "Russian",
+    "normalized": "russian",
+    "aliases": [
+      "tiếng nga"
+    ]
+  },
+  {
+    "name": "Spanish",
+    "normalized": "spanish",
+    "aliases": [
+      "tiếng tây ban nha"
+    ]
+  },
+  {
+    "name": "Thai",
+    "normalized": "thai",
+    "aliases": [
+      "tiếng thái"
+    ]
+  },
+  {
+    "name": "Vietnamese",
+    "normalized": "vietnamese",
+    "aliases": [
+      "tiếng việt"
+    ]
+  },
+  {
+    "name": "Translation",
+    "normalized": "translation",
+    "aliases": [
+      "dịch thuật",
+      "biên dịch",
+      "phiên dịch",
+      "interpreter",
+      "translator",
+      "interpretation"
+    ]
+  },
+  {
+    "name": "BIM",
+    "normalized": "bim",
+    "aliases": [
+      "building information modeling"
+    ]
+  },
+  {
+    "name": "GIS",
+    "normalized": "gis",
+    "aliases": [
+      "arcgis",
+      "qgis"
+    ]
+  },
+  {
+    "name": "SAP2000",
+    "normalized": "sap2000",
+    "aliases": [
+      "etabs",
+      "staad pro",
+      "staad"
+    ]
+  },
+  {
+    "name": "Primavera P6",
+    "normalized": "primavera",
+    "aliases": [
+      "p6",
+      "ms project",
+      "microsoft project"
+    ]
+  },
+  {
+    "name": "Tableau Prep",
+    "normalized": "tableau prep",
+    "aliases": []
+  },
+  {
+    "name": "VBA",
+    "normalized": "vba",
+    "aliases": [
+      "excel vba",
+      "macro",
+      "macros",
+      "visual basic for applications"
+    ]
+  },
+  {
+    "name": "Google Apps Script",
+    "normalized": "google apps script",
+    "aliases": [
+      "apps script"
+    ]
+  },
+  {
+    "name": "Zapier",
+    "normalized": "zapier",
+    "aliases": [
+      "make.com",
+      "integromat",
+      "n8n",
+      "no-code automation"
+    ]
+  },
+  {
+    "name": "RPA",
+    "normalized": "rpa",
+    "aliases": [
+      "robotic process automation",
+      "uipath",
+      "automation anywhere"
+    ]
+  },
+  {
+    "name": "Low-code",
+    "normalized": "low-code",
+    "aliases": [
+      "low code",
+      "no-code",
+      "no code",
+      "outsystems",
+      "power apps",
+      "powerapps",
+      "power automate"
+    ]
+  },
+  {
+    "name": "Strapi",
+    "normalized": "strapi",
+    "aliases": [
+      "headless cms"
+    ]
+  },
+  {
+    "name": "Contentful",
+    "normalized": "contentful",
+    "aliases": []
+  },
+  {
+    "name": "Solidity",
+    "normalized": "solidity",
+    "aliases": [
+      "smart contract",
+      "smart contracts"
+    ]
+  },
+  {
+    "name": "Blockchain",
+    "normalized": "blockchain",
+    "aliases": [
+      "web3",
+      "ethereum",
+      "blockchain development"
+    ]
+  },
+  {
+    "name": "Haskell",
+    "normalized": "haskell",
+    "aliases": []
+  },
+  {
+    "name": "Elixir",
+    "normalized": "elixir",
+    "aliases": [
+      "phoenix framework"
+    ]
+  },
+  {
+    "name": "Objective-C",
+    "normalized": "objective-c",
+    "aliases": [
+      "objective c",
+      "objc"
+    ]
+  },
+  {
+    "name": "Assembly",
+    "normalized": "assembly",
+    "aliases": [
+      "asm",
+      "assembly language"
+    ]
+  },
+  {
+    "name": "VB.NET",
+    "normalized": "vb.net",
+    "aliases": [
+      "vb net",
+      "visual basic",
+      "vb6"
+    ]
+  },
+  {
+    "name": "Delphi",
+    "normalized": "delphi",
+    "aliases": [
+      "object pascal",
+      "pascal"
+    ]
+  },
+  {
+    "name": "COBOL",
+    "normalized": "cobol",
+    "aliases": [
+      "mainframe"
+    ]
+  },
+  {
+    "name": "WebRTC",
+    "normalized": "webrtc",
+    "aliases": []
+  },
+  {
+    "name": "FFmpeg",
+    "normalized": "ffmpeg",
+    "aliases": []
+  },
+  {
+    "name": "Three.js",
+    "normalized": "three.js",
+    "aliases": [
+      "threejs",
+      "three js",
+      "webgl"
+    ]
+  },
+  {
+    "name": "D3.js",
+    "normalized": "d3",
+    "aliases": [
+      "d3js"
+    ]
+  },
+  {
+    "name": "Chart.js",
+    "normalized": "chart.js",
+    "aliases": [
+      "chartjs",
+      "chart js",
+      "echarts",
+      "highcharts",
+      "recharts"
+    ]
+  },
+  {
+    "name": "Storybook",
+    "normalized": "storybook",
+    "aliases": []
+  },
+  {
+    "name": "PWA",
+    "normalized": "pwa",
+    "aliases": [
+      "progressive web app",
+      "progressive web apps"
+    ]
+  },
+  {
+    "name": "Web Accessibility",
+    "normalized": "web accessibility",
+    "aliases": [
+      "accessibility",
+      "a11y",
+      "wcag"
+    ]
+  },
+  {
+    "name": "Responsive Design",
+    "normalized": "responsive design",
+    "aliases": [
+      "responsive",
+      "responsive web design",
+      "mobile first",
+      "giao diện responsive"
+    ]
+  },
+  {
+    "name": "Zustand",
+    "normalized": "zustand",
+    "aliases": [
+      "mobx",
+      "recoil",
+      "context api"
+    ]
+  },
+  {
+    "name": "React Query",
+    "normalized": "react query",
+    "aliases": [
+      "tanstack query",
+      "tanstack react query",
+      "swr"
+    ]
+  },
+  {
+    "name": "React Router",
+    "normalized": "react router",
+    "aliases": [
+      "react-router"
+    ]
+  },
+  {
+    "name": "Axios",
+    "normalized": "axios",
+    "aliases": [
+      "fetch api"
+    ]
+  },
+  {
+    "name": "RxJS",
+    "normalized": "rxjs",
+    "aliases": [
+      "reactive programming"
+    ]
+  },
+  {
+    "name": "Code Review",
+    "normalized": "code review",
+    "aliases": [
+      "review code"
+    ]
+  },
+  {
+    "name": "Refactoring",
+    "normalized": "refactoring",
+    "aliases": [
+      "tái cấu trúc code"
+    ]
+  },
+  {
+    "name": "Technical Writing",
+    "normalized": "technical writing",
+    "aliases": [
+      "viết tài liệu kỹ thuật",
+      "documentation",
+      "tài liệu kỹ thuật"
+    ]
+  },
+  {
+    "name": "Monitoring & Logging",
+    "normalized": "monitoring",
+    "aliases": [
+      "logging",
+      "observability",
+      "sentry",
+      "new relic",
+      "elastic apm"
+    ]
+  },
+  {
+    "name": "Load Balancing",
+    "normalized": "load balancing",
+    "aliases": [
+      "haproxy",
+      "load balancer"
+    ]
+  },
+  {
+    "name": "SRE",
+    "normalized": "sre",
+    "aliases": [
+      "site reliability engineering"
+    ]
+  },
+  {
+    "name": "Shell Scripting",
+    "normalized": "shell scripting",
+    "aliases": [
+      "sh",
+      "zsh"
+    ]
+  },
+  {
+    "name": "VMware",
+    "normalized": "vmware",
+    "aliases": [
+      "vsphere",
+      "virtualization",
+      "ảo hóa",
+      "hyper-v",
+      "proxmox"
+    ]
+  },
+  {
+    "name": "Firewall",
+    "normalized": "firewall",
+    "aliases": [
+      "fortigate",
+      "palo alto",
+      "pfsense",
+      "tường lửa"
+    ]
+  },
+  {
+    "name": "IT Support",
+    "normalized": "it support",
+    "aliases": [
+      "helpdesk",
+      "help desk",
+      "hỗ trợ kỹ thuật",
+      "it helpdesk",
+      "sửa chữa máy tính",
+      "technical support"
+    ]
+  },
+  {
+    "name": "System Administration",
+    "normalized": "system administration",
+    "aliases": [
+      "sysadmin",
+      "quản trị hệ thống",
+      "system admin",
+      "quản trị server"
+    ]
+  },
+  {
+    "name": "Oracle APEX",
+    "normalized": "oracle apex",
+    "aliases": []
+  },
+  {
+    "name": "Database Administration",
+    "normalized": "database administration",
+    "aliases": [
+      "dba",
+      "quản trị csdl",
+      "quản trị cơ sở dữ liệu"
+    ]
+  },
+  {
+    "name": "Data Entry",
+    "normalized": "data entry",
+    "aliases": [
+      "nhập liệu",
+      "nhập dữ liệu"
+    ]
+  },
+  {
+    "name": "SAP ABAP",
+    "normalized": "sap abap",
+    "aliases": [
+      "abap"
+    ]
+  },
+  {
+    "name": "Salesforce Apex",
+    "normalized": "salesforce apex",
+    "aliases": []
+  },
+  {
+    "name": "TikTok Shop",
+    "normalized": "tiktok shop",
+    "aliases": [
+      "tiktokshop"
+    ]
+  },
+  {
+    "name": "Livestream Selling",
+    "normalized": "livestream",
+    "aliases": [
+      "bán hàng livestream",
+      "livestream bán hàng",
+      "live stream"
+    ]
+  },
+  {
+    "name": "Community Management",
+    "normalized": "community management",
+    "aliases": [
+      "quản lý cộng đồng",
+      "community manager"
+    ]
+  },
+  {
+    "name": "Customer Success",
+    "normalized": "customer success",
+    "aliases": [
+      "csm"
+    ]
+  },
+  {
+    "name": "UX Writing",
+    "normalized": "ux writing",
+    "aliases": [
+      "microcopy"
+    ]
+  },
+  {
+    "name": "3D Modeling",
+    "normalized": "3d modeling",
+    "aliases": [
+      "3d modelling",
+      "dựng 3d",
+      "mô hình 3d",
+      "zbrush"
+    ]
+  },
+  {
+    "name": "Interior Design",
+    "normalized": "interior design",
+    "aliases": [
+      "thiết kế nội thất",
+      "nội thất"
+    ]
+  },
+  {
+    "name": "Fashion Design",
+    "normalized": "fashion design",
+    "aliases": [
+      "thiết kế thời trang",
+      "thời trang"
+    ]
+  },
+  {
+    "name": "Architecture Design",
+    "normalized": "architecture",
+    "aliases": [
+      "kiến trúc",
+      "thiết kế kiến trúc",
+      "kiến trúc sư"
+    ]
+  },
+  {
+    "name": "Civil Engineering",
+    "normalized": "civil engineering",
+    "aliases": [
+      "xây dựng",
+      "kỹ thuật xây dựng",
+      "xây dựng dân dụng",
+      "kết cấu"
+    ]
+  },
+  {
+    "name": "HVAC",
+    "normalized": "hvac",
+    "aliases": [
+      "điều hòa không khí",
+      "cơ điện",
+      "m&e",
+      "mep"
+    ]
+  },
+  {
+    "name": "Welding",
+    "normalized": "welding",
+    "aliases": [
+      "hàn",
+      "cnc",
+      "gia công cơ khí",
+      "tiện phay bào"
+    ]
+  },
+  {
+    "name": "Automotive Engineering",
+    "normalized": "automotive",
+    "aliases": [
+      "ô tô",
+      "kỹ thuật ô tô",
+      "sửa chữa ô tô"
+    ]
+  }
+]

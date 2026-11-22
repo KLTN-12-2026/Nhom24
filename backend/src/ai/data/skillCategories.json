@@ -1,0 +1,1818 @@
+{
+  "javascript": {
+    "type": "technical",
+    "category": "language"
+  },
+  "typescript": {
+    "type": "technical",
+    "category": "language"
+  },
+  "python": {
+    "type": "technical",
+    "category": "language"
+  },
+  "java": {
+    "type": "technical",
+    "category": "language"
+  },
+  "csharp": {
+    "type": "technical",
+    "category": "language"
+  },
+  "cpp": {
+    "type": "technical",
+    "category": "language"
+  },
+  "c": {
+    "type": "technical",
+    "category": "language"
+  },
+  "go": {
+    "type": "technical",
+    "category": "language"
+  },
+  "rust": {
+    "type": "technical",
+    "category": "language"
+  },
+  "php": {
+    "type": "technical",
+    "category": "language"
+  },
+  "ruby": {
+    "type": "technical",
+    "category": "language"
+  },
+  "swift": {
+    "type": "technical",
+    "category": "language"
+  },
+  "kotlin": {
+    "type": "technical",
+    "category": "language"
+  },
+  "dart": {
+    "type": "technical",
+    "category": "language"
+  },
+  "scala": {
+    "type": "technical",
+    "category": "language"
+  },
+  "r": {
+    "type": "technical",
+    "category": "language"
+  },
+  "matlab": {
+    "type": "technical",
+    "category": "language"
+  },
+  "perl": {
+    "type": "technical",
+    "category": "language"
+  },
+  "lua": {
+    "type": "technical",
+    "category": "language"
+  },
+  "bash": {
+    "type": "technical",
+    "category": "language"
+  },
+  "powershell": {
+    "type": "technical",
+    "category": "language"
+  },
+  "sql": {
+    "type": "technical",
+    "category": "database"
+  },
+  "html": {
+    "type": "technical",
+    "category": "frontend"
+  },
+  "css": {
+    "type": "technical",
+    "category": "frontend"
+  },
+  "html/css": {
+    "type": "technical",
+    "category": "frontend"
+  },
+  "sass": {
+    "type": "technical",
+    "category": "frontend"
+  },
+  "less": {
+    "type": "technical",
+    "category": "frontend"
+  },
+  "tailwindcss": {
+    "type": "technical",
+    "category": "frontend"
+  },
+  "bootstrap": {
+    "type": "technical",
+    "category": "frontend"
+  },
+  "material ui": {
+    "type": "technical",
+    "category": "frontend"
+  },
+  "ant design": {
+    "type": "technical",
+    "category": "frontend"
+  },
+  "react": {
+    "type": "technical",
+    "category": "frontend"
+  },
+  "nextjs": {
+    "type": "technical",
+    "category": "frontend"
+  },
+  "vue": {
+    "type": "technical",
+    "category": "frontend"
+  },
+  "nuxtjs": {
+    "type": "technical",
+    "category": "frontend"
+  },
+  "angular": {
+    "type": "technical",
+    "category": "frontend"
+  },
+  "svelte": {
+    "type": "technical",
+    "category": "frontend"
+  },
+  "jquery": {
+    "type": "technical",
+    "category": "frontend"
+  },
+  "redux": {
+    "type": "technical",
+    "category": "frontend"
+  },
+  "react native": {
+    "type": "technical",
+    "category": "mobile"
+  },
+  "flutter": {
+    "type": "technical",
+    "category": "mobile"
+  },
+  "android": {
+    "type": "technical",
+    "category": "mobile"
+  },
+  "ios": {
+    "type": "technical",
+    "category": "mobile"
+  },
+  "swiftui": {
+    "type": "technical",
+    "category": "mobile"
+  },
+  "jetpack compose": {
+    "type": "technical",
+    "category": "mobile"
+  },
+  "xamarin": {
+    "type": "technical",
+    "category": "mobile"
+  },
+  "ionic": {
+    "type": "technical",
+    "category": "mobile"
+  },
+  "webpack": {
+    "type": "technical",
+    "category": "frontend"
+  },
+  "vite": {
+    "type": "technical",
+    "category": "frontend"
+  },
+  "babel": {
+    "type": "technical",
+    "category": "frontend"
+  },
+  "nodejs": {
+    "type": "technical",
+    "category": "backend"
+  },
+  "express": {
+    "type": "technical",
+    "category": "backend"
+  },
+  "nestjs": {
+    "type": "technical",
+    "category": "backend"
+  },
+  "fastify": {
+    "type": "technical",
+    "category": "backend"
+  },
+  "koa": {
+    "type": "technical",
+    "category": "backend"
+  },
+  "django": {
+    "type": "technical",
+    "category": "backend"
+  },
+  "flask": {
+    "type": "technical",
+    "category": "backend"
+  },
+  "fastapi": {
+    "type": "technical",
+    "category": "backend"
+  },
+  "spring boot": {
+    "type": "technical",
+    "category": "backend"
+  },
+  "spring": {
+    "type": "technical",
+    "category": "backend"
+  },
+  "hibernate": {
+    "type": "technical",
+    "category": "backend"
+  },
+  "dotnet": {
+    "type": "technical",
+    "category": "backend"
+  },
+  "entity framework": {
+    "type": "technical",
+    "category": "backend"
+  },
+  "laravel": {
+    "type": "technical",
+    "category": "backend"
+  },
+  "symfony": {
+    "type": "technical",
+    "category": "backend"
+  },
+  "codeigniter": {
+    "type": "technical",
+    "category": "backend"
+  },
+  "wordpress": {
+    "type": "technical",
+    "category": "backend"
+  },
+  "ruby on rails": {
+    "type": "technical",
+    "category": "backend"
+  },
+  "gin": {
+    "type": "technical",
+    "category": "backend"
+  },
+  "graphql": {
+    "type": "technical",
+    "category": "backend"
+  },
+  "rest api": {
+    "type": "technical",
+    "category": "backend"
+  },
+  "grpc": {
+    "type": "technical",
+    "category": "backend"
+  },
+  "websocket": {
+    "type": "technical",
+    "category": "backend"
+  },
+  "microservices": {
+    "type": "technical",
+    "category": "backend"
+  },
+  "oop": {
+    "type": "technical",
+    "category": "backend"
+  },
+  "design patterns": {
+    "type": "technical",
+    "category": "backend"
+  },
+  "data structures": {
+    "type": "technical",
+    "category": "backend"
+  },
+  "system design": {
+    "type": "technical",
+    "category": "backend"
+  },
+  "clean architecture": {
+    "type": "technical",
+    "category": "backend"
+  },
+  "mongodb": {
+    "type": "technical",
+    "category": "database"
+  },
+  "mongoose": {
+    "type": "technical",
+    "category": "database"
+  },
+  "mysql": {
+    "type": "technical",
+    "category": "database"
+  },
+  "postgresql": {
+    "type": "technical",
+    "category": "database"
+  },
+  "sql server": {
+    "type": "technical",
+    "category": "database"
+  },
+  "oracle": {
+    "type": "technical",
+    "category": "database"
+  },
+  "sqlite": {
+    "type": "technical",
+    "category": "database"
+  },
+  "mariadb": {
+    "type": "technical",
+    "category": "database"
+  },
+  "redis": {
+    "type": "technical",
+    "category": "database"
+  },
+  "elasticsearch": {
+    "type": "technical",
+    "category": "database"
+  },
+  "cassandra": {
+    "type": "technical",
+    "category": "database"
+  },
+  "dynamodb": {
+    "type": "technical",
+    "category": "database"
+  },
+  "firebase": {
+    "type": "technical",
+    "category": "database"
+  },
+  "neo4j": {
+    "type": "technical",
+    "category": "database"
+  },
+  "prisma": {
+    "type": "technical",
+    "category": "database"
+  },
+  "sequelize": {
+    "type": "technical",
+    "category": "database"
+  },
+  "typeorm": {
+    "type": "technical",
+    "category": "database"
+  },
+  "database design": {
+    "type": "technical",
+    "category": "database"
+  },
+  "nosql": {
+    "type": "technical",
+    "category": "database"
+  },
+  "kafka": {
+    "type": "technical",
+    "category": "backend"
+  },
+  "rabbitmq": {
+    "type": "technical",
+    "category": "backend"
+  },
+  "docker": {
+    "type": "technical",
+    "category": "devops"
+  },
+  "kubernetes": {
+    "type": "technical",
+    "category": "devops"
+  },
+  "helm": {
+    "type": "technical",
+    "category": "devops"
+  },
+  "terraform": {
+    "type": "technical",
+    "category": "devops"
+  },
+  "ansible": {
+    "type": "technical",
+    "category": "devops"
+  },
+  "jenkins": {
+    "type": "technical",
+    "category": "devops"
+  },
+  "gitlab ci": {
+    "type": "technical",
+    "category": "devops"
+  },
+  "github actions": {
+    "type": "technical",
+    "category": "devops"
+  },
+  "ci/cd": {
+    "type": "technical",
+    "category": "devops"
+  },
+  "devops": {
+    "type": "technical",
+    "category": "devops"
+  },
+  "nginx": {
+    "type": "technical",
+    "category": "devops"
+  },
+  "apache": {
+    "type": "technical",
+    "category": "devops"
+  },
+  "prometheus": {
+    "type": "technical",
+    "category": "devops"
+  },
+  "grafana": {
+    "type": "technical",
+    "category": "devops"
+  },
+  "datadog": {
+    "type": "technical",
+    "category": "devops"
+  },
+  "linux": {
+    "type": "technical",
+    "category": "os-network"
+  },
+  "windows server": {
+    "type": "technical",
+    "category": "os-network"
+  },
+  "networking": {
+    "type": "technical",
+    "category": "os-network"
+  },
+  "vpn": {
+    "type": "technical",
+    "category": "os-network"
+  },
+  "aws": {
+    "type": "technical",
+    "category": "cloud"
+  },
+  "ec2": {
+    "type": "technical",
+    "category": "cloud"
+  },
+  "s3": {
+    "type": "technical",
+    "category": "cloud"
+  },
+  "lambda": {
+    "type": "technical",
+    "category": "cloud"
+  },
+  "azure": {
+    "type": "technical",
+    "category": "cloud"
+  },
+  "gcp": {
+    "type": "technical",
+    "category": "cloud"
+  },
+  "cloud computing": {
+    "type": "technical",
+    "category": "cloud"
+  },
+  "git": {
+    "type": "tool",
+    "category": "tool"
+  },
+  "github": {
+    "type": "tool",
+    "category": "tool"
+  },
+  "gitlab": {
+    "type": "tool",
+    "category": "tool"
+  },
+  "bitbucket": {
+    "type": "tool",
+    "category": "tool"
+  },
+  "jira": {
+    "type": "tool",
+    "category": "tool"
+  },
+  "confluence": {
+    "type": "tool",
+    "category": "tool"
+  },
+  "trello": {
+    "type": "tool",
+    "category": "tool"
+  },
+  "notion": {
+    "type": "tool",
+    "category": "tool"
+  },
+  "slack": {
+    "type": "tool",
+    "category": "tool"
+  },
+  "postman": {
+    "type": "tool",
+    "category": "tool"
+  },
+  "swagger": {
+    "type": "tool",
+    "category": "tool"
+  },
+  "vscode": {
+    "type": "tool",
+    "category": "tool"
+  },
+  "intellij": {
+    "type": "tool",
+    "category": "tool"
+  },
+  "visual studio": {
+    "type": "tool",
+    "category": "tool"
+  },
+  "android studio": {
+    "type": "tool",
+    "category": "tool"
+  },
+  "xcode": {
+    "type": "tool",
+    "category": "tool"
+  },
+  "unity": {
+    "type": "technical",
+    "category": "game"
+  },
+  "unreal engine": {
+    "type": "technical",
+    "category": "game"
+  },
+  "game development": {
+    "type": "technical",
+    "category": "game"
+  },
+  "unit testing": {
+    "type": "technical",
+    "category": "testing"
+  },
+  "jest": {
+    "type": "technical",
+    "category": "testing"
+  },
+  "vitest": {
+    "type": "technical",
+    "category": "testing"
+  },
+  "mocha": {
+    "type": "technical",
+    "category": "testing"
+  },
+  "junit": {
+    "type": "technical",
+    "category": "testing"
+  },
+  "pytest": {
+    "type": "technical",
+    "category": "testing"
+  },
+  "cypress": {
+    "type": "technical",
+    "category": "testing"
+  },
+  "playwright": {
+    "type": "technical",
+    "category": "testing"
+  },
+  "selenium": {
+    "type": "technical",
+    "category": "testing"
+  },
+  "appium": {
+    "type": "technical",
+    "category": "testing"
+  },
+  "jmeter": {
+    "type": "technical",
+    "category": "testing"
+  },
+  "testing": {
+    "type": "technical",
+    "category": "testing"
+  },
+  "automation testing": {
+    "type": "technical",
+    "category": "testing"
+  },
+  "tdd": {
+    "type": "technical",
+    "category": "testing"
+  },
+  "performance testing": {
+    "type": "technical",
+    "category": "testing"
+  },
+  "api testing": {
+    "type": "technical",
+    "category": "testing"
+  },
+  "agile": {
+    "type": "technical",
+    "category": "methodology"
+  },
+  "scrum": {
+    "type": "technical",
+    "category": "methodology"
+  },
+  "kanban": {
+    "type": "technical",
+    "category": "methodology"
+  },
+  "waterfall": {
+    "type": "technical",
+    "category": "methodology"
+  },
+  "project management": {
+    "type": "technical",
+    "category": "methodology"
+  },
+  "product management": {
+    "type": "technical",
+    "category": "methodology"
+  },
+  "business analysis": {
+    "type": "technical",
+    "category": "methodology"
+  },
+  "uml": {
+    "type": "technical",
+    "category": "methodology"
+  },
+  "machine learning": {
+    "type": "technical",
+    "category": "data-ai"
+  },
+  "deep learning": {
+    "type": "technical",
+    "category": "data-ai"
+  },
+  "nlp": {
+    "type": "technical",
+    "category": "data-ai"
+  },
+  "computer vision": {
+    "type": "technical",
+    "category": "data-ai"
+  },
+  "llm": {
+    "type": "technical",
+    "category": "data-ai"
+  },
+  "prompt engineering": {
+    "type": "technical",
+    "category": "data-ai"
+  },
+  "rag": {
+    "type": "technical",
+    "category": "data-ai"
+  },
+  "langchain": {
+    "type": "technical",
+    "category": "data-ai"
+  },
+  "openai api": {
+    "type": "technical",
+    "category": "data-ai"
+  },
+  "tensorflow": {
+    "type": "technical",
+    "category": "data-ai"
+  },
+  "keras": {
+    "type": "technical",
+    "category": "data-ai"
+  },
+  "pytorch": {
+    "type": "technical",
+    "category": "data-ai"
+  },
+  "scikit-learn": {
+    "type": "technical",
+    "category": "data-ai"
+  },
+  "huggingface": {
+    "type": "technical",
+    "category": "data-ai"
+  },
+  "opencv": {
+    "type": "technical",
+    "category": "data-ai"
+  },
+  "xgboost": {
+    "type": "technical",
+    "category": "data-ai"
+  },
+  "pandas": {
+    "type": "technical",
+    "category": "data-ai"
+  },
+  "numpy": {
+    "type": "technical",
+    "category": "data-ai"
+  },
+  "matplotlib": {
+    "type": "technical",
+    "category": "data-ai"
+  },
+  "jupyter": {
+    "type": "technical",
+    "category": "data-ai"
+  },
+  "data analysis": {
+    "type": "technical",
+    "category": "data-ai"
+  },
+  "data science": {
+    "type": "technical",
+    "category": "data-ai"
+  },
+  "data mining": {
+    "type": "technical",
+    "category": "data-ai"
+  },
+  "statistics": {
+    "type": "technical",
+    "category": "data-ai"
+  },
+  "data visualization": {
+    "type": "technical",
+    "category": "data-ai"
+  },
+  "data engineering": {
+    "type": "technical",
+    "category": "data-ai"
+  },
+  "etl": {
+    "type": "technical",
+    "category": "data-ai"
+  },
+  "data warehouse": {
+    "type": "technical",
+    "category": "data-ai"
+  },
+  "big data": {
+    "type": "technical",
+    "category": "data-ai"
+  },
+  "hadoop": {
+    "type": "technical",
+    "category": "data-ai"
+  },
+  "spark": {
+    "type": "technical",
+    "category": "data-ai"
+  },
+  "airflow": {
+    "type": "technical",
+    "category": "data-ai"
+  },
+  "dbt": {
+    "type": "technical",
+    "category": "data-ai"
+  },
+  "snowflake": {
+    "type": "technical",
+    "category": "data-ai"
+  },
+  "bigquery": {
+    "type": "technical",
+    "category": "data-ai"
+  },
+  "databricks": {
+    "type": "technical",
+    "category": "data-ai"
+  },
+  "power bi": {
+    "type": "tool",
+    "category": "data-ai"
+  },
+  "tableau": {
+    "type": "tool",
+    "category": "data-ai"
+  },
+  "looker": {
+    "type": "tool",
+    "category": "data-ai"
+  },
+  "metabase": {
+    "type": "tool",
+    "category": "data-ai"
+  },
+  "excel": {
+    "type": "tool",
+    "category": "office"
+  },
+  "google sheets": {
+    "type": "tool",
+    "category": "office"
+  },
+  "word": {
+    "type": "tool",
+    "category": "office"
+  },
+  "powerpoint": {
+    "type": "tool",
+    "category": "office"
+  },
+  "ms office": {
+    "type": "tool",
+    "category": "office"
+  },
+  "google workspace": {
+    "type": "tool",
+    "category": "office"
+  },
+  "mlops": {
+    "type": "technical",
+    "category": "data-ai"
+  },
+  "cybersecurity": {
+    "type": "technical",
+    "category": "security"
+  },
+  "penetration testing": {
+    "type": "technical",
+    "category": "security"
+  },
+  "owasp": {
+    "type": "technical",
+    "category": "security"
+  },
+  "cryptography": {
+    "type": "technical",
+    "category": "security"
+  },
+  "iam": {
+    "type": "technical",
+    "category": "security"
+  },
+  "jwt": {
+    "type": "technical",
+    "category": "security"
+  },
+  "soc": {
+    "type": "technical",
+    "category": "security"
+  },
+  "embedded": {
+    "type": "technical",
+    "category": "embedded"
+  },
+  "arduino": {
+    "type": "technical",
+    "category": "embedded"
+  },
+  "raspberry pi": {
+    "type": "technical",
+    "category": "embedded"
+  },
+  "iot": {
+    "type": "technical",
+    "category": "embedded"
+  },
+  "stm32": {
+    "type": "technical",
+    "category": "embedded"
+  },
+  "plc": {
+    "type": "technical",
+    "category": "engineering"
+  },
+  "scada": {
+    "type": "technical",
+    "category": "engineering"
+  },
+  "autocad": {
+    "type": "tool",
+    "category": "engineering"
+  },
+  "solidworks": {
+    "type": "tool",
+    "category": "engineering"
+  },
+  "revit": {
+    "type": "tool",
+    "category": "engineering"
+  },
+  "sketchup": {
+    "type": "tool",
+    "category": "engineering"
+  },
+  "3ds max": {
+    "type": "tool",
+    "category": "design"
+  },
+  "blender": {
+    "type": "tool",
+    "category": "design"
+  },
+  "maya": {
+    "type": "tool",
+    "category": "design"
+  },
+  "matlab simulink": {
+    "type": "tool",
+    "category": "engineering"
+  },
+  "mechanical design": {
+    "type": "technical",
+    "category": "engineering"
+  },
+  "electrical engineering": {
+    "type": "technical",
+    "category": "engineering"
+  },
+  "construction management": {
+    "type": "technical",
+    "category": "engineering"
+  },
+  "quality control": {
+    "type": "technical",
+    "category": "engineering"
+  },
+  "lean manufacturing": {
+    "type": "technical",
+    "category": "engineering"
+  },
+  "iso 9001": {
+    "type": "technical",
+    "category": "engineering"
+  },
+  "photoshop": {
+    "type": "tool",
+    "category": "design"
+  },
+  "illustrator": {
+    "type": "tool",
+    "category": "design"
+  },
+  "indesign": {
+    "type": "tool",
+    "category": "design"
+  },
+  "premiere pro": {
+    "type": "tool",
+    "category": "design"
+  },
+  "after effects": {
+    "type": "tool",
+    "category": "design"
+  },
+  "lightroom": {
+    "type": "tool",
+    "category": "design"
+  },
+  "figma": {
+    "type": "tool",
+    "category": "design"
+  },
+  "sketch": {
+    "type": "tool",
+    "category": "design"
+  },
+  "adobe xd": {
+    "type": "tool",
+    "category": "design"
+  },
+  "canva": {
+    "type": "tool",
+    "category": "design"
+  },
+  "capcut": {
+    "type": "tool",
+    "category": "design"
+  },
+  "davinci resolve": {
+    "type": "tool",
+    "category": "design"
+  },
+  "ui design": {
+    "type": "technical",
+    "category": "design"
+  },
+  "ux design": {
+    "type": "technical",
+    "category": "design"
+  },
+  "graphic design": {
+    "type": "technical",
+    "category": "design"
+  },
+  "web design": {
+    "type": "technical",
+    "category": "design"
+  },
+  "wireframing": {
+    "type": "technical",
+    "category": "design"
+  },
+  "branding": {
+    "type": "technical",
+    "category": "design"
+  },
+  "motion graphics": {
+    "type": "technical",
+    "category": "design"
+  },
+  "video editing": {
+    "type": "technical",
+    "category": "design"
+  },
+  "photography": {
+    "type": "technical",
+    "category": "design"
+  },
+  "typography": {
+    "type": "technical",
+    "category": "design"
+  },
+  "design system": {
+    "type": "technical",
+    "category": "design"
+  },
+  "seo": {
+    "type": "technical",
+    "category": "marketing"
+  },
+  "sem": {
+    "type": "technical",
+    "category": "marketing"
+  },
+  "google ads": {
+    "type": "tool",
+    "category": "marketing"
+  },
+  "facebook ads": {
+    "type": "tool",
+    "category": "marketing"
+  },
+  "tiktok ads": {
+    "type": "tool",
+    "category": "marketing"
+  },
+  "google analytics": {
+    "type": "tool",
+    "category": "marketing"
+  },
+  "google tag manager": {
+    "type": "tool",
+    "category": "marketing"
+  },
+  "google search console": {
+    "type": "tool",
+    "category": "marketing"
+  },
+  "ahrefs": {
+    "type": "tool",
+    "category": "marketing"
+  },
+  "semrush": {
+    "type": "tool",
+    "category": "marketing"
+  },
+  "hubspot": {
+    "type": "tool",
+    "category": "marketing"
+  },
+  "mailchimp": {
+    "type": "tool",
+    "category": "marketing"
+  },
+  "digital marketing": {
+    "type": "technical",
+    "category": "marketing"
+  },
+  "content marketing": {
+    "type": "technical",
+    "category": "marketing"
+  },
+  "content writing": {
+    "type": "technical",
+    "category": "marketing"
+  },
+  "social media marketing": {
+    "type": "technical",
+    "category": "marketing"
+  },
+  "email marketing": {
+    "type": "technical",
+    "category": "marketing"
+  },
+  "performance marketing": {
+    "type": "technical",
+    "category": "marketing"
+  },
+  "affiliate marketing": {
+    "type": "technical",
+    "category": "marketing"
+  },
+  "influencer marketing": {
+    "type": "technical",
+    "category": "marketing"
+  },
+  "market research": {
+    "type": "technical",
+    "category": "marketing"
+  },
+  "marketing strategy": {
+    "type": "technical",
+    "category": "marketing"
+  },
+  "pr": {
+    "type": "technical",
+    "category": "marketing"
+  },
+  "event management": {
+    "type": "technical",
+    "category": "marketing"
+  },
+  "crm": {
+    "type": "tool",
+    "category": "sales"
+  },
+  "salesforce": {
+    "type": "tool",
+    "category": "sales"
+  },
+  "zoho": {
+    "type": "tool",
+    "category": "sales"
+  },
+  "sales": {
+    "type": "technical",
+    "category": "sales"
+  },
+  "b2b sales": {
+    "type": "technical",
+    "category": "sales"
+  },
+  "b2c sales": {
+    "type": "technical",
+    "category": "sales"
+  },
+  "account management": {
+    "type": "technical",
+    "category": "sales"
+  },
+  "lead generation": {
+    "type": "technical",
+    "category": "sales"
+  },
+  "telesales": {
+    "type": "technical",
+    "category": "sales"
+  },
+  "customer service": {
+    "type": "technical",
+    "category": "sales"
+  },
+  "negotiation": {
+    "type": "soft",
+    "category": "soft-skill"
+  },
+  "retail": {
+    "type": "technical",
+    "category": "sales"
+  },
+  "e-commerce": {
+    "type": "technical",
+    "category": "sales"
+  },
+  "shopify": {
+    "type": "tool",
+    "category": "sales"
+  },
+  "accounting": {
+    "type": "technical",
+    "category": "finance"
+  },
+  "bookkeeping": {
+    "type": "technical",
+    "category": "finance"
+  },
+  "auditing": {
+    "type": "technical",
+    "category": "finance"
+  },
+  "tax": {
+    "type": "technical",
+    "category": "finance"
+  },
+  "financial analysis": {
+    "type": "technical",
+    "category": "finance"
+  },
+  "financial reporting": {
+    "type": "technical",
+    "category": "finance"
+  },
+  "budgeting": {
+    "type": "technical",
+    "category": "finance"
+  },
+  "banking": {
+    "type": "technical",
+    "category": "finance"
+  },
+  "investment": {
+    "type": "technical",
+    "category": "finance"
+  },
+  "risk management": {
+    "type": "technical",
+    "category": "finance"
+  },
+  "treasury": {
+    "type": "technical",
+    "category": "finance"
+  },
+  "payroll": {
+    "type": "technical",
+    "category": "hr"
+  },
+  "accounts payable": {
+    "type": "technical",
+    "category": "finance"
+  },
+  "accounts receivable": {
+    "type": "technical",
+    "category": "finance"
+  },
+  "ifrs": {
+    "type": "technical",
+    "category": "finance"
+  },
+  "misa": {
+    "type": "tool",
+    "category": "finance"
+  },
+  "fast accounting": {
+    "type": "tool",
+    "category": "finance"
+  },
+  "sap": {
+    "type": "tool",
+    "category": "finance"
+  },
+  "erp": {
+    "type": "tool",
+    "category": "finance"
+  },
+  "quickbooks": {
+    "type": "tool",
+    "category": "finance"
+  },
+  "recruitment": {
+    "type": "technical",
+    "category": "hr"
+  },
+  "hr management": {
+    "type": "technical",
+    "category": "hr"
+  },
+  "training": {
+    "type": "technical",
+    "category": "hr"
+  },
+  "compensation": {
+    "type": "technical",
+    "category": "hr"
+  },
+  "employee relations": {
+    "type": "technical",
+    "category": "hr"
+  },
+  "labor law": {
+    "type": "technical",
+    "category": "hr"
+  },
+  "administration": {
+    "type": "technical",
+    "category": "hr"
+  },
+  "secretary": {
+    "type": "technical",
+    "category": "hr"
+  },
+  "teaching": {
+    "type": "technical",
+    "category": "education"
+  },
+  "lesson planning": {
+    "type": "technical",
+    "category": "education"
+  },
+  "classroom management": {
+    "type": "technical",
+    "category": "education"
+  },
+  "elearning": {
+    "type": "technical",
+    "category": "education"
+  },
+  "tesol": {
+    "type": "technical",
+    "category": "education"
+  },
+  "early childhood education": {
+    "type": "technical",
+    "category": "education"
+  },
+  "nursing": {
+    "type": "technical",
+    "category": "healthcare"
+  },
+  "pharmacy": {
+    "type": "technical",
+    "category": "healthcare"
+  },
+  "clinical": {
+    "type": "technical",
+    "category": "healthcare"
+  },
+  "medical": {
+    "type": "technical",
+    "category": "healthcare"
+  },
+  "first aid": {
+    "type": "technical",
+    "category": "healthcare"
+  },
+  "medical device": {
+    "type": "technical",
+    "category": "healthcare"
+  },
+  "nutrition": {
+    "type": "technical",
+    "category": "healthcare"
+  },
+  "supply chain": {
+    "type": "technical",
+    "category": "logistics"
+  },
+  "logistics": {
+    "type": "technical",
+    "category": "logistics"
+  },
+  "warehouse management": {
+    "type": "technical",
+    "category": "logistics"
+  },
+  "inventory management": {
+    "type": "technical",
+    "category": "logistics"
+  },
+  "procurement": {
+    "type": "technical",
+    "category": "logistics"
+  },
+  "import export": {
+    "type": "technical",
+    "category": "logistics"
+  },
+  "demand planning": {
+    "type": "technical",
+    "category": "logistics"
+  },
+  "hotel management": {
+    "type": "technical",
+    "category": "hospitality"
+  },
+  "front office": {
+    "type": "technical",
+    "category": "hospitality"
+  },
+  "food and beverage": {
+    "type": "technical",
+    "category": "hospitality"
+  },
+  "culinary": {
+    "type": "technical",
+    "category": "hospitality"
+  },
+  "housekeeping": {
+    "type": "technical",
+    "category": "hospitality"
+  },
+  "tour guide": {
+    "type": "technical",
+    "category": "hospitality"
+  },
+  "communication": {
+    "type": "soft",
+    "category": "soft-skill"
+  },
+  "teamwork": {
+    "type": "soft",
+    "category": "soft-skill"
+  },
+  "leadership": {
+    "type": "soft",
+    "category": "soft-skill"
+  },
+  "problem solving": {
+    "type": "soft",
+    "category": "soft-skill"
+  },
+  "critical thinking": {
+    "type": "soft",
+    "category": "soft-skill"
+  },
+  "time management": {
+    "type": "soft",
+    "category": "soft-skill"
+  },
+  "presentation": {
+    "type": "soft",
+    "category": "soft-skill"
+  },
+  "adaptability": {
+    "type": "soft",
+    "category": "soft-skill"
+  },
+  "creativity": {
+    "type": "soft",
+    "category": "soft-skill"
+  },
+  "self-learning": {
+    "type": "soft",
+    "category": "soft-skill"
+  },
+  "work ethic": {
+    "type": "soft",
+    "category": "soft-skill"
+  },
+  "decision making": {
+    "type": "soft",
+    "category": "soft-skill"
+  },
+  "conflict resolution": {
+    "type": "soft",
+    "category": "soft-skill"
+  },
+  "mentoring": {
+    "type": "soft",
+    "category": "soft-skill"
+  },
+  "emotional intelligence": {
+    "type": "soft",
+    "category": "soft-skill"
+  },
+  "planning": {
+    "type": "soft",
+    "category": "soft-skill"
+  },
+  "attention to detail": {
+    "type": "soft",
+    "category": "soft-skill"
+  },
+  "english": {
+    "type": "language",
+    "category": "spoken-language"
+  },
+  "ielts": {
+    "type": "language",
+    "category": "spoken-language"
+  },
+  "toeic": {
+    "type": "language",
+    "category": "spoken-language"
+  },
+  "toefl": {
+    "type": "language",
+    "category": "spoken-language"
+  },
+  "japanese": {
+    "type": "language",
+    "category": "spoken-language"
+  },
+  "korean": {
+    "type": "language",
+    "category": "spoken-language"
+  },
+  "chinese": {
+    "type": "language",
+    "category": "spoken-language"
+  },
+  "french": {
+    "type": "language",
+    "category": "spoken-language"
+  },
+  "german": {
+    "type": "language",
+    "category": "spoken-language"
+  },
+  "russian": {
+    "type": "language",
+    "category": "spoken-language"
+  },
+  "spanish": {
+    "type": "language",
+    "category": "spoken-language"
+  },
+  "thai": {
+    "type": "language",
+    "category": "spoken-language"
+  },
+  "vietnamese": {
+    "type": "language",
+    "category": "spoken-language"
+  },
+  "translation": {
+    "type": "technical",
+    "category": "spoken-language"
+  },
+  "bim": {
+    "type": "technical",
+    "category": "engineering"
+  },
+  "gis": {
+    "type": "technical",
+    "category": "engineering"
+  },
+  "sap2000": {
+    "type": "tool",
+    "category": "engineering"
+  },
+  "primavera": {
+    "type": "tool",
+    "category": "engineering"
+  },
+  "tableau prep": {
+    "type": "tool",
+    "category": "data-ai"
+  },
+  "vba": {
+    "type": "technical",
+    "category": "office"
+  },
+  "google apps script": {
+    "type": "technical",
+    "category": "office"
+  },
+  "zapier": {
+    "type": "tool",
+    "category": "tool"
+  },
+  "rpa": {
+    "type": "technical",
+    "category": "tool"
+  },
+  "low-code": {
+    "type": "technical",
+    "category": "tool"
+  },
+  "strapi": {
+    "type": "technical",
+    "category": "backend"
+  },
+  "contentful": {
+    "type": "technical",
+    "category": "backend"
+  },
+  "solidity": {
+    "type": "technical",
+    "category": "language"
+  },
+  "blockchain": {
+    "type": "technical",
+    "category": "backend"
+  },
+  "haskell": {
+    "type": "technical",
+    "category": "language"
+  },
+  "elixir": {
+    "type": "technical",
+    "category": "language"
+  },
+  "objective-c": {
+    "type": "technical",
+    "category": "language"
+  },
+  "assembly": {
+    "type": "technical",
+    "category": "language"
+  },
+  "vb.net": {
+    "type": "technical",
+    "category": "language"
+  },
+  "delphi": {
+    "type": "technical",
+    "category": "language"
+  },
+  "cobol": {
+    "type": "technical",
+    "category": "language"
+  },
+  "webrtc": {
+    "type": "technical",
+    "category": "backend"
+  },
+  "ffmpeg": {
+    "type": "tool",
+    "category": "tool"
+  },
+  "three.js": {
+    "type": "technical",
+    "category": "frontend"
+  },
+  "d3": {
+    "type": "technical",
+    "category": "frontend"
+  },
+  "chart.js": {
+    "type": "technical",
+    "category": "frontend"
+  },
+  "storybook": {
+    "type": "tool",
+    "category": "frontend"
+  },
+  "pwa": {
+    "type": "technical",
+    "category": "frontend"
+  },
+  "web accessibility": {
+    "type": "technical",
+    "category": "frontend"
+  },
+  "responsive design": {
+    "type": "technical",
+    "category": "frontend"
+  },
+  "zustand": {
+    "type": "technical",
+    "category": "frontend"
+  },
+  "react query": {
+    "type": "technical",
+    "category": "frontend"
+  },
+  "react router": {
+    "type": "technical",
+    "category": "frontend"
+  },
+  "axios": {
+    "type": "technical",
+    "category": "frontend"
+  },
+  "rxjs": {
+    "type": "technical",
+    "category": "frontend"
+  },
+  "code review": {
+    "type": "technical",
+    "category": "methodology"
+  },
+  "refactoring": {
+    "type": "technical",
+    "category": "methodology"
+  },
+  "technical writing": {
+    "type": "technical",
+    "category": "methodology"
+  },
+  "monitoring": {
+    "type": "technical",
+    "category": "devops"
+  },
+  "load balancing": {
+    "type": "technical",
+    "category": "devops"
+  },
+  "sre": {
+    "type": "technical",
+    "category": "devops"
+  },
+  "shell scripting": {
+    "type": "technical",
+    "category": "devops"
+  },
+  "vmware": {
+    "type": "technical",
+    "category": "os-network"
+  },
+  "firewall": {
+    "type": "technical",
+    "category": "security"
+  },
+  "it support": {
+    "type": "technical",
+    "category": "os-network"
+  },
+  "system administration": {
+    "type": "technical",
+    "category": "os-network"
+  },
+  "oracle apex": {
+    "type": "technical",
+    "category": "database"
+  },
+  "database administration": {
+    "type": "technical",
+    "category": "database"
+  },
+  "data entry": {
+    "type": "technical",
+    "category": "office"
+  },
+  "sap abap": {
+    "type": "technical",
+    "category": "language"
+  },
+  "salesforce apex": {
+    "type": "technical",
+    "category": "language"
+  },
+  "tiktok shop": {
+    "type": "tool",
+    "category": "sales"
+  },
+  "livestream": {
+    "type": "technical",
+    "category": "sales"
+  },
+  "community management": {
+    "type": "technical",
+    "category": "marketing"
+  },
+  "customer success": {
+    "type": "technical",
+    "category": "sales"
+  },
+  "ux writing": {
+    "type": "technical",
+    "category": "design"
+  },
+  "3d modeling": {
+    "type": "technical",
+    "category": "design"
+  },
+  "interior design": {
+    "type": "technical",
+    "category": "design"
+  },
+  "fashion design": {
+    "type": "technical",
+    "category": "design"
+  },
+  "architecture": {
+    "type": "technical",
+    "category": "engineering"
+  },
+  "civil engineering": {
+    "type": "technical",
+    "category": "engineering"
+  },
+  "hvac": {
+    "type": "technical",
+    "category": "engineering"
+  },
+  "welding": {
+    "type": "technical",
+    "category": "engineering"
+  },
+  "automotive": {
+    "type": "technical",
+    "category": "engineering"
+  }
+}
