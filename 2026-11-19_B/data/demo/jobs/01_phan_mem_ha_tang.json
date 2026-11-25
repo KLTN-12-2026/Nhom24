@@ -1,0 +1,837 @@
+[
+  {
+    "employerEmail": "employer3@demo.com",
+    "title": "Senior Backend Engineer (Java, Spring Boot)",
+    "description": "Sao Băng đang vận hành nền tảng quản lý chuỗi cửa hàng (POS, kho, khuyến mãi) cho hơn 1.800 điểm bán tại Việt Nam và Nhật Bản. Lượng giao dịch tăng gần gấp đôi sau mỗi mùa Tết nên đội backend cần thêm một kỹ sư senior để cùng tách dần hệ thống monolith sang các dịch vụ nhỏ có thể mở rộng độc lập.\n\nBạn sẽ làm việc trong nhóm Core Platform gồm 7 người (2 senior, 3 middle, 2 QA), báo cáo trực tiếp cho Engineering Manager.\n\nCông việc hằng ngày:\n- Thiết kế và hiện thực các dịch vụ xử lý đơn hàng, tồn kho, đồng bộ dữ liệu giữa cửa hàng và trung tâm.\n- Tối ưu truy vấn PostgreSQL cho các báo cáo doanh thu có hàng chục triệu dòng; đưa thời gian phản hồi báo cáo ngày từ 8 giây xuống dưới 2 giây.\n- Review code, viết tài liệu thiết kế (RFC) và kèm cặp các bạn middle về cách đặt ranh giới giữa các service.\n- Cùng đội DevOps theo dõi dashboard, xử lý sự cố ngoài giờ theo lịch trực luân phiên (mỗi người khoảng 1 tuần/tháng, có phụ cấp trực).",
+    "requirements": "- Tối thiểu 4 năm làm backend với Java, ít nhất 2 năm dùng Spring Boot trong sản phẩm chạy thật.\n- Hiểu sâu về transaction, index, khóa và cách đọc execution plan trong PostgreSQL.\n- Từng thiết kế hoặc tham gia tách service, biết khi nào nên dùng message queue thay vì gọi đồng bộ.\n- Viết test tự động đều đặn (JUnit, Testcontainers là lợi thế).\n- Đọc hiểu tài liệu tiếng Anh tốt; giao tiếp được với khách hàng Nhật qua tài liệu và email là điểm cộng.",
+    "benefitList": [
+      "Lương tháng 13 và thưởng hiệu suất 2 lần/năm, trung bình 2-3 tháng lương",
+      "Làm việc hybrid: 3 ngày tại văn phòng, 2 ngày ở nhà",
+      "Bảo hiểm sức khỏe PVI cho nhân viên và 1 người thân",
+      "Ngân sách học tập 20 triệu/năm cho khóa học, chứng chỉ AWS/Kubernetes",
+      "Trợ cấp trực sự cố 500.000đ/đêm",
+      "Khám sức khỏe định kỳ tại bệnh viện quốc tế, du lịch công ty mỗi năm"
+    ],
+    "howToApply": "Nhấn Ứng tuyển và đính kèm CV tiếng Việt hoặc tiếng Anh. Quy trình gồm 3 bước: sàng lọc hồ sơ (2-3 ngày làm việc), phỏng vấn kỹ thuật 90 phút với hai kỹ sư trong nhóm, và buổi trao đổi cuối với Engineering Manager. Bạn sẽ nhận kết quả trong vòng 7 ngày kể từ buổi phỏng vấn đầu tiên.",
+    "category": "it-software",
+    "level": "senior",
+    "employmentType": "full-time",
+    "workMode": "hybrid",
+    "city": "TP. Hồ Chí Minh",
+    "address": "Tầng 9, tòa nhà Vạn Phúc, 25 Nguyễn Đình Chiểu, Quận 3",
+    "salary": {
+      "min": 45000000,
+      "max": 70000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "Java"
+      },
+      {
+        "name": "Spring Boot"
+      },
+      {
+        "name": "PostgreSQL"
+      },
+      {
+        "name": "Microservices"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "Kafka"
+      },
+      {
+        "name": "Kubernetes"
+      },
+      {
+        "name": "AWS"
+      }
+    ],
+    "minYearsExperience": 4,
+    "maxYearsExperience": 8,
+    "minEducation": "bachelor",
+    "vacancies": 2,
+    "status": "published",
+    "postedDaysAgo": 2,
+    "deadlineInDays": 28,
+    "viewsCount": 412,
+    "applicationsCount": 37
+  },
+  {
+    "employerEmail": "employer3@demo.com",
+    "title": "Frontend Developer (React, TypeScript)",
+    "description": "Ứng dụng quản lý cửa hàng trên trình duyệt của Sao Băng được chủ cửa hàng mở suốt ngày, nhiều nơi chạy trên máy tính cấu hình thấp và đường truyền không ổn định. Chúng tôi cần một frontend developer có tay nghề chắc để làm lại màn hình bán hàng và quản lý kho theo hướng nhanh hơn, ít lỗi hơn.\n\nPhạm vi công việc:\n- Phát triển màn hình bán hàng (tìm sản phẩm bằng mã vạch, giỏ hàng, thanh toán nhiều phương thức) trên nền React và TypeScript.\n- Xây dựng thư viện component dùng chung cùng đội thiết kế, viết Storybook cho từng component.\n- Làm việc với API do đội backend cung cấp; đề xuất chỉnh sửa hợp đồng API khi cần.\n- Đo và cải thiện hiệu năng: giảm thời gian tải màn hình chính xuống dưới 2,5 giây trên mạng 4G.",
+    "requirements": "- Từ 2 năm kinh nghiệm với React, quen dùng hooks và quản lý state (Redux Toolkit hoặc Zustand).\n- Viết TypeScript chặt chẽ, hiểu generic và type narrowing.\n- Nắm vững HTML/CSS, làm được giao diện responsive không phụ thuộc hoàn toàn vào thư viện UI.\n- Biết dùng Chrome DevTools để phân tích render và bộ nhớ.\n- Có thói quen viết unit test cho logic quan trọng.",
+    "benefitList": [
+      "Thưởng tháng 13 và thưởng dự án theo quý",
+      "Macbook hoặc laptop cấu hình cao tùy chọn",
+      "Review lương 2 lần/năm",
+      "Bảo hiểm sức khỏe cao cấp",
+      "Câu lạc bộ bóng đá, cầu lông và team building hằng quý"
+    ],
+    "howToApply": "Gửi CV qua nút Ứng tuyển, kèm đường dẫn GitHub hoặc sản phẩm bạn đã làm nếu có. Sau khi qua vòng hồ sơ, bạn sẽ nhận một bài thực hành nhỏ (khoảng 2 giờ, làm tại nhà) trước buổi phỏng vấn.",
+    "category": "it-software",
+    "level": "middle",
+    "employmentType": "full-time",
+    "workMode": "hybrid",
+    "city": "TP. Hồ Chí Minh",
+    "address": "Tầng 9, tòa nhà Vạn Phúc, 25 Nguyễn Đình Chiểu, Quận 3",
+    "salary": {
+      "min": 25000000,
+      "max": 38000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "React"
+      },
+      {
+        "name": "TypeScript"
+      },
+      {
+        "name": "HTML/CSS"
+      },
+      {
+        "name": "REST API"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "Next.js"
+      },
+      {
+        "name": "Storybook"
+      },
+      {
+        "name": "Jest"
+      }
+    ],
+    "minYearsExperience": 2,
+    "maxYearsExperience": 5,
+    "minEducation": "bachelor",
+    "vacancies": 3,
+    "status": "published",
+    "postedDaysAgo": 5,
+    "deadlineInDays": 21,
+    "viewsCount": 288,
+    "applicationsCount": 24
+  },
+  {
+    "employerEmail": "employer3@demo.com",
+    "title": "QA Automation Engineer",
+    "description": "Mỗi hai tuần Sao Băng phát hành một phiên bản mới, và bộ kiểm thử hồi quy thủ công hiện mất gần 3 ngày của cả nhóm QA. Mục tiêu của vị trí này là chuyển phần lớn các kịch bản lặp lại sang tự động hóa để thời gian hồi quy còn dưới nửa ngày.\n\nBạn sẽ:\n- Viết và bảo trì kịch bản kiểm thử giao diện (Selenium/Playwright) và kiểm thử API (Postman, REST Assured).\n- Tích hợp bộ test vào pipeline Jenkins, báo cáo kết quả lên kênh chat của nhóm sau mỗi lần build.\n- Phối hợp với developer để xác định lỗi, đọc log và tái hiện lỗi trên môi trường staging.\n- Tham gia họp lập kế hoạch sprint, ước lượng công sức kiểm thử cho từng tính năng.",
+    "requirements": "- Có 1-3 năm kinh nghiệm kiểm thử phần mềm, trong đó ít nhất 1 năm viết automation test.\n- Biết một ngôn ngữ lập trình (Java hoặc JavaScript) đủ để viết code test gọn và dễ bảo trì.\n- Viết được truy vấn SQL để kiểm tra dữ liệu.\n- Tư duy tỉ mỉ, ghi lại bước tái hiện lỗi rõ ràng.\n- Sinh viên mới ra trường có đồ án về automation test vẫn được cân nhắc.",
+    "benefitList": [
+      "Thưởng tháng 13",
+      "Lộ trình lên QA Lead rõ ràng, có người hướng dẫn 1-1 trong 3 tháng đầu",
+      "Hỗ trợ chi phí thi chứng chỉ ISTQB",
+      "Bảo hiểm sức khỏe và khám sức khỏe định kỳ",
+      "Bữa trưa miễn phí tại văn phòng"
+    ],
+    "howToApply": "Ứng tuyển trực tiếp trên hệ thống. HR sẽ liên hệ trong 3 ngày làm việc để hẹn phỏng vấn trực tiếp tại văn phòng, kèm một bài viết test case ngắn cho một tính năng giả định.",
+    "category": "it-software",
+    "level": "junior",
+    "employmentType": "full-time",
+    "workMode": "onsite",
+    "city": "TP. Hồ Chí Minh",
+    "address": "Tầng 9, tòa nhà Vạn Phúc, 25 Nguyễn Đình Chiểu, Quận 3",
+    "salary": {
+      "min": 14000000,
+      "max": 22000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "Selenium"
+      },
+      {
+        "name": "Test Automation"
+      },
+      {
+        "name": "SQL"
+      },
+      {
+        "name": "Postman"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "Cypress"
+      },
+      {
+        "name": "Jenkins"
+      },
+      {
+        "name": "Playwright"
+      }
+    ],
+    "minYearsExperience": 1,
+    "maxYearsExperience": 3,
+    "minEducation": "college",
+    "vacancies": 2,
+    "status": "published",
+    "postedDaysAgo": 9,
+    "deadlineInDays": 14,
+    "viewsCount": 176,
+    "applicationsCount": 15
+  },
+  {
+    "employerEmail": "employer3@demo.com",
+    "title": "Mobile Developer (Android, Kotlin)",
+    "description": "Ứng dụng bán hàng trên máy POS cầm tay của Sao Băng chạy trên Android 8 trở lên, được nhân viên cửa hàng dùng để lên đơn, in hóa đơn nhiệt và kiểm kho bằng camera. Chúng tôi cần một bạn mobile developer tiếp quản và phát triển tiếp ứng dụng này.\n\nTrách nhiệm chính:\n- Phát triển tính năng mới theo mô hình MVVM, từng bước chuyển các màn hình cũ sang Jetpack Compose.\n- Làm việc với máy in nhiệt, đầu đọc mã vạch Bluetooth và máy POS của nhiều hãng khác nhau.\n- Xử lý chế độ ngoại tuyến: lưu đơn hàng vào Room khi mất mạng và đồng bộ lại khi có kết nối.\n- Theo dõi crash trên Firebase Crashlytics và sửa lỗi theo mức độ ưu tiên.",
+    "requirements": "- Từ 2 năm phát triển ứng dụng Android bằng Kotlin.\n- Hiểu vòng đời Activity/Fragment, coroutines và Flow.\n- Có kinh nghiệm lưu trữ cục bộ (Room/SQLite) và đồng bộ dữ liệu.\n- Đã từng phát hành ứng dụng lên Google Play.\n- Biết làm việc với phần cứng ngoại vi (Bluetooth, USB) là một lợi thế lớn.",
+    "benefitList": [
+      "Thưởng tháng 13, thưởng hiệu suất theo quý",
+      "Cấp điện thoại Android và máy POS để thử nghiệm",
+      "Bảo hiểm sức khỏe cho bản thân và người thân",
+      "Ngân sách đào tạo 15 triệu/năm",
+      "Nghỉ phép 14 ngày/năm"
+    ],
+    "howToApply": "Nộp hồ sơ qua nút Ứng tuyển, ghi rõ tên ứng dụng bạn đã phát hành (nếu có) để chúng tôi xem trước. Phỏng vấn gồm một vòng kỹ thuật và một vòng trao đổi với trưởng nhóm.",
+    "category": "it-software",
+    "level": "middle",
+    "employmentType": "full-time",
+    "workMode": "onsite",
+    "city": "TP. Hồ Chí Minh",
+    "address": "Tầng 9, tòa nhà Vạn Phúc, 25 Nguyễn Đình Chiểu, Quận 3",
+    "salary": {
+      "min": 24000000,
+      "max": 36000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "Kotlin"
+      },
+      {
+        "name": "Android"
+      },
+      {
+        "name": "MVVM"
+      },
+      {
+        "name": "Room"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "Jetpack Compose"
+      },
+      {
+        "name": "Coroutines"
+      },
+      {
+        "name": "Firebase"
+      }
+    ],
+    "minYearsExperience": 2,
+    "maxYearsExperience": 4,
+    "minEducation": "bachelor",
+    "vacancies": 1,
+    "status": "published",
+    "postedDaysAgo": 14,
+    "deadlineInDays": 10,
+    "viewsCount": 221,
+    "applicationsCount": 19
+  },
+  {
+    "employerEmail": "employer3@demo.com",
+    "title": "Engineering Manager - Core Platform",
+    "description": "Chúng tôi đang tìm một Engineering Manager để dẫn dắt nhóm Core Platform (12 kỹ sư chia thành hai squad) trong giai đoạn mở rộng sang thị trường Nhật Bản. Đây là vị trí vừa chịu trách nhiệm giao hàng, vừa xây dựng đội ngũ.\n\nBạn sẽ chịu trách nhiệm:\n- Cùng Product Manager lên lộ trình sản phẩm theo quý và biến thành kế hoạch kỹ thuật khả thi.\n- Giữ cân bằng giữa tốc độ ra tính năng và nợ kỹ thuật; đặt ra các chỉ số như tỷ lệ sự cố, thời gian khôi phục, thời gian đưa thay đổi lên production.\n- Tuyển dụng, đánh giá và phát triển nhân sự: họp 1-1 hằng tháng, xây dựng kế hoạch thăng tiến cho từng người.\n- Làm đầu mối kỹ thuật với đối tác Nhật, tham gia các cuộc họp định kỳ cùng phiên dịch.\n- Báo cáo tình hình và rủi ro cho Giám đốc Công nghệ hằng tuần.",
+    "requirements": "- Từ 7 năm trong ngành phần mềm, ít nhất 2 năm quản lý nhóm từ 8 người trở lên.\n- Nền tảng kỹ thuật vững (Java hoặc tương đương), đủ để review thiết kế và tham gia thảo luận kiến trúc.\n- Có kinh nghiệm vận hành dịch vụ chạy production, hiểu quy trình xử lý sự cố.\n- Kỹ năng phản hồi và huấn luyện nhân sự tốt, từng đưa người từ middle lên senior.\n- Tiếng Anh giao tiếp thành thạo; biết tiếng Nhật N3 trở lên là lợi thế.",
+    "benefitList": [
+      "Thưởng tháng 13 và thưởng KPI theo năm",
+      "Cổ phần thưởng (ESOP) sau 12 tháng làm việc",
+      "Bảo hiểm sức khỏe cao cấp cho cả gia đình",
+      "Chuyến công tác ngắn hạn tại Tokyo mỗi năm",
+      "Hỗ trợ học MBA hoặc khóa quản trị kỹ thuật"
+    ],
+    "howToApply": "Hồ sơ nộp qua hệ thống và sẽ được Giám đốc Công nghệ xem trực tiếp. Quy trình gồm 4 buổi: trao đổi tổng quan, phỏng vấn kỹ thuật, tình huống quản lý và gặp ban giám đốc. Toàn bộ thông tin được giữ kín với công ty hiện tại của bạn.",
+    "category": "it-software",
+    "level": "manager",
+    "employmentType": "full-time",
+    "workMode": "hybrid",
+    "city": "TP. Hồ Chí Minh",
+    "address": "Tầng 9, tòa nhà Vạn Phúc, 25 Nguyễn Đình Chiểu, Quận 3",
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": "VND",
+      "negotiable": true
+    },
+    "requiredSkills": [
+      {
+        "name": "Quản lý đội kỹ thuật"
+      },
+      {
+        "name": "Java"
+      },
+      {
+        "name": "Kiến trúc hệ thống"
+      },
+      {
+        "name": "Agile"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "AWS"
+      },
+      {
+        "name": "Tuyển dụng kỹ thuật"
+      },
+      {
+        "name": "Tiếng Nhật"
+      }
+    ],
+    "minYearsExperience": 7,
+    "maxYearsExperience": 12,
+    "minEducation": "bachelor",
+    "vacancies": 1,
+    "status": "published",
+    "postedDaysAgo": 20,
+    "deadlineInDays": 35,
+    "viewsCount": 520,
+    "applicationsCount": 12
+  },
+  {
+    "employerEmail": "employer3@demo.com",
+    "title": "DevOps Engineer (AWS, Kubernetes)",
+    "description": "Toàn bộ dịch vụ của Sao Băng chạy trên AWS (EKS, RDS, S3), với khoảng 40 service và 3 môi trường. Hiện hạ tầng được dựng bằng một phần Terraform và một phần thao tác tay, nên khi mở rộng sang vùng Tokyo chúng tôi muốn chuẩn hóa mọi thứ thành code.\n\nNhiệm vụ:\n- Viết lại hạ tầng thành module Terraform có thể tái sử dụng cho nhiều vùng và môi trường.\n- Xây dựng pipeline CI/CD (GitHub Actions, ArgoCD) để triển khai không gián đoạn, có rollback tự động khi kiểm tra sức khỏe thất bại.\n- Dựng hệ thống giám sát với Prometheus, Grafana và cảnh báo qua Slack; cùng developer định nghĩa SLO cho các dịch vụ trọng yếu.\n- Rà soát chi phí đám mây hằng tháng, đề xuất phương án tiết kiệm (Savings Plans, spot cho môi trường kiểm thử).",
+    "requirements": "- Từ 4 năm vận hành hạ tầng cloud, thành thạo AWS và Kubernetes.\n- Đã dùng Terraform ở quy mô nhiều môi trường.\n- Viết script Bash hoặc Python tự động hóa công việc lặp lại.\n- Hiểu mạng cơ bản (VPC, subnet, security group, load balancer) và nguyên tắc bảo mật tối thiểu.\n- Bình tĩnh khi xử lý sự cố và có thói quen viết biên bản sau sự cố.",
+    "benefitList": [
+      "Thưởng tháng 13",
+      "Chi phí thi chứng chỉ AWS, CKA được công ty chi trả",
+      "Làm việc hybrid, linh hoạt giờ vào làm",
+      "Trợ cấp trực sự cố",
+      "Bảo hiểm sức khỏe và gói khám tổng quát hằng năm"
+    ],
+    "howToApply": "Nộp CV qua hệ thống. Vòng phỏng vấn kỹ thuật là buổi thiết kế hạ tầng trên bảng trắng, không có bài kiểm tra thuật toán.",
+    "category": "it-infra-security",
+    "level": "senior",
+    "employmentType": "full-time",
+    "workMode": "hybrid",
+    "city": "TP. Hồ Chí Minh",
+    "address": "Tầng 9, tòa nhà Vạn Phúc, 25 Nguyễn Đình Chiểu, Quận 3",
+    "salary": {
+      "min": 40000000,
+      "max": 62000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "AWS"
+      },
+      {
+        "name": "Kubernetes"
+      },
+      {
+        "name": "Terraform"
+      },
+      {
+        "name": "CI/CD"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "ArgoCD"
+      },
+      {
+        "name": "Prometheus"
+      },
+      {
+        "name": "Grafana"
+      }
+    ],
+    "minYearsExperience": 4,
+    "maxYearsExperience": 7,
+    "minEducation": "bachelor",
+    "vacancies": 1,
+    "status": "published",
+    "postedDaysAgo": 1,
+    "deadlineInDays": 30,
+    "viewsCount": 190,
+    "applicationsCount": 11
+  },
+  {
+    "employerEmail": "employer4@demo.com",
+    "title": "Flutter Developer",
+    "description": "Gió Biển Tech làm ứng dụng đặt tour và đặt phòng cho các khách sạn, resort tại miền Trung. Sau khi ứng dụng cho khách du lịch đạt 120.000 lượt cài đặt, chúng tôi đang bắt đầu xây ứng dụng thứ hai dành cho chủ khách sạn để quản lý phòng, giá và đơn đặt.\n\nBạn sẽ:\n- Phát triển ứng dụng quản lý dành cho chủ khách sạn bằng Flutter, chạy trên cả Android và iOS.\n- Làm việc với designer để biến bản thiết kế Figma thành giao diện chính xác đến từng khoảng cách.\n- Kết nối API đặt phòng, thanh toán và thông báo đẩy.\n- Viết widget test cho các luồng quan trọng như đặt phòng và hủy phòng.\n\nNhóm mobile có 5 người, họp đứng 15 phút mỗi sáng và demo cho cả công ty vào chiều thứ Sáu hai tuần một lần.",
+    "requirements": "- Từ 1 năm làm việc thực tế với Flutter/Dart, có ít nhất một ứng dụng đã phát hành trên store.\n- Hiểu một giải pháp quản lý state (Bloc, Riverpod hoặc Provider).\n- Biết gọi API, xử lý lỗi mạng và hiển thị trạng thái tải rõ ràng cho người dùng.\n- Dùng Git theo luồng feature branch và biết viết pull request dễ đọc.\n- Ưu tiên ứng viên sống tại Đà Nẵng hoặc sẵn sàng chuyển đến.",
+    "benefitList": [
+      "Thưởng tháng 13 và thưởng hiệu suất",
+      "12 ngày phép + 1 ngày nghỉ sinh nhật",
+      "Làm việc hybrid 2 ngày ở nhà mỗi tuần",
+      "Du lịch công ty 2 lần/năm tại các điểm đến miền Trung",
+      "Hỗ trợ tiền thuê nhà tháng đầu cho nhân sự từ tỉnh khác"
+    ],
+    "howToApply": "Bạn có thể nộp hồ sơ ngay trên trang này. Chúng tôi phản hồi trong 2 ngày làm việc, phỏng vấn trực tiếp tại văn phòng Đà Nẵng hoặc qua Google Meet nếu bạn đang ở xa.",
+    "category": "it-software",
+    "level": "junior",
+    "employmentType": "full-time",
+    "workMode": "hybrid",
+    "city": "Đà Nẵng",
+    "address": "58 Nguyễn Văn Linh, quận Hải Châu",
+    "salary": {
+      "min": 15000000,
+      "max": 24000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "Flutter"
+      },
+      {
+        "name": "Dart"
+      },
+      {
+        "name": "REST API"
+      },
+      {
+        "name": "Git"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "Bloc"
+      },
+      {
+        "name": "Firebase"
+      },
+      {
+        "name": "CI/CD"
+      }
+    ],
+    "minYearsExperience": 1,
+    "maxYearsExperience": 3,
+    "minEducation": "college",
+    "vacancies": 2,
+    "status": "published",
+    "postedDaysAgo": 3,
+    "deadlineInDays": 25,
+    "viewsCount": 164,
+    "applicationsCount": 13
+  },
+  {
+    "employerEmail": "employer4@demo.com",
+    "title": "Lập trình viên .NET Core",
+    "description": "Bên cạnh sản phẩm riêng, Gió Biển nhận làm phần mềm quản lý cho các chuỗi khách sạn và công ty lữ hành. Dự án sắp tới là hệ thống quản lý đặt phòng trung tâm cho một chuỗi 14 khách sạn ven biển, cần kết nối với các kênh bán phòng trực tuyến (OTA) và phần mềm kế toán.\n\nCông việc:\n- Xây dựng API bằng .NET Core, thiết kế cơ sở dữ liệu SQL Server cho nghiệp vụ phòng, giá theo mùa và đoàn khách.\n- Tích hợp channel manager để đồng bộ tình trạng phòng, tránh bán trùng phòng.\n- Viết tác vụ nền xử lý đối soát cuối ngày và gửi báo cáo cho kế toán khách sạn.\n- Làm việc trực tiếp với đại diện khách hàng để làm rõ yêu cầu, viết tài liệu mô tả nghiệp vụ.",
+    "requirements": "- Từ 2 năm lập trình C#/.NET Core, hiểu LINQ, Entity Framework và dependency injection.\n- Thiết kế được cơ sở dữ liệu quan hệ chuẩn hóa, viết stored procedure khi cần.\n- Có kinh nghiệm tích hợp API bên thứ ba (thanh toán, OTA, hóa đơn điện tử).\n- Làm việc tốt với khách hàng, không ngại hỏi lại khi yêu cầu chưa rõ.\n- Hiểu nghiệp vụ khách sạn là lợi thế, nhưng chúng tôi sẽ hướng dẫn bạn.",
+    "benefitList": [
+      "Thưởng tháng 13 và thưởng theo dự án",
+      "Lương review mỗi 6 tháng",
+      "Bảo hiểm đầy đủ theo lương thực nhận",
+      "Cà phê, trái cây và bữa xế miễn phí",
+      "Học bổng thi chứng chỉ Microsoft Azure"
+    ],
+    "howToApply": "Nộp CV qua hệ thống, ghi rõ mức lương mong muốn. Phỏng vấn một vòng kỹ thuật 60 phút và một vòng gặp giám đốc dự án.",
+    "category": "it-software",
+    "level": "middle",
+    "employmentType": "full-time",
+    "workMode": "onsite",
+    "city": "Gia Lai",
+    "address": "Số 45 Trần Hưng Đạo, phường Quy Nhơn",
+    "salary": {
+      "min": 22000000,
+      "max": 34000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "C#"
+      },
+      {
+        "name": ".NET Core"
+      },
+      {
+        "name": "SQL Server"
+      },
+      {
+        "name": "Entity Framework"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "Azure"
+      },
+      {
+        "name": "Docker"
+      },
+      {
+        "name": "RabbitMQ"
+      }
+    ],
+    "minYearsExperience": 2,
+    "maxYearsExperience": 5,
+    "minEducation": "bachelor",
+    "vacancies": 2,
+    "status": "published",
+    "postedDaysAgo": 7,
+    "deadlineInDays": 18,
+    "viewsCount": 143,
+    "applicationsCount": 9
+  },
+  {
+    "employerEmail": "employer4@demo.com",
+    "title": "Thực tập sinh Frontend (Vue.js)",
+    "description": "Chương trình thực tập kéo dài 3 tháng dành cho sinh viên năm cuối ngành công nghệ thông tin tại Đà Nẵng và các tỉnh lân cận. Bạn sẽ được xếp vào đúng một nhóm sản phẩm, có mentor riêng và làm việc trên các tính năng thật của trang quản trị đặt tour.\n\nTrong 3 tháng:\n- Tháng 1: học quy trình làm việc, cấu trúc dự án Vue 3, sửa các lỗi giao diện nhỏ.\n- Tháng 2: tự phát triển hoàn chỉnh một tính năng nhỏ (ví dụ bộ lọc danh sách tour), có code review hằng ngày từ mentor.\n- Tháng 3: tham gia sprint như một thành viên chính thức và trình bày kết quả trước toàn công ty.\n\nSau chương trình, những bạn đạt yêu cầu sẽ được mời làm nhân viên chính thức với vị trí Fresher.",
+    "requirements": "- Sinh viên năm 3-4 hoặc mới tốt nghiệp ngành CNTT, Kỹ thuật phần mềm hoặc liên quan.\n- Nắm cơ bản HTML, CSS, JavaScript; đã làm ít nhất một bài tập lớn hoặc dự án cá nhân có giao diện.\n- Có thể thực tập toàn thời gian (40 giờ/tuần) ít nhất 3 tháng.\n- Chủ động đặt câu hỏi và ghi chép lại điều đã học.",
+    "benefitList": [
+      "Trợ cấp thực tập 4-6 triệu/tháng tùy năng lực",
+      "Mentor kèm 1-1 suốt chương trình",
+      "Cơ hội trở thành nhân viên chính thức",
+      "Ăn trưa tại văn phòng, có chỗ đậu xe máy miễn phí",
+      "Giấy xác nhận thực tập hoàn thành và thư giới thiệu"
+    ],
+    "howToApply": "Nộp hồ sơ trên hệ thống kèm bảng điểm hoặc đường dẫn bài tập bạn tự hào nhất. Chúng tôi chọn ứng viên qua một buổi trò chuyện 30 phút, không có bài thi khó.",
+    "category": "it-software",
+    "level": "intern",
+    "employmentType": "internship",
+    "workMode": "onsite",
+    "city": "Đà Nẵng",
+    "address": "58 Nguyễn Văn Linh, quận Hải Châu",
+    "salary": {
+      "min": 4000000,
+      "max": 6000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "JavaScript"
+      },
+      {
+        "name": "HTML/CSS"
+      },
+      {
+        "name": "Vue.js"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "Git"
+      },
+      {
+        "name": "Tailwind CSS"
+      }
+    ],
+    "minYearsExperience": 0,
+    "maxYearsExperience": 1,
+    "minEducation": "college",
+    "vacancies": 3,
+    "status": "published",
+    "postedDaysAgo": 11,
+    "deadlineInDays": 20,
+    "viewsCount": 98,
+    "applicationsCount": 22
+  },
+  {
+    "employerEmail": "employer5@demo.com",
+    "title": "Senior Golang Developer - Payment Core",
+    "description": "Bạch Dương Fintech vận hành ví điện tử và sản phẩm mua trước trả sau với khoảng 2,3 triệu người dùng hoạt động mỗi tháng. Lõi thanh toán xử lý trung bình 400 giao dịch mỗi giây vào giờ cao điểm và phải đảm bảo không mất, không trùng giao dịch dù một node bị lỗi.\n\nKhi gia nhập nhóm Payment Core (8 kỹ sư), bạn sẽ:\n- Thiết kế luồng ghi sổ kép (double-entry ledger) và cơ chế idempotency cho các API thanh toán.\n- Phát triển dịch vụ bằng Golang giao tiếp qua gRPC và Kafka, bảo đảm tính nhất quán cuối cùng giữa các dịch vụ.\n- Tối ưu độ trễ p99 của các API trọng yếu, hiện đang ở mức 180ms, mục tiêu dưới 100ms.\n- Phối hợp đội đối soát và tuân thủ để đáp ứng yêu cầu kiểm toán của ngân hàng đối tác.\n- Viết kịch bản chaos test để kiểm tra khả năng phục hồi khi mất một node cơ sở dữ liệu.",
+    "requirements": "- Từ 4 năm backend, ít nhất 2 năm với Golang trong hệ thống có tải cao.\n- Thành thạo PostgreSQL: mức cô lập transaction, khóa dòng, xử lý đồng thời.\n- Đã làm việc với Kafka hoặc hệ thống hàng đợi tương tự, hiểu at-least-once và exactly-once.\n- Cẩn trọng với dữ liệu tiền: luôn nghĩ tới trường hợp lỗi giữa chừng.\n- Kinh nghiệm trong lĩnh vực tài chính, ngân hàng hoặc thanh toán là một lợi thế đáng kể.",
+    "benefitList": [
+      "Lương tháng 13, thưởng KPI tối đa 4 tháng lương",
+      "ESOP cho vị trí senior trở lên",
+      "Bảo hiểm sức khỏe Bảo Việt cho nhân viên và 2 người thân",
+      "Ngân sách 25 triệu/năm cho hội thảo, khóa học",
+      "Làm việc hybrid, ca linh hoạt từ 8h đến 10h sáng",
+      "Phòng gym và phòng nghỉ tại văn phòng"
+    ],
+    "howToApply": "Hãy gửi CV qua nút Ứng tuyển. Vòng 1: trao đổi với tuyển dụng (20 phút). Vòng 2: phỏng vấn thiết kế hệ thống thanh toán với hai kỹ sư. Vòng 3: gặp Head of Engineering. Cả quy trình thường hoàn tất trong 10 ngày.",
+    "category": "it-software",
+    "level": "senior",
+    "employmentType": "full-time",
+    "workMode": "hybrid",
+    "city": "Hà Nội",
+    "address": "Tầng 12, tòa nhà Thăng Long Center, 98 Hoàng Quốc Việt, Cầu Giấy",
+    "salary": {
+      "min": 50000000,
+      "max": 80000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "Golang"
+      },
+      {
+        "name": "PostgreSQL"
+      },
+      {
+        "name": "Kafka"
+      },
+      {
+        "name": "gRPC"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "Redis"
+      },
+      {
+        "name": "Kubernetes"
+      },
+      {
+        "name": "Domain-driven design"
+      }
+    ],
+    "minYearsExperience": 4,
+    "maxYearsExperience": 8,
+    "minEducation": "bachelor",
+    "vacancies": 2,
+    "status": "published",
+    "postedDaysAgo": 4,
+    "deadlineInDays": 32,
+    "viewsCount": 604,
+    "applicationsCount": 41
+  },
+  {
+    "employerEmail": "employer5@demo.com",
+    "title": "Technical Lead - Lending Platform",
+    "description": "Nền tảng cho vay trả góp của Bạch Dương đang giải ngân hơn 60 tỷ đồng mỗi tháng, và đội ngũ muốn dựng lại phần chấm điểm tín dụng, quản lý hợp đồng vay và thu hồi nợ thành các dịch vụ rõ ràng hơn. Technical Lead là người chịu trách nhiệm kỹ thuật cho toàn bộ mảng này.\n\nBạn sẽ:\n- Dẫn dắt nhóm 6 kỹ sư, chia việc theo sprint hai tuần, bảo đảm chất lượng và tiến độ.\n- Viết thiết kế kiến trúc cho engine duyệt khoản vay (luật nghiệp vụ, điểm tín dụng, ngoại lệ thủ công) cho phép đội rủi ro tự chỉnh quy tắc mà không cần deploy lại.\n- Làm việc với đội Data để đưa mô hình chấm điểm vào luồng xử lý thời gian thực.\n- Trực tiếp viết code cho những phần phức tạp nhất, tối thiểu 50% thời gian.",
+    "requirements": "- Từ 6 năm phát triển phần mềm, đã từng giữ vai trò dẫn dắt kỹ thuật cho nhóm từ 4 người.\n- Có kinh nghiệm thiết kế hệ thống nhiều dịch vụ, nắm rõ đánh đổi giữa các lựa chọn kiến trúc.\n- Hiểu nghiệp vụ tài chính tiêu dùng (hợp đồng vay, lãi, phí, thu hồi) hoặc sẵn sàng học nhanh.\n- Giao tiếp tốt với các bên không chuyên về kỹ thuật như rủi ro, pháp chế, vận hành.\n- Biết Golang hoặc Java; nếu chưa dùng Golang, bạn cần chứng minh khả năng học nhanh.",
+    "benefitList": [
+      "Lương tháng 13, thưởng hiệu suất tối đa 4 tháng",
+      "ESOP",
+      "Bảo hiểm sức khỏe cao cấp cho cả gia đình",
+      "Xe đưa đón từ trung tâm thành phố đến văn phòng",
+      "Ngân sách đào tạo và hội thảo 30 triệu/năm"
+    ],
+    "howToApply": "Nộp hồ sơ qua hệ thống. Ứng viên được chọn sẽ có 3 buổi phỏng vấn: thiết kế hệ thống, dẫn dắt nhóm và gặp CTO. Kết quả được thông báo trong vòng 5 ngày làm việc sau buổi cuối.",
+    "category": "it-software",
+    "level": "lead",
+    "employmentType": "full-time",
+    "workMode": "onsite",
+    "city": "Hà Nội",
+    "address": "Tầng 12, tòa nhà Thăng Long Center, 98 Hoàng Quốc Việt, Cầu Giấy",
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": "VND",
+      "negotiable": true
+    },
+    "requiredSkills": [
+      {
+        "name": "Golang"
+      },
+      {
+        "name": "Kiến trúc hệ thống"
+      },
+      {
+        "name": "PostgreSQL"
+      },
+      {
+        "name": "Dẫn dắt nhóm"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "Credit scoring"
+      },
+      {
+        "name": "Machine Learning"
+      },
+      {
+        "name": "Event sourcing"
+      }
+    ],
+    "minYearsExperience": 6,
+    "maxYearsExperience": 10,
+    "minEducation": "bachelor",
+    "vacancies": 1,
+    "status": "published",
+    "postedDaysAgo": 13,
+    "deadlineInDays": 40,
+    "viewsCount": 377,
+    "applicationsCount": 16
+  },
+  {
+    "employerEmail": "employer5@demo.com",
+    "title": "Security Engineer (Application Security)",
+    "description": "Là đơn vị cung cấp dịch vụ thanh toán, Bạch Dương Fintech chịu sự giám sát chặt chẽ về an toàn thông tin và cần chứng nhận PCI DSS trong năm tới. Vị trí này thuộc nhóm Security với 3 thành viên và tập trung vào bảo mật ứng dụng.\n\nCông việc chính:\n- Rà soát mã nguồn và thiết kế của các tính năng mới, phát hiện sớm lỗ hổng theo OWASP Top 10.\n- Thực hiện kiểm thử xâm nhập định kỳ vào ứng dụng web, API và ứng dụng di động.\n- Tích hợp công cụ SAST/DAST vào pipeline CI để developer nhận cảnh báo ngay khi đẩy code.\n- Soạn hướng dẫn lập trình an toàn và tổ chức buổi chia sẻ cho các nhóm phát triển mỗi quý.\n- Theo dõi, kiểm tra việc khắc phục lỗ hổng cho đến khi đóng hoàn toàn.",
+    "requirements": "- Từ 3 năm làm bảo mật ứng dụng hoặc kiểm thử xâm nhập.\n- Thành thạo Burp Suite và hiểu cơ chế các lỗ hổng phổ biến: injection, XSS, CSRF, lỗi phân quyền, SSRF.\n- Đọc hiểu được mã Golang, Java hoặc Node.js để rà soát code.\n- Có chứng chỉ như OSCP, CEH hoặc tương đương là lợi thế.\n- Trung thực, có trách nhiệm với thông tin nhạy cảm.",
+    "benefitList": [
+      "Thưởng tháng 13 và phụ cấp chứng chỉ bảo mật",
+      "Công ty chi trả khóa học và thi chứng chỉ OSCP",
+      "Bảo hiểm sức khỏe cao cấp",
+      "Môi trường lab riêng để nghiên cứu"
+    ],
+    "howToApply": "Ứng tuyển qua hệ thống. Vì đặc thù vị trí, chúng tôi sẽ yêu cầu ký thỏa thuận bảo mật thông tin trước vòng phỏng vấn kỹ thuật.",
+    "category": "it-infra-security",
+    "level": "middle",
+    "employmentType": "full-time",
+    "workMode": "onsite",
+    "city": "Hà Nội",
+    "address": "Tầng 12, tòa nhà Thăng Long Center, 98 Hoàng Quốc Việt, Cầu Giấy",
+    "salary": {
+      "min": 35000000,
+      "max": 55000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "Application Security"
+      },
+      {
+        "name": "OWASP"
+      },
+      {
+        "name": "Penetration Testing"
+      },
+      {
+        "name": "Burp Suite"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "PCI DSS"
+      },
+      {
+        "name": "SAST/DAST"
+      },
+      {
+        "name": "Threat modeling"
+      }
+    ],
+    "minYearsExperience": 3,
+    "maxYearsExperience": 6,
+    "minEducation": "bachelor",
+    "vacancies": 1,
+    "status": "pending",
+    "postedDaysAgo": 1,
+    "deadlineInDays": 30,
+    "viewsCount": 12,
+    "applicationsCount": 0
+  },
+  {
+    "employerEmail": "employer5@demo.com",
+    "title": "Site Reliability Engineer",
+    "description": "Ví điện tử phải chạy 24/7, và chỉ 10 phút gián đoạn vào ngày lương cũng đủ làm hàng nghìn người dùng không thanh toán được. Nhóm SRE của Bạch Dương (4 người) cần thêm một kỹ sư để nâng độ tin cậy lên mức 99,95% và giảm thời gian khôi phục sự cố.\n\nVai trò của bạn:\n- Định nghĩa SLI/SLO cùng các nhóm sản phẩm và xây dựng dashboard hiển thị ngân sách lỗi còn lại.\n- Cải thiện hệ thống cảnh báo: bớt cảnh báo nhiễu, tăng cảnh báo có thể hành động ngay.\n- Chủ trì phân tích sau sự cố (không đổ lỗi), theo dõi các hành động khắc phục đến khi hoàn tất.\n- Viết công cụ tự động hóa bằng Python hoặc Go để giảm công việc thủ công lặp lại.\n- Chuẩn bị đợt chịu tải trước các dịp cao điểm như 11.11, Tết và ngày lương.",
+    "requirements": "- Từ 4 năm vận hành hệ thống production, thành thạo Linux và Kubernetes.\n- Có kinh nghiệm xây dựng giám sát (Prometheus, Grafana, ELK hoặc tương đương).\n- Viết code tự động hóa tốt; không ngại đọc mã nguồn dịch vụ để tìm nguyên nhân gốc.\n- Từng tham gia trực sự cố (on-call) và biết cách giữ bình tĩnh khi phối hợp nhiều nhóm.\n- Hiểu về cơ sở dữ liệu quan hệ và cách sao lưu, phục hồi.",
+    "benefitList": [
+      "Lương tháng 13 và thưởng KPI",
+      "Phụ cấp trực 700.000đ/đêm, được nghỉ bù sau sự cố ngoài giờ",
+      "ESOP cho vị trí senior",
+      "Bảo hiểm sức khỏe cao cấp",
+      "Hỗ trợ 100% phí thi chứng chỉ CKA/CKS"
+    ],
+    "howToApply": "Gửi CV qua hệ thống. Buổi phỏng vấn kỹ thuật sẽ xoay quanh một tình huống sự cố giả định, bạn trình bày cách chẩn đoán và xử lý chứ không cần chuẩn bị bài tập.",
+    "category": "it-infra-security",
+    "level": "senior",
+    "employmentType": "full-time",
+    "workMode": "hybrid",
+    "city": "Hà Nội",
+    "address": "Tầng 12, tòa nhà Thăng Long Center, 98 Hoàng Quốc Việt, Cầu Giấy",
+    "salary": {
+      "min": 48000000,
+      "max": 72000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "Linux"
+      },
+      {
+        "name": "Kubernetes"
+      },
+      {
+        "name": "Prometheus"
+      },
+      {
+        "name": "Python"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "Chaos engineering"
+      },
+      {
+        "name": "Istio"
+      },
+      {
+        "name": "Go"
+      }
+    ],
+    "minYearsExperience": 4,
+    "maxYearsExperience": 8,
+    "minEducation": "bachelor",
+    "vacancies": 1,
+    "status": "published",
+    "postedDaysAgo": 6,
+    "deadlineInDays": 5,
+    "viewsCount": 233,
+    "applicationsCount": 14
+  },
+  {
+    "employerEmail": "employer5@demo.com",
+    "title": "Business Analyst - Sản phẩm thanh toán",
+    "description": "BA của Bạch Dương là cầu nối giữa đội sản phẩm, vận hành và kỹ sư. Bạn sẽ làm việc với nhóm Sản phẩm Thanh toán để biến những yêu cầu như \"cho phép người dùng chia hóa đơn với bạn bè\" thành tài liệu đủ rõ để kỹ sư làm đúng ngay lần đầu.\n\nCông việc:\n- Làm việc với Product Owner và các phòng ban để thu thập yêu cầu, viết user story cùng tiêu chí nghiệm thu.\n- Vẽ lưu đồ nghiệp vụ, mô tả các trường hợp ngoại lệ (giao dịch thất bại, hoàn tiền, giao dịch treo).\n- Truy vấn dữ liệu bằng SQL để kiểm chứng giả thuyết và đo hiệu quả tính năng sau khi phát hành.\n- Tham gia kiểm thử chấp nhận (UAT) trước mỗi lần phát hành.",
+    "requirements": "- Từ 1 năm làm BA, hoặc đã làm QA/CSKH nhiều năm và muốn chuyển hướng.\n- Viết tài liệu rõ ràng, mạch lạc; thích hỏi \"tại sao\" cho đến khi hiểu đủ.\n- Biết SQL cơ bản (JOIN, GROUP BY) để tự lấy số liệu.\n- Sử dụng được công cụ vẽ sơ đồ và Jira/Confluence.\n- Hiểu biết về thanh toán, ngân hàng là lợi thế nhưng không bắt buộc.",
+    "benefitList": [
+      "Thưởng tháng 13",
+      "Lộ trình lên Senior BA hoặc Product Owner",
+      "Bảo hiểm sức khỏe",
+      "Làm việc từ thứ Hai đến thứ Sáu, không làm thứ Bảy",
+      "Ngân sách đào tạo BABOK/CBAP"
+    ],
+    "howToApply": "Nộp hồ sơ ngay trên trang. Bạn sẽ có một bài tập ngắn: đọc mô tả một tính năng và viết 5 user story kèm tiêu chí nghiệm thu, thời gian làm khoảng 1 giờ, trước buổi phỏng vấn.",
+    "category": "it-software",
+    "level": "junior",
+    "employmentType": "full-time",
+    "workMode": "onsite",
+    "city": "Hà Nội",
+    "address": "Tầng 12, tòa nhà Thăng Long Center, 98 Hoàng Quốc Việt, Cầu Giấy",
+    "salary": {
+      "min": 16000000,
+      "max": 26000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "Business Analysis"
+      },
+      {
+        "name": "SQL"
+      },
+      {
+        "name": "User Story"
+      },
+      {
+        "name": "Draw.io"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "Jira"
+      },
+      {
+        "name": "BPMN"
+      },
+      {
+        "name": "Hiểu nghiệp vụ ngân hàng"
+      }
+    ],
+    "minYearsExperience": 1,
+    "maxYearsExperience": 3,
+    "minEducation": "bachelor",
+    "vacancies": 2,
+    "status": "published",
+    "postedDaysAgo": 16,
+    "deadlineInDays": 3,
+    "viewsCount": 207,
+    "applicationsCount": 28
+  }
+]

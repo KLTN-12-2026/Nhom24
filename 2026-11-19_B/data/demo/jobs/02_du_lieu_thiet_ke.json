@@ -1,0 +1,755 @@
+[
+  {
+    "employerEmail": "employer6@demo.com",
+    "title": "Data Engineer (Airflow, Spark)",
+    "description": "Pha Lê Data xây dựng kho dữ liệu và hệ thống báo cáo cho các doanh nghiệp bán lẻ, ngân hàng và hãng hàng không nội địa. Mỗi dự án thường bắt đầu từ việc gom dữ liệu rải rác ở hàng chục hệ thống (ERP, POS, CRM, file Excel) về một nơi sạch sẽ và đáng tin để đội phân tích sử dụng.\n\nBạn sẽ tham gia 2-3 dự án song song với vai trò kỹ sư dữ liệu:\n- Thiết kế và xây dựng pipeline ETL/ELT bằng Airflow, xử lý lô dữ liệu lớn bằng Spark.\n- Mô hình hóa kho dữ liệu theo dạng star schema, dùng dbt để quản lý biến đổi và kiểm thử chất lượng dữ liệu.\n- Xây dựng cơ chế giám sát: pipeline nào chậm, dữ liệu nào thiếu, bảng nào lệch số so với hệ thống nguồn.\n- Làm việc với khách hàng để hiểu định nghĩa chỉ số (ví dụ \"doanh thu thuần\" tính thế nào) và ghi lại thành từ điển dữ liệu.\n\nĐội Data Engineering hiện có 9 người, họp review thiết kế mỗi thứ Ba.",
+    "requirements": "- Từ 2 năm làm việc với dữ liệu, thành thạo Python và SQL (window function, tối ưu truy vấn).\n- Đã xây ít nhất một pipeline chạy định kỳ bằng Airflow hoặc công cụ điều phối tương tự.\n- Hiểu nguyên tắc mô hình hóa dữ liệu (dimension, fact, slowly changing dimension).\n- Có kinh nghiệm với Spark hoặc xử lý dữ liệu phân tán là một lợi thế.\n- Giao tiếp tốt với khách hàng không chuyên về kỹ thuật.",
+    "benefitList": [
+      "Lương tháng 13 và thưởng dự án khi bàn giao đúng hạn",
+      "Hỗ trợ thi chứng chỉ Google Cloud Professional Data Engineer",
+      "Hybrid 3 ngày tại văn phòng",
+      "Bảo hiểm sức khỏe và du lịch hằng năm",
+      "Thư viện sách chuyên ngành và học phí khóa học trực tuyến"
+    ],
+    "howToApply": "Nộp CV trên hệ thống. Vòng kỹ thuật gồm 45 phút phỏng vấn SQL và thiết kế pipeline với hai kỹ sư, sau đó là buổi trò chuyện với trưởng nhóm. Không có bài tập về nhà.",
+    "category": "it-data-ai",
+    "level": "middle",
+    "employmentType": "full-time",
+    "workMode": "hybrid",
+    "city": "Hà Nội",
+    "address": "Tầng 5, số 17 Duy Tân, Cầu Giấy",
+    "salary": {
+      "min": 28000000,
+      "max": 45000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "Python"
+      },
+      {
+        "name": "SQL"
+      },
+      {
+        "name": "Apache Airflow"
+      },
+      {
+        "name": "Apache Spark"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "dbt"
+      },
+      {
+        "name": "BigQuery"
+      },
+      {
+        "name": "Docker"
+      }
+    ],
+    "minYearsExperience": 2,
+    "maxYearsExperience": 5,
+    "minEducation": "bachelor",
+    "vacancies": 2,
+    "status": "published",
+    "postedDaysAgo": 2,
+    "deadlineInDays": 26,
+    "viewsCount": 342,
+    "applicationsCount": 27
+  },
+  {
+    "employerEmail": "employer6@demo.com",
+    "title": "Data Analyst (Power BI)",
+    "description": "Sau khi kho dữ liệu hoàn thành, công việc của Data Analyst là biến nó thành những báo cáo mà giám đốc kinh doanh mở lên mỗi sáng thứ Hai. Chúng tôi cần các bạn phân tích trẻ, thích con số và biết kể chuyện bằng biểu đồ.\n\nCông việc cụ thể:\n- Thiết kế dashboard Power BI cho các chuỗi bán lẻ: doanh thu theo cửa hàng, tỷ lệ hàng tồn, hiệu quả khuyến mãi.\n- Viết DAX và truy vấn SQL để tính các chỉ số phức tạp như tỷ lệ khách quay lại sau 30 ngày.\n- Phân tích nguyên nhân khi một chỉ số biến động bất thường và trình bày kết luận cho khách hàng bằng slide ngắn gọn.\n- Phối hợp với Data Engineer để yêu cầu bổ sung hoặc sửa dữ liệu nguồn.\n\nBạn sẽ được đào tạo bài bản về mô hình dữ liệu trong 2 tháng đầu.",
+    "requirements": "- Tốt nghiệp đại học các ngành Kinh tế, Thống kê, Toán tin, CNTT hoặc tương đương.\n- Từ 1 năm làm phân tích dữ liệu hoặc báo cáo kinh doanh; chấp nhận ứng viên mới ra trường có đồ án dữ liệu tốt.\n- Thành thạo Excel và SQL; đã dùng Power BI hoặc Tableau.\n- Trình bày mạch lạc bằng cả văn bản và lời nói.\n- Tính cẩn thận: luôn kiểm tra lại con số trước khi gửi.",
+    "benefitList": [
+      "Thưởng tháng 13",
+      "2 buổi đào tạo nội bộ mỗi tháng do chuyên gia của công ty giảng",
+      "Bảo hiểm sức khỏe",
+      "Laptop và màn hình thứ hai",
+      "Hỗ trợ học phí khóa Microsoft PL-300"
+    ],
+    "howToApply": "Ứng tuyển qua hệ thống, đính kèm báo cáo hoặc dashboard bạn từng làm (ảnh chụp hoặc đường dẫn). Phỏng vấn gồm một bài tình huống: được cho bảng số liệu bán hàng và trình bày 3 nhận xét chính trong 15 phút.",
+    "category": "it-data-ai",
+    "level": "junior",
+    "employmentType": "full-time",
+    "workMode": "onsite",
+    "city": "Hà Nội",
+    "address": "Tầng 5, số 17 Duy Tân, Cầu Giấy",
+    "salary": {
+      "min": 15000000,
+      "max": 24000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "SQL"
+      },
+      {
+        "name": "Power BI"
+      },
+      {
+        "name": "Excel"
+      },
+      {
+        "name": "DAX"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "Python"
+      },
+      {
+        "name": "Tableau"
+      },
+      {
+        "name": "Google Analytics"
+      }
+    ],
+    "minYearsExperience": 1,
+    "maxYearsExperience": 3,
+    "minEducation": "bachelor",
+    "vacancies": 3,
+    "status": "published",
+    "postedDaysAgo": 8,
+    "deadlineInDays": 17,
+    "viewsCount": 410,
+    "applicationsCount": 53
+  },
+  {
+    "employerEmail": "employer6@demo.com",
+    "title": "Trưởng nhóm Dữ liệu (Analytics Lead)",
+    "description": "Pha Lê Data đang mở rộng mảng tư vấn phân tích cho khối ngân hàng và bảo hiểm. Trưởng nhóm Dữ liệu sẽ dẫn dắt 8 chuyên viên phân tích và kỹ sư analytics, chịu trách nhiệm chất lượng đầu ra của 4-5 dự án đồng thời.\n\nTrách nhiệm:\n- Làm việc với khách hàng cấp giám đốc để xác định bài toán, phạm vi và chỉ số thành công của dự án.\n- Chuẩn hóa phương pháp mô hình hóa và quy trình kiểm thử chất lượng dữ liệu cho toàn bộ nhóm.\n- Phân công, đánh giá và huấn luyện nhân viên; chủ trì buổi review báo cáo trước khi gửi khách hàng.\n- Cùng ban giám đốc xây dựng gói dịch vụ mới như \"Data Governance cho ngân hàng vừa và nhỏ\".\n- Tham gia buổi thuyết trình giải pháp (pre-sales) khi cần.",
+    "requirements": "- Từ 6 năm trong lĩnh vực phân tích dữ liệu hoặc kho dữ liệu, ít nhất 2 năm dẫn dắt nhóm.\n- Kỹ năng SQL và mô hình hóa dữ liệu rất vững, đủ để phản biện thiết kế của người khác.\n- Từng làm dự án cho tổ chức tài chính, ngân hàng hoặc bảo hiểm là lợi thế lớn.\n- Kỹ năng thuyết trình và đàm phán tốt, viết báo cáo tiếng Việt và tiếng Anh rõ ràng.\n- Biết cách tạo văn hóa chia sẻ trong nhóm.",
+    "benefitList": [
+      "Lương tháng 13, thưởng lợi nhuận theo năm",
+      "Chia sẻ lợi nhuận dự án với trưởng nhóm",
+      "Bảo hiểm sức khỏe cao cấp",
+      "Hybrid 3 ngày tại văn phòng",
+      "Chi trả toàn bộ chi phí hội thảo quốc tế mỗi năm một lần"
+    ],
+    "howToApply": "Nộp hồ sơ qua hệ thống, kèm một dự án tiêu biểu bạn đã dẫn dắt (không cần tiết lộ tên khách hàng). Quy trình có 3 buổi, trong đó một buổi là thuyết trình ngắn về cách bạn xây dựng nhóm phân tích.",
+    "category": "it-data-ai",
+    "level": "lead",
+    "employmentType": "full-time",
+    "workMode": "hybrid",
+    "city": "Hà Nội",
+    "address": "Tầng 5, số 17 Duy Tân, Cầu Giấy",
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": "VND",
+      "negotiable": true
+    },
+    "requiredSkills": [
+      {
+        "name": "SQL"
+      },
+      {
+        "name": "Data Modeling"
+      },
+      {
+        "name": "Dẫn dắt nhóm"
+      },
+      {
+        "name": "Data Governance"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "dbt"
+      },
+      {
+        "name": "Snowflake"
+      },
+      {
+        "name": "Tư vấn doanh nghiệp"
+      }
+    ],
+    "minYearsExperience": 6,
+    "maxYearsExperience": 10,
+    "minEducation": "bachelor",
+    "vacancies": 1,
+    "status": "published",
+    "postedDaysAgo": 18,
+    "deadlineInDays": 45,
+    "viewsCount": 289,
+    "applicationsCount": 8
+  },
+  {
+    "employerEmail": "employer6@demo.com",
+    "title": "Thực tập sinh Data (SQL, Python)",
+    "description": "Chương trình \"Data Starter\" kéo dài 12 tuần cho sinh viên năm cuối. Hai tuần đầu bạn học cùng nhau trong lớp nhỏ (SQL nâng cao, Python cho phân tích, tư duy mô hình dữ liệu), sau đó được xếp vào một dự án thật dưới sự hướng dẫn của một Data Engineer hoặc Analyst.\n\nBạn sẽ làm:\n- Làm sạch và chuẩn hóa dữ liệu thô từ file CSV, Excel của khách hàng bằng Python.\n- Viết truy vấn SQL kiểm tra chất lượng dữ liệu và lập danh sách các điểm bất thường.\n- Dựng báo cáo nhỏ trên Power BI hoặc Excel từ dữ liệu đã làm sạch.\n- Ghi chép lại quy trình thành tài liệu cho nhóm.\n\nCuối chương trình có buổi báo cáo trước ban giám đốc; thực tập sinh xuất sắc sẽ nhận lời mời vị trí Data Analyst hoặc Junior Data Engineer.",
+    "requirements": "- Sinh viên năm 3-4 ngành CNTT, Toán tin, Thống kê, Kinh tế hoặc các ngành có học xác suất thống kê.\n- Biết SQL cơ bản và một ngôn ngữ lập trình; ưu tiên Python.\n- Có thể làm việc ít nhất 4 ngày/tuần trong 12 tuần.\n- Tinh thần học hỏi và thích làm việc với con số.",
+    "benefitList": [
+      "Trợ cấp 3-5 triệu/tháng",
+      "Lớp đào tạo nội bộ 2 tuần đầu",
+      "Cơ hội nhận việc chính thức",
+      "Chứng nhận thực tập và thư giới thiệu",
+      "Bữa trưa miễn phí vào ngày làm việc tại văn phòng"
+    ],
+    "howToApply": "Điền thông tin và nộp CV ngay trên hệ thống. Chúng tôi lọc hồ sơ trong 3 ngày, sau đó mời bạn làm bài kiểm tra SQL 30 phút trực tuyến và một buổi trò chuyện ngắn.",
+    "category": "it-data-ai",
+    "level": "intern",
+    "employmentType": "internship",
+    "workMode": "onsite",
+    "city": "Hà Nội",
+    "address": "Tầng 5, số 17 Duy Tân, Cầu Giấy",
+    "salary": {
+      "min": 3000000,
+      "max": 5000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "SQL"
+      },
+      {
+        "name": "Python"
+      },
+      {
+        "name": "Excel"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "Pandas"
+      },
+      {
+        "name": "Power BI"
+      }
+    ],
+    "minYearsExperience": 0,
+    "maxYearsExperience": 0,
+    "minEducation": "college",
+    "vacancies": 4,
+    "status": "published",
+    "postedDaysAgo": 5,
+    "deadlineInDays": 22,
+    "viewsCount": 240,
+    "applicationsCount": 61
+  },
+  {
+    "employerEmail": "employer7@demo.com",
+    "title": "Machine Learning Engineer (NLP tiếng Việt)",
+    "description": "Thiên Hà AI Lab là đội 20 người xây dựng mô hình ngôn ngữ cho tiếng Việt: từ tóm tắt hợp đồng, phân loại phản hồi khách hàng đến trợ lý trả lời cho tổng đài ngân hàng. Chúng tôi huấn luyện và tinh chỉnh các mô hình mã nguồn mở trên bộ dữ liệu tự thu thập và triển khai chúng trên hạ tầng GPU của khách hàng.\n\nPhạm vi công việc:\n- Thiết kế quy trình đánh giá mô hình bằng bộ dữ liệu tiếng Việt, nhận diện sớm các lỗi như bịa thông tin hoặc sai thuật ngữ chuyên ngành.\n- Tinh chỉnh (fine-tune) mô hình ngôn ngữ cho từng bài toán, thử nghiệm LoRA/QLoRA để giảm chi phí huấn luyện.\n- Tối ưu độ trễ và chi phí suy luận: lượng tử hóa, batching, triển khai bằng Triton hoặc vLLM.\n- Phối hợp với kỹ sư dữ liệu để xây dựng bộ dữ liệu huấn luyện sạch và ẩn danh hóa thông tin cá nhân.\n- Đọc bài báo mới và đề xuất những ý tưởng đáng thử trong buổi họp nghiên cứu hai tuần một lần.",
+    "requirements": "- Từ 4 năm làm học máy ứng dụng, ít nhất 2 năm với NLP và PyTorch.\n- Đã tinh chỉnh hoặc huấn luyện mô hình Transformer và đưa ít nhất một mô hình vào sản phẩm thật.\n- Hiểu cách thiết kế thí nghiệm và đo lường: tập kiểm thử, độ lệch, độ tin cậy thống kê.\n- Biết Docker và cơ bản về triển khai mô hình (MLOps).\n- Bằng thạc sĩ hoặc có công bố khoa học là điểm cộng, không bắt buộc.",
+    "benefitList": [
+      "Làm việc từ xa hoàn toàn, họp trực tiếp tại văn phòng mỗi quý",
+      "Quyền sử dụng cụm GPU cho nghiên cứu cá nhân 4 giờ/tuần",
+      "Ngân sách tham dự hội nghị (ACL, EMNLP, ICLR) và hỗ trợ viết bài",
+      "Thưởng tháng 13 và thưởng theo hợp đồng ký được",
+      "Bảo hiểm sức khỏe cao cấp",
+      "ESOP"
+    ],
+    "howToApply": "Nộp CV hoặc đường dẫn Google Scholar/GitHub trên hệ thống. Quy trình: trò chuyện 30 phút, phỏng vấn kỹ thuật về một bài toán NLP thực tế và buổi trình bày 20 phút về một dự án học máy bạn từng làm.",
+    "category": "it-data-ai",
+    "level": "senior",
+    "employmentType": "full-time",
+    "workMode": "remote",
+    "city": "Làm việc từ xa / Toàn quốc",
+    "address": "Làm việc từ xa, toàn quốc",
+    "salary": {
+      "min": 55000000,
+      "max": 90000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "Python"
+      },
+      {
+        "name": "PyTorch"
+      },
+      {
+        "name": "NLP"
+      },
+      {
+        "name": "Transformers"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "LLM Fine-tuning"
+      },
+      {
+        "name": "MLOps"
+      },
+      {
+        "name": "Triton Inference Server"
+      }
+    ],
+    "minYearsExperience": 4,
+    "maxYearsExperience": 8,
+    "minEducation": "master",
+    "vacancies": 1,
+    "status": "published",
+    "postedDaysAgo": 3,
+    "deadlineInDays": 38,
+    "viewsCount": 498,
+    "applicationsCount": 33
+  },
+  {
+    "employerEmail": "employer7@demo.com",
+    "title": "Computer Vision Engineer - Giám sát kho bãi",
+    "description": "Dự án mới của Thiên Hà là hệ thống camera đếm pallet và nhận diện hàng hóa tại các kho trung chuyển lớn, thay thế việc kiểm đếm thủ công vốn tốn hàng trăm giờ công mỗi tháng. Hệ thống chạy trên thiết bị biên đặt ngay tại kho, nơi ánh sáng yếu và camera thường bị bụi bám.\n\nBạn sẽ:\n- Huấn luyện và cải thiện mô hình phát hiện vật thể (YOLO, RT-DETR) trên ảnh thực tế từ kho.\n- Xây dựng quy trình gán nhãn, kiểm soát chất lượng nhãn và tăng cường dữ liệu cho ảnh thiếu sáng.\n- Chuyển mô hình sang ONNX/TensorRT và đo tốc độ trên thiết bị Jetson.\n- Thiết kế logic theo dõi vật thể qua nhiều khung hình để đếm chính xác kể cả khi hàng bị che.\n- Cùng đội triển khai đi khảo sát và lắp đặt tại kho khi cần (1-2 chuyến/tháng).",
+    "requirements": "- Từ 2 năm làm việc với thị giác máy tính, thành thạo OpenCV và PyTorch.\n- Đã triển khai mô hình phát hiện vật thể vào ứng dụng thực tế.\n- Hiểu cách tối ưu mô hình cho thiết bị cấu hình thấp (lượng tử hóa, ONNX, TensorRT).\n- Sẵn sàng đi công tác ngắn hạn trong nước.\n- Kỹ năng viết code sạch, có test cho phần tiền xử lý dữ liệu.",
+    "benefitList": [
+      "Thưởng tháng 13 và thưởng khi triển khai thành công tại khách hàng",
+      "Máy trạm cá nhân gắn GPU RTX",
+      "Hybrid 3 ngày tại văn phòng",
+      "Phụ cấp công tác đầy đủ",
+      "Bảo hiểm sức khỏe"
+    ],
+    "howToApply": "Nộp hồ sơ trên hệ thống kèm dự án thị giác máy tính bạn đã làm. Phỏng vấn gồm hai buổi: kỹ thuật học máy và buổi demo/thảo luận một bài toán thực tế của kho vận.",
+    "category": "it-data-ai",
+    "level": "middle",
+    "employmentType": "full-time",
+    "workMode": "hybrid",
+    "city": "TP. Hồ Chí Minh",
+    "address": "Số 8 Phan Kế Bính, Phường Đa Kao, Quận 1",
+    "salary": {
+      "min": 32000000,
+      "max": 52000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "Python"
+      },
+      {
+        "name": "OpenCV"
+      },
+      {
+        "name": "PyTorch"
+      },
+      {
+        "name": "Object Detection"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "ONNX"
+      },
+      {
+        "name": "TensorRT"
+      },
+      {
+        "name": "Edge AI"
+      }
+    ],
+    "minYearsExperience": 2,
+    "maxYearsExperience": 5,
+    "minEducation": "bachelor",
+    "vacancies": 1,
+    "status": "published",
+    "postedDaysAgo": 10,
+    "deadlineInDays": 19,
+    "viewsCount": 215,
+    "applicationsCount": 12
+  },
+  {
+    "employerEmail": "employer7@demo.com",
+    "title": "Data Annotator kiêm Kiểm soát chất lượng dữ liệu",
+    "description": "Chất lượng mô hình ngôn ngữ phụ thuộc rất lớn vào chất lượng dữ liệu huấn luyện. Thiên Hà cần các bạn có cảm nhận tiếng Việt tinh tế để gán nhãn và kiểm tra dữ liệu văn bản: phân loại cảm xúc, đánh dấu tên riêng, đánh giá câu trả lời do mô hình sinh ra.\n\nCông việc làm tại nhà, 4 giờ mỗi ngày, ngày đi làm do bạn chọn trong khung giờ 8h-22h:\n- Gán nhãn văn bản theo hướng dẫn chi tiết trên công cụ Label Studio.\n- Đối chiếu chéo nhãn của đồng nghiệp, ghi lại các trường hợp mơ hồ để cả nhóm thống nhất quy tắc.\n- Đánh giá chất lượng câu trả lời của mô hình trên thang điểm 1-5 và nêu lý do ngắn gọn.\n- Báo cáo số lượng và độ chính xác công việc hằng tuần.\n\nĐược đào tạo trực tuyến 1 buổi trước khi bắt đầu, sau đó làm thử 1 tuần có trả lương.",
+    "requirements": "- Sinh viên hoặc người đã đi làm cần công việc bán thời gian linh hoạt, tốt nghiệp THPT trở lên.\n- Đọc hiểu và viết tiếng Việt chuẩn xác, nhạy với sắc thái ngôn ngữ.\n- Cẩn thận, kiên nhẫn khi làm công việc lặp lại và đòi hỏi độ chính xác cao.\n- Có máy tính và đường truyền internet ổn định.\n- Cam kết làm việc tối thiểu 3 tháng.",
+    "benefitList": [
+      "Lương 6-9 triệu/tháng tùy sản lượng và chất lượng, trả vào ngày 5 hằng tháng",
+      "Làm việc tại nhà, tự chọn ngày giờ",
+      "Cơ hội lên vị trí trưởng nhóm gán nhãn hoặc chuyển sang vị trí kỹ thuật",
+      "Thưởng chuyên cần mỗi quý"
+    ],
+    "howToApply": "Ứng tuyển trên hệ thống và hoàn thành bài kiểm tra gán nhãn 20 phút được gửi qua email trong vòng 24 giờ. Kết quả sẽ có trong 2 ngày.",
+    "category": "it-data-ai",
+    "level": "fresher",
+    "employmentType": "freelance",
+    "workMode": "remote",
+    "city": "Làm việc từ xa / Toàn quốc",
+    "address": "Làm việc từ xa, toàn quốc",
+    "salary": {
+      "min": 6000000,
+      "max": 9000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "Tiếng Việt chuyên sâu"
+      },
+      {
+        "name": "Cẩn thận"
+      },
+      {
+        "name": "Excel"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "Ngôn ngữ học"
+      },
+      {
+        "name": "Tiếng Anh"
+      },
+      {
+        "name": "Label Studio"
+      }
+    ],
+    "minYearsExperience": 0,
+    "maxYearsExperience": 1,
+    "minEducation": "high_school",
+    "vacancies": 6,
+    "status": "published",
+    "postedDaysAgo": 0,
+    "deadlineInDays": 12,
+    "viewsCount": 305,
+    "applicationsCount": 74
+  },
+  {
+    "employerEmail": "employer8@demo.com",
+    "title": "Senior UI/UX Designer",
+    "description": "Mực Tím là studio thiết kế sản phẩm số gồm 18 người, chuyên làm ứng dụng và website cho các doanh nghiệp vừa và startup trong lĩnh vực y tế, giáo dục và tài chính cá nhân. Mỗi dự án kéo dài 2-5 tháng, từ khâu nghiên cứu người dùng đến bàn giao bản thiết kế cho đội kỹ sư.\n\nVị trí Senior UI/UX Designer sẽ:\n- Chủ trì khâu khám phá: phỏng vấn người dùng, vẽ hành trình, xác định vấn đề cần giải quyết trước khi vẽ màn hình.\n- Thiết kế luồng và giao diện chi tiết trong Figma, xây dựng design system riêng cho từng khách hàng.\n- Dẫn dắt 1-2 designer junior trong dự án: phản hồi hằng ngày và review bản thiết kế.\n- Trình bày giải pháp trực tiếp với khách hàng và bảo vệ các quyết định thiết kế bằng dữ liệu.\n- Phối hợp với kỹ sư để bàn giao và nghiệm thu giao diện sau khi phát triển.",
+    "requirements": "- Từ 4 năm thiết kế sản phẩm số, có portfolio thể hiện cả quy trình (không chỉ ảnh giao diện đẹp).\n- Thành thạo Figma, auto layout, component và variable.\n- Từng tự tổ chức nghiên cứu người dùng: phỏng vấn, thử nghiệm khả dụng.\n- Kỹ năng trình bày và nhận phản hồi tốt.\n- Hiểu nguyên tắc trợ năng (accessibility) cơ bản là điểm cộng.",
+    "benefitList": [
+      "Thưởng tháng 13 và thưởng dự án",
+      "Hybrid: 3 ngày tại studio, 2 ngày ở nhà",
+      "MacBook Pro, màn hình ngoài và bản quyền phần mềm đầy đủ",
+      "Ngân sách 12 triệu/năm cho khóa học và sách thiết kế",
+      "Mỗi quý một tuần \"tự do sáng tạo\" để làm dự án cá nhân",
+      "Bảo hiểm sức khỏe"
+    ],
+    "howToApply": "Gửi portfolio (đường dẫn Behance, Notion hoặc PDF dưới 20MB) cùng CV qua hệ thống. Vòng 1: xem portfolio 30 phút. Vòng 2: thực hành thiết kế một tình huống ngắn cùng đội. Vòng 3: trò chuyện cùng người sáng lập.",
+    "category": "design",
+    "level": "senior",
+    "employmentType": "full-time",
+    "workMode": "hybrid",
+    "city": "TP. Hồ Chí Minh",
+    "address": "31 Trần Nhật Duật, Phường Tân Định, Quận 1",
+    "salary": {
+      "min": 35000000,
+      "max": 55000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "Figma"
+      },
+      {
+        "name": "UX Research"
+      },
+      {
+        "name": "Design System"
+      },
+      {
+        "name": "Prototyping"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "Motion design"
+      },
+      {
+        "name": "Accessibility"
+      },
+      {
+        "name": "Tiếng Anh"
+      }
+    ],
+    "minYearsExperience": 4,
+    "maxYearsExperience": 8,
+    "minEducation": "bachelor",
+    "vacancies": 1,
+    "status": "published",
+    "postedDaysAgo": 4,
+    "deadlineInDays": 29,
+    "viewsCount": 336,
+    "applicationsCount": 26
+  },
+  {
+    "employerEmail": "employer8@demo.com",
+    "title": "Graphic Designer (Branding)",
+    "description": "Ngoài thiết kế sản phẩm số, Mực Tím nhận làm bộ nhận diện thương hiệu cho các quán cà phê, thương hiệu mỹ phẩm thủ công và nhà hàng mới mở. Đây là phần việc thiên về hình ảnh, nơi bạn được thể hiện gu thẩm mỹ và khả năng kể chuyện thương hiệu.\n\nBạn sẽ:\n- Nghiên cứu khách hàng, đối thủ và xây dựng bảng cảm hứng (moodboard) cho từng dự án.\n- Thiết kế logo, bảng màu, hệ thống chữ và các ứng dụng như bao bì, menu, bảng hiệu, ấn phẩm mạng xã hội.\n- Chuẩn bị file in ấn đúng kỹ thuật và làm việc với xưởng in để kiểm màu.\n- Viết \"brand guideline\" 20-40 trang để khách hàng sử dụng sau khi bàn giao.\n\nMỗi tháng studio tổ chức một buổi review chéo, nơi tất cả mọi người góp ý cho tác phẩm của nhau.",
+    "requirements": "- Từ 2 năm thiết kế đồ họa, ưu tiên đã làm nhận diện thương hiệu hoặc bao bì.\n- Thành thạo Illustrator, Photoshop; biết InDesign là lợi thế.\n- Có gu thẩm mỹ tốt, hiểu chữ và bố cục; đam mê tìm hiểu xu hướng nhưng không chạy theo mốt.\n- Hiểu quy trình in ấn (CMYK, Pantone, bù xén).\n- Portfolio có ít nhất 3 dự án hoàn chỉnh.",
+    "benefitList": [
+      "Thưởng tháng 13",
+      "Bản quyền Adobe Creative Cloud và font chữ trả phí",
+      "Studio có sân thượng, thư viện sách thiết kế riêng",
+      "Bảo hiểm sức khỏe",
+      "Được ghi tên tác giả trong các dự án công bố"
+    ],
+    "howToApply": "Nộp portfolio qua hệ thống. Nếu hồ sơ phù hợp, bạn sẽ được mời đến studio làm bài thiết kế nhanh một mẫu logo trong 2 giờ cùng buổi phỏng vấn.",
+    "category": "design",
+    "level": "middle",
+    "employmentType": "full-time",
+    "workMode": "onsite",
+    "city": "TP. Hồ Chí Minh",
+    "address": "31 Trần Nhật Duật, Phường Tân Định, Quận 1",
+    "salary": {
+      "min": 18000000,
+      "max": 28000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "Adobe Illustrator"
+      },
+      {
+        "name": "Photoshop"
+      },
+      {
+        "name": "Branding"
+      },
+      {
+        "name": "Typography"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "InDesign"
+      },
+      {
+        "name": "Packaging"
+      },
+      {
+        "name": "Minh họa"
+      }
+    ],
+    "minYearsExperience": 2,
+    "maxYearsExperience": 4,
+    "minEducation": "college",
+    "vacancies": 2,
+    "status": "published",
+    "postedDaysAgo": 12,
+    "deadlineInDays": 15,
+    "viewsCount": 188,
+    "applicationsCount": 17
+  },
+  {
+    "employerEmail": "employer8@demo.com",
+    "title": "Motion Designer (After Effects)",
+    "description": "Chúng tôi cần một motion designer hợp đồng 6 tháng (có thể gia hạn) để làm video giới thiệu sản phẩm, hoạt ảnh giao diện và các đoạn lottie cho ứng dụng của khách hàng. Phần lớn công việc có thể thực hiện từ xa, thỉnh thoảng gặp trực tiếp để duyệt sản phẩm.\n\nCông việc:\n- Dựng storyboard từ kịch bản do đội nội dung cung cấp.\n- Làm hoạt ảnh bằng After Effects: chuyển động logo, infographic động, video giải thích sản phẩm 60-90 giây.\n- Xuất file Lottie để đội kỹ sư tích hợp vào ứng dụng.\n- Giữ nhịp độ: mỗi tuần hoàn thành 2-3 sản phẩm có độ dài ngắn.",
+    "requirements": "- Từ 1 năm làm motion graphics, có showreel tối thiểu 3 sản phẩm.\n- Thành thạo After Effects, quen Premiere Pro; biết Cinema 4D là điểm cộng.\n- Hiểu nguyên tắc chuyển động (easing, timing, anticipation).\n- Làm việc đúng hạn, báo cáo sớm khi có rủi ro trễ tiến độ.\n- Không yêu cầu bằng cấp.",
+    "benefitList": [
+      "Thu nhập 14-22 triệu/tháng tùy sản lượng, thanh toán theo tuần",
+      "Làm việc từ xa, tự chủ giờ giấc",
+      "Cung cấp tài khoản Adobe bản quyền trong thời gian hợp đồng",
+      "Khả năng gia hạn và chuyển thành nhân viên chính thức"
+    ],
+    "howToApply": "Gửi showreel (đường dẫn Vimeo/YouTube) kèm CV qua hệ thống. Chúng tôi sẽ giao một bài thử 3 ngày có trả công cho những ứng viên vào vòng cuối.",
+    "category": "design",
+    "level": "junior",
+    "employmentType": "contract",
+    "workMode": "remote",
+    "city": "Làm việc từ xa / Toàn quốc",
+    "address": "Làm việc từ xa, toàn quốc",
+    "salary": {
+      "min": 14000000,
+      "max": 22000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "After Effects"
+      },
+      {
+        "name": "Motion Graphics"
+      },
+      {
+        "name": "Illustrator"
+      },
+      {
+        "name": "Premiere Pro"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "Cinema 4D"
+      },
+      {
+        "name": "Lottie"
+      },
+      {
+        "name": "Storyboard"
+      }
+    ],
+    "minYearsExperience": 1,
+    "maxYearsExperience": 3,
+    "minEducation": "none",
+    "vacancies": 1,
+    "status": "published",
+    "postedDaysAgo": 7,
+    "deadlineInDays": 11,
+    "viewsCount": 154,
+    "applicationsCount": 10
+  },
+  {
+    "employerEmail": "employer8@demo.com",
+    "title": "Product Designer (Fintech)",
+    "description": "Một khách hàng lớn của studio là ứng dụng quản lý chi tiêu cá nhân, đang thiết kế lại tính năng ngân sách và báo cáo. Chúng tôi cần một Product Designer làm việc sâu với đội sản phẩm của họ trong 4 tháng để thiết kế luồng \"thiết lập ngân sách\" dễ hiểu hơn.\n\nViệc phải làm:\n- Phân tích dữ liệu sử dụng, phát hiện điểm người dùng bỏ dở khi thiết lập ngân sách.\n- Phác thảo 3 hướng giải pháp, kiểm chứng bằng thử nghiệm nhanh với 8-10 người dùng.\n- Thiết kế chi tiết màn hình và biểu đồ chi tiêu bằng Figma, bám sát hệ thống thiết kế đã có.\n- Trao đổi hàng ngày với kỹ sư khách hàng trong giai đoạn phát triển.",
+    "requirements": "- Từ 3 năm thiết kế sản phẩm số cho ứng dụng di động.\n- Kỹ năng vẽ luồng người dùng và thiết kế thông tin tốt.\n- Có kinh nghiệm thiết kế biểu đồ, hiển thị số liệu là điểm cộng.\n- Tư duy dữ liệu, biết đọc kết quả phân tích sử dụng.\n- Sẵn sàng làm việc tại văn phòng khách hàng 1-2 ngày/tuần.",
+    "benefitList": [
+      "Thưởng tháng 13",
+      "Phụ cấp làm việc tại văn phòng khách hàng",
+      "Ngân sách học tập 12 triệu/năm",
+      "Bảo hiểm sức khỏe"
+    ],
+    "howToApply": "Gửi hồ sơ trên hệ thống kèm portfolio. Tin này đã đóng nhận hồ sơ khi dự án hoàn tất tuyển người; các ứng viên đã nộp sẽ được lưu cho đợt tuyển tiếp theo.",
+    "category": "design",
+    "level": "middle",
+    "employmentType": "contract",
+    "workMode": "hybrid",
+    "city": "TP. Hồ Chí Minh",
+    "address": "31 Trần Nhật Duật, Phường Tân Định, Quận 1",
+    "salary": {
+      "min": 26000000,
+      "max": 40000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "Figma"
+      },
+      {
+        "name": "Product Design"
+      },
+      {
+        "name": "User Flow"
+      },
+      {
+        "name": "Design System"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "Fintech"
+      },
+      {
+        "name": "Data visualization"
+      },
+      {
+        "name": "Lottie"
+      }
+    ],
+    "minYearsExperience": 3,
+    "maxYearsExperience": 5,
+    "minEducation": "bachelor",
+    "vacancies": 1,
+    "status": "published",
+    "postedDaysAgo": 33,
+    "deadlineInDays": -4,
+    "viewsCount": 260,
+    "applicationsCount": 31
+  },
+  {
+    "category": "design",
+    "employmentType": "full-time",
+    "salary": {
+      "min": 12000000,
+      "max": 18000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "niceToHaveSkills": [
+      {
+        "name": "Illustrator"
+      },
+      {
+        "name": "Motion graphics"
+      }
+    ],
+    "minEducation": "college",
+    "vacancies": 1,
+    "employerEmail": "employer21@demo.com",
+    "city": "Đà Nẵng",
+    "address": "18 Trần Phú, Quận Hải Châu",
+    "title": "Graphic Designer (Nhận diện thương hiệu)",
+    "description": "Lá Nhỏ Studio là studio thiết kế năm người ở Đà Nẵng, chuyên làm bộ nhận diện thương hiệu cho quán cà phê, homestay và cửa hàng thủ công địa phương. Chúng tôi đang tìm một nhà thiết kế đồ họa để cùng nhận dự án từ lúc nghe khách kể câu chuyện thương hiệu đến khi bàn giao bộ tài liệu hướng dẫn sử dụng.\n\nBạn sẽ làm những việc sau:\n- Phác thảo logo, bảng màu, kiểu chữ và các ứng dụng in ấn (menu, bao bì, danh thiếp).\n- Dựng bộ brand guideline gọn gàng bằng Figma để khách tự dùng được sau khi bàn giao.\n- Trao đổi trực tiếp với chủ cửa hàng, chỉnh sửa theo phản hồi trong hai đến ba vòng.\n- Chuẩn bị file in đúng chuẩn màu và kích thước cho xưởng in.\n\nNhóm nhỏ nên mỗi người đều có tiếng nói trong định hướng thiết kế.",
+    "requirements": "- Từ 1 năm kinh nghiệm thiết kế đồ họa hoặc có portfolio dự án nhận diện thương hiệu thực tế.\n- Thành thạo Figma và Adobe Illustrator.\n- Có gu thẩm mỹ riêng, biết giải thích lý do chọn màu và kiểu chữ.\n- Chủ động, nhận phản hồi cởi mở và làm việc tốt với khách hàng không chuyên.",
+    "benefitList": [
+      "Làm việc trong nhóm năm người, được góp ý trực tiếp vào mọi dự án",
+      "Thưởng theo dự án khi khách hàng hài lòng",
+      "Máy tính và bản quyền phần mềm thiết kế do công ty cấp",
+      "Linh hoạt giờ giấc, nghỉ lễ theo lịch Đà Nẵng"
+    ],
+    "howToApply": "Gửi CV kèm đường dẫn portfolio. Sau khi xem hồ sơ, studio sẽ mời bạn làm một bài thiết kế nhỏ có trả phí trong ba ngày.",
+    "level": "junior",
+    "workMode": "onsite",
+    "requiredSkills": [
+      {
+        "name": "Figma"
+      },
+      {
+        "name": "Adobe Illustrator"
+      },
+      {
+        "name": "Brand Identity"
+      }
+    ],
+    "minYearsExperience": 1,
+    "maxYearsExperience": 3,
+    "status": "published",
+    "postedDaysAgo": 4,
+    "deadlineInDays": 26,
+    "viewsCount": 58,
+    "applicationsCount": 3
+  },
+  {
+    "category": "design",
+    "employmentType": "full-time",
+    "salary": {
+      "min": 3000000,
+      "max": 5000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "niceToHaveSkills": [
+      {
+        "name": "Illustrator"
+      },
+      {
+        "name": "Motion graphics"
+      }
+    ],
+    "minEducation": "college",
+    "vacancies": 1,
+    "employerEmail": "employer21@demo.com",
+    "city": "Đà Nẵng",
+    "address": "18 Trần Phú, Quận Hải Châu",
+    "title": "Thực tập sinh Thiết kế bao bì",
+    "description": "Vị trí thực tập dành cho sinh viên năm cuối ngành thiết kế muốn làm quen với quy trình bao bì thủ công và in ấn số lượng nhỏ. Bạn sẽ ngồi cùng đội thiết kế, học cách đo dao bế, dựng mặt phẳng hộp và chuẩn bị tệp in thử.\n\nTrong ba tháng bạn sẽ hoàn thành hai dự án bao bì nhỏ cho khách hàng thật, từ phác thảo đến mẫu in thử trên giấy kraft và giấy mỹ thuật.\n\nNhóm thiết kế hiện có năm người và họp rà soát sản phẩm vào sáng thứ Hai hằng tuần, nên thực tập sinh luôn được nghe phản hồi trực tiếp về bài của mình. Studio có sẵn máy in thử khổ A3 và bộ mẫu giấy để bạn kiểm tra màu trước khi gửi ra xưởng in.\n\nVị trí này đang ở dạng nháp, chưa mở nhận hồ sơ.",
+    "requirements": "- Sinh viên năm cuối hoặc mới tốt nghiệp ngành thiết kế đồ họa, mỹ thuật ứng dụng.\n- Biết dùng Illustrator hoặc Figma cơ bản.\n- Tinh thần học hỏi, cẩn thận với chi tiết kích thước.\n- Sẵn sàng làm việc trực tiếp tại studio ba ngày mỗi tuần trong thời gian thực tập.",
+    "benefitList": [
+      "Trợ cấp thực tập hằng tháng",
+      "Được hướng dẫn trực tiếp bởi nhà thiết kế chính",
+      "Cơ hội ký hợp đồng chính thức sau thực tập",
+      "Sản phẩm thực tế đưa vào portfolio"
+    ],
+    "howToApply": "Hiện chưa mở tuyển. Bạn có thể theo dõi trang công ty để nhận thông báo khi vị trí này được đăng.",
+    "level": "intern",
+    "workMode": "onsite",
+    "requiredSkills": [
+      {
+        "name": "Adobe Illustrator"
+      },
+      {
+        "name": "Packaging Design"
+      }
+    ],
+    "minYearsExperience": 0,
+    "maxYearsExperience": 1,
+    "status": "draft",
+    "postedDaysAgo": 2,
+    "deadlineInDays": 40,
+    "viewsCount": 0,
+    "applicationsCount": 0
+  }
+]

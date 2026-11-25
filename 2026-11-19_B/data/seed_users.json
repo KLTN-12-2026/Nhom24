@@ -1,0 +1,165 @@
+[
+  {
+    "email": "admin@demo.com",
+    "emailVerified": true,
+    "password": "Admin@123",
+    "fullName": "Quản trị viên",
+    "role": "admin"
+  },
+  {
+    "email": "employer1@demo.com",
+    "emailVerified": true,
+    "password": "Employer@123",
+    "fullName": "Nguyễn Minh Khoa",
+    "phone": "0901000001",
+    "role": "employer",
+    "company": {
+      "name": "TechNova Solutions",
+      "description": "Công ty phần mềm chuyên phát triển sản phẩm web và giải pháp dữ liệu cho doanh nghiệp.",
+      "industry": "Phần mềm",
+      "size": "51-200",
+      "website": "https://technova.example.com",
+      "address": "12 Nguyễn Huệ, Quận 1",
+      "city": "Hồ Chí Minh",
+      "contactEmail": "hr@technova.example.com",
+      "verification": { "status": "verified", "taxCode": "0312345601" }
+    }
+  },
+  {
+    "email": "employer2@demo.com",
+    "emailVerified": true,
+    "password": "Employer@123",
+    "fullName": "Trần Thu Hà",
+    "phone": "0901000002",
+    "role": "employer",
+    "company": {
+      "name": "GreenLife Marketing",
+      "description": "Agency marketing và thương mại số phục vụ các thương hiệu tiêu dùng.",
+      "industry": "Marketing & Truyền thông",
+      "size": "11-50",
+      "website": "https://greenlife.example.com",
+      "address": "45 Láng Hạ, Đống Đa",
+      "city": "Hà Nội",
+      "contactEmail": "tuyendung@greenlife.example.com",
+      "verification": { "status": "verified", "taxCode": "0312345602" }
+    }
+  },
+  {
+    "email": "candidate1@demo.com",
+    "emailVerified": true,
+    "password": "Candidate@123",
+    "fullName": "Lê Quốc Bảo",
+    "phone": "0912000001",
+    "role": "candidate",
+    "profile": {
+      "headline": "Lập trình viên Fullstack JavaScript",
+      "about": "2 năm kinh nghiệm xây dựng ứng dụng web với React và Node.js.",
+      "location": "Hồ Chí Minh",
+      "targetRole": "Backend Developer",
+      "targetCategory": "it-software",
+      "expectedSalary": { "min": 18000000, "max": 28000000, "currency": "VND" },
+      "skills": [
+        { "name": "JavaScript", "type": "technical", "level": "advanced" },
+        { "name": "React", "type": "technical", "level": "advanced" },
+        { "name": "Node.js", "type": "technical", "level": "intermediate" },
+        { "name": "MongoDB", "type": "technical", "level": "intermediate" },
+        { "name": "Git", "type": "tool", "level": "intermediate" }
+      ],
+      "experiences": [
+        {
+          "company": "WebSoft",
+          "title": "Frontend Developer",
+          "startDate": "2023-03",
+          "endDate": "2025-06",
+          "isCurrent": false,
+          "description": "Phát triển giao diện quản trị bằng React, tích hợp REST API.",
+          "technologies": ["react", "javascript"]
+        }
+      ],
+      "educations": [
+        { "school": "ĐH Bách Khoa TP.HCM", "degree": "bachelor", "major": "Khoa học máy tính", "startYear": 2019, "endYear": 2023 }
+      ],
+      "languages": [{ "name": "English", "level": "B1" }],
+      "totalYearsExperience": 2.5,
+      "highestEducation": "bachelor",
+      "primaryField": "it-software",
+      "seniority": "junior",
+      "isPublic": true,
+      "cv": { "originalName": "cv_le_quoc_bao.pdf", "mimeType": "application/pdf", "size": 182000, "aiConfidence": 0.9 }
+    }
+  },
+  {
+    "email": "candidate2@demo.com",
+    "emailVerified": true,
+    "password": "Candidate@123",
+    "fullName": "Phạm Thanh Mai",
+    "phone": "0912000002",
+    "role": "candidate",
+    "profile": {
+      "headline": "Fresher Data Analyst",
+      "about": "Mới tốt nghiệp, có đồ án phân tích dữ liệu bán lẻ bằng Python và SQL.",
+      "location": "Hà Nội",
+      "targetRole": "Data Analyst",
+      "targetCategory": "it-data-ai",
+      "skills": [
+        { "name": "Python", "type": "technical", "level": "intermediate" },
+        { "name": "SQL", "type": "technical", "level": "intermediate" },
+        { "name": "Excel", "type": "tool", "level": "advanced" },
+        { "name": "Power BI", "type": "tool", "level": "beginner" }
+      ],
+      "experiences": [],
+      "educations": [
+        { "school": "ĐH Kinh tế Quốc dân", "degree": "bachelor", "major": "Thống kê kinh tế", "startYear": 2021, "endYear": 2025 }
+      ],
+      "languages": [{ "name": "English", "level": "B2" }],
+      "totalYearsExperience": 0,
+      "highestEducation": "bachelor",
+      "primaryField": "it-data-ai",
+      "seniority": "fresher",
+      "isPublic": false,
+      "cv": { "originalName": "cv_pham_thanh_mai.pdf", "mimeType": "application/pdf", "size": 154000, "aiConfidence": 0.85 }
+    }
+  },
+  {
+    "email": "candidate3@demo.com",
+    "emailVerified": true,
+    "password": "Candidate@123",
+    "fullName": "Đỗ Hoàng Long",
+    "phone": "0912000003",
+    "role": "candidate",
+    "profile": {
+      "headline": "Chuyên viên Digital Marketing",
+      "about": "4 năm chạy quảng cáo đa kênh và xây dựng nội dung cho thương hiệu tiêu dùng.",
+      "location": "Hà Nội",
+      "targetRole": "Digital Marketing Manager",
+      "targetCategory": "marketing",
+      "skills": [
+        { "name": "Google Ads", "type": "tool", "level": "advanced" },
+        { "name": "Facebook Ads", "type": "tool", "level": "advanced" },
+        { "name": "SEO", "type": "technical", "level": "intermediate" },
+        { "name": "Content Marketing", "type": "technical", "level": "intermediate" }
+      ],
+      "experiences": [
+        {
+          "company": "BrandUp",
+          "title": "Digital Marketing Executive",
+          "startDate": "2021-07",
+          "endDate": null,
+          "isCurrent": true,
+          "description": "Quản lý ngân sách quảng cáo 300 triệu/tháng, tối ưu CPA.",
+          "technologies": ["google ads", "facebook ads"]
+        }
+      ],
+      "educations": [
+        { "school": "ĐH Ngoại thương", "degree": "bachelor", "major": "Kinh tế đối ngoại", "startYear": 2017, "endYear": 2021 }
+      ],
+      "languages": [{ "name": "English", "level": "B2" }],
+      "totalYearsExperience": 4,
+      "highestEducation": "bachelor",
+      "primaryField": "marketing",
+      "seniority": "middle",
+      "isPublic": true,
+      "cv": { "originalName": "cv_do_hoang_long.pdf", "mimeType": "application/pdf", "size": 201000, "aiConfidence": 0.88 }
+    }
+  }
+]
