@@ -1,0 +1,655 @@
+[
+  {
+    "employerEmail": "employer9@demo.com",
+    "title": "Content Marketing Executive",
+    "description": "Nắng Mai Media là agency 70 người phục vụ khoảng 25 thương hiệu thuộc ngành mẹ và bé, thực phẩm hữu cơ và nội thất. Content Executive là người trực tiếp viết bài cho fanpage, website và email của các thương hiệu này, mỗi bạn phụ trách từ 2 đến 3 khách hàng.\n\nCông việc hằng ngày:\n- Lên lịch nội dung theo tháng cho từng thương hiệu cùng Account Executive, bám sát chiến dịch và dịp lễ.\n- Viết bài chuẩn SEO 800-1.200 từ cho website, kịch bản video ngắn 30-60 giây cho TikTok và Reels.\n- Tự chọn hình ảnh, chỉnh ảnh trên Canva và phối hợp với designer khi cần ấn phẩm phức tạp.\n- Theo dõi số liệu bài viết (lượt tiếp cận, lượt lưu, thời gian đọc) và đề xuất cách cải thiện hằng tuần.\n- Nhận phản hồi từ khách hàng và chỉnh sửa nhanh trong ngày.",
+    "requirements": "- Tốt nghiệp đại học các ngành Báo chí, Marketing, Ngôn ngữ, Truyền thông; ưu tiên đã thực tập hoặc có blog/kênh cá nhân.\n- Viết tiếng Việt trong sáng, giọng văn linh hoạt theo từng thương hiệu.\n- Hiểu cơ bản về SEO on-page và cách tìm từ khóa.\n- Làm việc tốt dưới áp lực thời hạn; nhận góp ý cởi mở.\n- Không bắt buộc kinh nghiệm agency nhưng cần có sản phẩm viết để chúng tôi tham khảo.",
+    "benefitList": [
+      "Thưởng tháng 13 và thưởng chiến dịch",
+      "Review lương 2 lần/năm",
+      "Lương tăng theo bậc: Executive → Senior Executive trong 12-18 tháng",
+      "Bữa trưa miễn phí 3 ngày/tuần",
+      "Du lịch công ty hằng năm và tiệc cuối quý"
+    ],
+    "howToApply": "Nộp CV và 2-3 bài viết tiêu biểu (đính kèm hoặc đường dẫn) qua nút Ứng tuyển. HR sẽ liên hệ trong 2 ngày làm việc. Phỏng vấn gồm một bài viết thử 45 phút tại văn phòng cho một thương hiệu giả định.",
+    "category": "marketing",
+    "level": "junior",
+    "employmentType": "full-time",
+    "workMode": "onsite",
+    "city": "Hà Nội",
+    "address": "Tầng 3, số 62 Nguyễn Thị Định, Cầu Giấy",
+    "salary": {
+      "min": 10000000,
+      "max": 16000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "Content Writing"
+      },
+      {
+        "name": "SEO"
+      },
+      {
+        "name": "Facebook"
+      },
+      {
+        "name": "Canva"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "WordPress"
+      },
+      {
+        "name": "Google Analytics"
+      },
+      {
+        "name": "Chụp ảnh sản phẩm"
+      }
+    ],
+    "minYearsExperience": 1,
+    "maxYearsExperience": 2,
+    "minEducation": "bachelor",
+    "vacancies": 3,
+    "status": "published",
+    "postedDaysAgo": 1,
+    "deadlineInDays": 20,
+    "viewsCount": 372,
+    "applicationsCount": 48
+  },
+  {
+    "employerEmail": "employer9@demo.com",
+    "title": "Performance Marketing Specialist (Google Ads, Meta Ads)",
+    "description": "Các khách hàng của Nắng Mai chi tổng cộng hơn 4 tỷ đồng mỗi tháng cho quảng cáo trả phí, và đội Performance đang cần thêm một chuyên viên có kinh nghiệm quản lý ngân sách lớn. Mỗi chuyên viên phụ trách 3-4 tài khoản với mức chi từ 150 đến 600 triệu đồng/tháng.\n\nCông việc:\n- Lập kế hoạch và tối ưu chiến dịch Google Search, Shopping, Performance Max và Meta (Facebook, Instagram).\n- Cài đặt đo lường chuyển đổi bằng Google Tag Manager, GA4 và Conversion API; kiểm tra số liệu lệch giữa các nền tảng.\n- Thử nghiệm mẫu quảng cáo và trang đích theo phương pháp A/B, ghi lại kết quả trong sổ thử nghiệm của nhóm.\n- Báo cáo hằng tuần cho khách hàng bằng Looker Studio với các chỉ số CPA, ROAS, tỷ lệ chuyển đổi.\n- Đề xuất phân bổ ngân sách giữa các kênh khi chạy cao điểm.",
+    "requirements": "- Từ 2 năm chạy quảng cáo trả phí, đã quản lý tài khoản chi từ 100 triệu/tháng trở lên.\n- Hiểu rõ cách đo lường chuyển đổi và phân biệt các mô hình ghi nhận (last click, data-driven).\n- Thành thạo Excel/Google Sheets, biết Looker Studio hoặc công cụ báo cáo khác.\n- Tư duy thử nghiệm, đưa ra quyết định dựa trên số liệu.\n- Có chứng chỉ Google Ads là lợi thế.",
+    "benefitList": [
+      "Thưởng hiệu suất theo ROAS, tối đa 3 tháng lương/năm",
+      "Thưởng tháng 13",
+      "Hybrid 2 ngày ở nhà mỗi tuần",
+      "Được cấp ngân sách thử nghiệm riêng 10 triệu/quý để học kênh mới",
+      "Bảo hiểm sức khỏe"
+    ],
+    "howToApply": "Nộp hồ sơ qua hệ thống, nêu rõ mức ngân sách tối đa bạn từng quản lý. Phỏng vấn có phần phân tích một bảng số liệu quảng cáo giả định và đề xuất hành động trong 20 phút.",
+    "category": "marketing",
+    "level": "middle",
+    "employmentType": "full-time",
+    "workMode": "hybrid",
+    "city": "Hà Nội",
+    "address": "Tầng 3, số 62 Nguyễn Thị Định, Cầu Giấy",
+    "salary": {
+      "min": 18000000,
+      "max": 30000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "Google Ads"
+      },
+      {
+        "name": "Meta Ads"
+      },
+      {
+        "name": "Google Analytics"
+      },
+      {
+        "name": "Excel"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "Looker Studio"
+      },
+      {
+        "name": "CRO"
+      },
+      {
+        "name": "TikTok Ads"
+      }
+    ],
+    "minYearsExperience": 2,
+    "maxYearsExperience": 4,
+    "minEducation": "bachelor",
+    "vacancies": 2,
+    "status": "published",
+    "postedDaysAgo": 6,
+    "deadlineInDays": 7,
+    "viewsCount": 301,
+    "applicationsCount": 36
+  },
+  {
+    "employerEmail": "employer9@demo.com",
+    "title": "Content Lead",
+    "description": "Đội nội dung của Nắng Mai có 14 người và sắp tăng lên 20. Chúng tôi cần một Content Lead đứng ra xây dựng quy trình biên tập, chuẩn giọng văn và chất lượng nội dung cho toàn bộ khách hàng.\n\nCông việc:\n- Đặt tiêu chuẩn biên tập, quy trình duyệt bài hai lớp, bộ hướng dẫn giọng văn (brand voice) cho từng thương hiệu.\n- Quản lý, huấn luyện và đánh giá các Content Executive và Senior Executive.\n- Cùng Giám đốc Sáng tạo lên chiến lược nội dung cho các chiến dịch lớn từ 3 tháng trở lên.\n- Đảm bảo số lượng và chất lượng bài đăng; là người xử lý các phản hồi khó từ khách hàng.\n- Thử nghiệm các định dạng mới như bản tin email, podcast, video ngắn.",
+    "requirements": "- Từ 5 năm làm nội dung hoặc biên tập, ít nhất 2 năm quản lý nhóm.\n- Văn phong xuất sắc; có khả năng sửa bài người khác mà vẫn giữ được giọng riêng của họ.\n- Hiểu SEO nội dung, phân tích số liệu để quyết định chủ đề.\n- Kinh nghiệm agency hoặc làm việc với nhiều thương hiệu là lợi thế.\n- Khả năng truyền cảm hứng và phản hồi thẳng thắn, tôn trọng.",
+    "benefitList": [
+      "Lương tháng 13 và thưởng KPI quý",
+      "Quyền tham gia chia lợi nhuận agency",
+      "Bảo hiểm sức khỏe cao cấp",
+      "Ngân sách 15 triệu/năm cho khóa học viết, quản lý"
+    ],
+    "howToApply": "Hồ sơ nộp qua hệ thống, kèm một bài viết hoặc dự án nội dung bạn tự hào nhất. Giám đốc Sáng tạo sẽ trực tiếp phỏng vấn trong vòng cuối.",
+    "category": "marketing",
+    "level": "lead",
+    "employmentType": "full-time",
+    "workMode": "onsite",
+    "city": "Hà Nội",
+    "address": "Tầng 3, số 62 Nguyễn Thị Định, Cầu Giấy",
+    "salary": {
+      "min": 35000000,
+      "max": 50000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "Content Strategy"
+      },
+      {
+        "name": "Quản lý đội nội dung"
+      },
+      {
+        "name": "SEO"
+      },
+      {
+        "name": "Copywriting"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "Brand Voice"
+      },
+      {
+        "name": "Kịch bản video"
+      },
+      {
+        "name": "Tiếng Anh"
+      }
+    ],
+    "minYearsExperience": 5,
+    "maxYearsExperience": 8,
+    "minEducation": "bachelor",
+    "vacancies": 1,
+    "status": "pending",
+    "postedDaysAgo": 2,
+    "deadlineInDays": 30,
+    "viewsCount": 24,
+    "applicationsCount": 0
+  },
+  {
+    "employerEmail": "employer9@demo.com",
+    "title": "Social Media Specialist (TikTok)",
+    "description": "Kênh TikTok của các thương hiệu mà Nắng Mai quản lý đang tăng trưởng nhanh và cần thêm người chuyên trách. Bạn sẽ là người cập nhật xu hướng hằng ngày, lên ý tưởng và trực tiếp quay dựng video ngắn cho 5 kênh.\n\nBạn sẽ:\n- Theo dõi xu hướng âm thanh, hiệu ứng và định dạng; chọn lọc những gì phù hợp với từng thương hiệu.\n- Viết kịch bản, quay và dựng video bằng CapCut (hoặc phối hợp với biên tập viên video khi cần).\n- Quản lý bình luận, tin nhắn và xử lý khủng hoảng nhỏ trên kênh.\n- Phối hợp với KOC/KOL, gửi sản phẩm và theo dõi video đối tác đăng.\n- Phân tích số liệu video: tỷ lệ xem hết, lượt chia sẻ, lượt theo dõi mới.\n\nMỗi tuần mỗi kênh đăng 4-5 video; mục tiêu quý này là đưa 2 kênh vượt mốc 100.000 người theo dõi.",
+    "requirements": "- Sinh viên mới tốt nghiệp hoặc có 6-12 tháng kinh nghiệm nội dung mạng xã hội.\n- Dùng TikTok thường xuyên, hiểu cách thuật toán đề xuất video.\n- Biết dựng video bằng CapCut hoặc phần mềm tương tự.\n- Sáng tạo, nhanh nhạy và không ngại xuất hiện trước ống kính khi cần.\n- Có thể làm việc vào một số buổi tối khi livestream.",
+    "benefitList": [
+      "Thưởng khi kênh đạt mốc người theo dõi hoặc video đạt 1 triệu lượt xem",
+      "Thưởng tháng 13",
+      "Thiết bị quay: điện thoại, gimbal, micro, đèn",
+      "Bữa trưa miễn phí",
+      "Được học thêm về quảng cáo trả phí và phân tích dữ liệu"
+    ],
+    "howToApply": "Nộp CV và gửi kèm đường dẫn kênh/video bạn từng làm. Vòng phỏng vấn có bài thử: lên ý tưởng 3 video cho một sản phẩm cho sẵn trong 30 phút.",
+    "category": "marketing",
+    "level": "fresher",
+    "employmentType": "full-time",
+    "workMode": "onsite",
+    "city": "Hà Nội",
+    "address": "Tầng 3, số 62 Nguyễn Thị Định, Cầu Giấy",
+    "salary": {
+      "min": 9000000,
+      "max": 13000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "TikTok"
+      },
+      {
+        "name": "CapCut"
+      },
+      {
+        "name": "Lên ý tưởng nội dung"
+      },
+      {
+        "name": "Giao tiếp"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "Quay dựng"
+      },
+      {
+        "name": "Livestream"
+      },
+      {
+        "name": "Trend"
+      }
+    ],
+    "minYearsExperience": 0,
+    "maxYearsExperience": 1,
+    "minEducation": "college",
+    "vacancies": 2,
+    "status": "published",
+    "postedDaysAgo": 0,
+    "deadlineInDays": 16,
+    "viewsCount": 280,
+    "applicationsCount": 39
+  },
+  {
+    "employerEmail": "employer10@demo.com",
+    "title": "Growth Marketing Manager",
+    "description": "Cánh Buồm Growth giúp các thương hiệu bán trực tiếp đến người tiêu dùng (mỹ phẩm, thời trang bền vững, thực phẩm chức năng) tăng trưởng doanh thu trực tuyến. Các thương hiệu thường có doanh thu 5-40 tỷ đồng/năm và nhờ chúng tôi xây dựng toàn bộ động cơ tăng trưởng từ quảng cáo, email đến chương trình giữ chân khách hàng.\n\nQuản lý Growth sẽ:\n- Chịu trách nhiệm tăng trưởng doanh thu của 4-5 thương hiệu khách hàng, đặt mục tiêu theo quý.\n- Phân bổ ngân sách quảng cáo và dẫn dắt nhóm 5 người gồm chuyên viên quảng cáo, email/CRM và phân tích.\n- Thiết kế phễu: từ quảng cáo, trang đích, giỏ hàng đến email nhắc bỏ giỏ, chương trình khách hàng thân thiết.\n- Chạy chu kỳ thử nghiệm hai tuần một lần: đặt giả thuyết, đo lường, ghi nhận bài học.\n- Báo cáo kết quả và đề xuất chiến lược cho chủ thương hiệu hằng tháng.",
+    "requirements": "- Từ 5 năm trong marketing trực tuyến, ít nhất 2 năm quản lý nhóm hoặc dự án lớn.\n- Từng tăng trưởng doanh thu cho một thương hiệu thương mại điện tử với số liệu rõ ràng.\n- Hiểu sâu về CAC, LTV, tỷ lệ giữ chân và cách đọc P&L cơ bản của doanh nghiệp bán lẻ.\n- Thành thạo các công cụ quảng cáo, email marketing (Klaviyo, Mailchimp) và phân tích (GA4).\n- Kỹ năng giao tiếp với chủ doanh nghiệp: nói chuyện bằng lợi nhuận, không bằng thuật ngữ.",
+    "benefitList": [
+      "Lương cứng cạnh tranh và thưởng theo doanh thu tăng trưởng của khách hàng",
+      "Thưởng tháng 13",
+      "Hybrid: 3 ngày tại văn phòng",
+      "Bảo hiểm sức khỏe cao cấp",
+      "Ngân sách học tập và hội thảo 20 triệu/năm",
+      "Cơ hội trở thành đối tác điều hành sau 2 năm"
+    ],
+    "howToApply": "Nộp CV qua hệ thống, ghi rõ một thành tích tăng trưởng có số liệu. Bạn sẽ gặp đồng sáng lập hai lần, một buổi phân tích tình huống một thương hiệu thực.",
+    "category": "marketing",
+    "level": "manager",
+    "employmentType": "full-time",
+    "workMode": "hybrid",
+    "city": "Khánh Hòa",
+    "address": "Tầng 4, số 28 Trần Phú, phường Nha Trang",
+    "salary": {
+      "min": 45000000,
+      "max": 70000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "Growth Marketing"
+      },
+      {
+        "name": "Email Marketing"
+      },
+      {
+        "name": "Phân tích dữ liệu"
+      },
+      {
+        "name": "Quản lý ngân sách"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "Klaviyo"
+      },
+      {
+        "name": "CRM"
+      },
+      {
+        "name": "Shopify"
+      }
+    ],
+    "minYearsExperience": 5,
+    "maxYearsExperience": 9,
+    "minEducation": "bachelor",
+    "vacancies": 1,
+    "status": "published",
+    "postedDaysAgo": 5,
+    "deadlineInDays": 33,
+    "viewsCount": 330,
+    "applicationsCount": 18
+  },
+  {
+    "employerEmail": "employer10@demo.com",
+    "title": "Email & CRM Executive",
+    "description": "Email và tin nhắn Zalo thường đóng góp 25-35% doanh thu của các thương hiệu thương mại điện tử mà chúng tôi quản lý. Bạn sẽ chịu trách nhiệm toàn bộ khâu thiết kế kịch bản, nội dung và tối ưu các luồng tự động để giữ chân khách hàng.\n\nCông việc:\n- Xây dựng các luồng tự động: chào mừng khách mới, nhắc bỏ giỏ hàng, hậu mãi, kích hoạt lại khách đã ngủ đông.\n- Chia nhóm khách hàng theo hành vi mua sắm, giá trị đơn hàng và sản phẩm quan tâm.\n- Viết tiêu đề, nội dung email và tin nhắn ngắn; kiểm thử A/B tiêu đề và thời điểm gửi.\n- Theo dõi tỷ lệ mở, nhấp, hủy đăng ký, doanh thu mỗi email và đưa ra khuyến nghị cải thiện.\n- Chuẩn bị chiến dịch cho dịp cao điểm như 9.9, 11.11, 12.12.",
+    "requirements": "- Từ 1 năm làm email marketing hoặc CRM cho thương mại điện tử.\n- Viết nội dung ngắn gọn, thuyết phục, bám sát giọng thương hiệu.\n- Quen Klaviyo, Mailchimp hoặc công cụ tương tự; hiểu khái niệm về khả năng gửi thành công (deliverability).\n- Sử dụng được Excel/Sheets để phân nhóm và phân tích; biết SQL là một lợi thế.\n- Làm việc từ xa hiệu quả, chủ động báo cáo tiến độ hằng ngày.",
+    "benefitList": [
+      "Làm việc từ xa hoàn toàn",
+      "Thưởng theo doanh thu từ email vượt mục tiêu",
+      "Thưởng tháng 13",
+      "Hỗ trợ 3 triệu/tháng tiền internet và điện",
+      "Cấp phần mềm và công cụ làm việc bản quyền"
+    ],
+    "howToApply": "Gửi CV và ví dụ một kịch bản email bạn từng làm (có thể che thông tin nhạy cảm). Phỏng vấn trực tuyến 2 vòng, tổng cộng khoảng 75 phút.",
+    "category": "marketing",
+    "level": "junior",
+    "employmentType": "full-time",
+    "workMode": "remote",
+    "city": "Làm việc từ xa / Toàn quốc",
+    "address": "Làm việc từ xa, toàn quốc",
+    "salary": {
+      "min": 13000000,
+      "max": 20000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "Email Marketing"
+      },
+      {
+        "name": "CRM"
+      },
+      {
+        "name": "Copywriting"
+      },
+      {
+        "name": "Segmentation"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "Klaviyo"
+      },
+      {
+        "name": "Zalo OA"
+      },
+      {
+        "name": "SQL"
+      }
+    ],
+    "minYearsExperience": 1,
+    "maxYearsExperience": 3,
+    "minEducation": "bachelor",
+    "vacancies": 1,
+    "status": "published",
+    "postedDaysAgo": 15,
+    "deadlineInDays": 4,
+    "viewsCount": 197,
+    "applicationsCount": 20
+  },
+  {
+    "employerEmail": "employer10@demo.com",
+    "title": "Influencer & Affiliate Partnership Coordinator",
+    "description": "Chương trình cộng tác viên và KOC của các thương hiệu khách hàng đang có hơn 600 đối tác và cần người điều phối để chương trình chạy trơn tru: ai nhận sản phẩm, ai đăng bài đúng hạn, ai xứng đáng nhận hoa hồng cao hơn.\n\nCông việc bán thời gian 25 giờ/tuần (sáng hoặc chiều):\n- Tìm kiếm và liên hệ KOC/KOL nhỏ phù hợp với thương hiệu; thương lượng điều khoản hợp tác.\n- Gửi sản phẩm, theo dõi vận chuyển và nhắc đối tác đăng bài đúng thời hạn.\n- Cập nhật bảng theo dõi video và đơn hàng phát sinh từ mã giảm giá riêng của từng đối tác.\n- Tính hoa hồng hằng tuần và đối chiếu với báo cáo nền tảng trước khi thanh toán.\n- Giải đáp thắc mắc của cộng tác viên qua Zalo.",
+    "requirements": "- Sinh viên năm 3-4 hoặc mới tốt nghiệp, có thể làm việc ít nhất 25 giờ/tuần.\n- Giao tiếp lịch sự, chủ động và biết cách thuyết phục.\n- Thành thạo Excel/Google Sheets (VLOOKUP, bảng tổng hợp).\n- Quen với TikTok Shop, Shopee Affiliate là lợi thế.\n- Cẩn thận với số liệu và ngày thanh toán.",
+    "benefitList": [
+      "Lương 7-10 triệu/tháng cộng thưởng theo doanh thu từ cộng tác viên",
+      "Giờ làm việc linh hoạt, phù hợp sinh viên",
+      "Được giữ lại làm việc toàn thời gian sau khi tốt nghiệp",
+      "Sản phẩm của các thương hiệu để dùng thử"
+    ],
+    "howToApply": "Nộp hồ sơ qua hệ thống và cho biết khung giờ bạn có thể làm việc. Phỏng vấn trực tuyến 30 phút, có một bài tình huống: viết tin nhắn mời một KOC hợp tác.",
+    "category": "marketing",
+    "level": "fresher",
+    "employmentType": "part-time",
+    "workMode": "hybrid",
+    "city": "Khánh Hòa",
+    "address": "Tầng 4, số 28 Trần Phú, phường Nha Trang",
+    "salary": {
+      "min": 7000000,
+      "max": 10000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "Giao tiếp"
+      },
+      {
+        "name": "Đàm phán"
+      },
+      {
+        "name": "Excel"
+      },
+      {
+        "name": "Quản lý cộng tác viên"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "TikTok Shop"
+      },
+      {
+        "name": "Shopee Affiliate"
+      },
+      {
+        "name": "Tiếng Anh"
+      }
+    ],
+    "minYearsExperience": 0,
+    "maxYearsExperience": 1,
+    "minEducation": "college",
+    "vacancies": 2,
+    "status": "published",
+    "postedDaysAgo": 9,
+    "deadlineInDays": 13,
+    "viewsCount": 131,
+    "applicationsCount": 14
+  },
+  {
+    "employerEmail": "employer11@demo.com",
+    "title": "Nhân viên Kinh doanh Kênh Siêu thị (Khu vực Hà Nội)",
+    "description": "Đại Ngàn Phân Phối là nhà phân phối các sản phẩm gia vị, dầu ăn, nước giải khát và đồ dùng nhà bếp của hơn 30 nhãn hàng, hiện có mặt tại hơn 1.400 điểm bán ở miền Bắc. Nhân viên kinh doanh kênh siêu thị phụ trách mối quan hệ với siêu thị, cửa hàng tiện lợi trong một khu vực cụ thể.\n\nCông việc chính:\n- Thăm viếng 10-12 điểm bán mỗi ngày theo tuyến đã phân chia, chụp ảnh trưng bày và ghi nhận tồn kho bằng ứng dụng bán hàng.\n- Đặt hàng bổ sung đúng lúc, thương lượng vị trí kệ đẹp và các chương trình khuyến mãi với quản lý ngành hàng.\n- Chăm sóc nhân viên tư vấn bán hàng (PG) tại điểm bán.\n- Thu thập thông tin đối thủ: giá, chương trình, vị trí kệ.\n- Đạt chỉ tiêu doanh số tháng của khu vực và báo cáo hằng ngày cho giám sát.\n\nChúng tôi cấp xe máy công ty hoặc hỗ trợ xăng xe theo tuyến, điện thoại và ứng dụng bán hàng.",
+    "requirements": "- Tốt nghiệp từ cao đẳng trở lên; có 1-3 năm kinh nghiệm bán hàng kênh siêu thị hoặc FMCG là lợi thế, ứng viên chưa có kinh nghiệm nhưng giao tiếp tốt vẫn được xem xét.\n- Có xe máy và giấy phép lái xe; thông thuộc địa bàn Hà Nội.\n- Sức khỏe tốt, năng động, chịu được áp lực doanh số.\n- Kỹ năng thương lượng, nhớ tên và đặc điểm từng điểm bán.\n- Dùng được điện thoại thông minh và Excel cơ bản.",
+    "benefitList": [
+      "Lương cứng 8 triệu cộng hoa hồng doanh số, thu nhập trung bình 12-18 triệu",
+      "Thưởng tháng 13 và thưởng thi đua theo quý",
+      "Hỗ trợ xăng xe và điện thoại 1,2 triệu/tháng",
+      "Bảo hiểm xã hội đầy đủ từ khi ký hợp đồng chính thức",
+      "Được đào tạo bán hàng chuyên nghiệp 2 tuần đầu"
+    ],
+    "howToApply": "Nộp CV qua hệ thống hoặc mang hồ sơ đến văn phòng vào sáng thứ Ba, thứ Năm hằng tuần. Phỏng vấn trực tiếp với trưởng khu vực, đi tuyến thử cùng nhân viên cũ 1 ngày trước khi ký hợp đồng.",
+    "category": "sales",
+    "level": "junior",
+    "employmentType": "full-time",
+    "workMode": "onsite",
+    "city": "Hà Nội",
+    "address": "Số 214 Nguyễn Xiển, Thanh Xuân",
+    "salary": {
+      "min": 10000000,
+      "max": 18000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "Bán hàng"
+      },
+      {
+        "name": "Đàm phán"
+      },
+      {
+        "name": "Quản lý khu vực"
+      },
+      {
+        "name": "Excel"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "Kinh nghiệm ngành FMCG"
+      },
+      {
+        "name": "Trưng bày sản phẩm"
+      }
+    ],
+    "minYearsExperience": 1,
+    "maxYearsExperience": 3,
+    "minEducation": "college",
+    "vacancies": 6,
+    "status": "published",
+    "postedDaysAgo": 3,
+    "deadlineInDays": 21,
+    "viewsCount": 390,
+    "applicationsCount": 58
+  },
+  {
+    "employerEmail": "employer11@demo.com",
+    "title": "Giám sát Kinh doanh Khu vực (Miền Bắc)",
+    "description": "Giám sát Kinh doanh quản lý một đội 8-10 nhân viên bán hàng và 12 nhân viên tư vấn, chịu trách nhiệm doanh số của một nhóm tỉnh phía Bắc (Hà Nội, Bắc Ninh, Hưng Yên, Hải Dương).\n\nTrách nhiệm:\n- Phân chia chỉ tiêu, lập kế hoạch tuyến và theo dõi kết quả hằng ngày qua hệ thống DMS.\n- Đi thị trường cùng nhân viên ít nhất 12 ngày/tháng, huấn luyện tại chỗ.\n- Làm việc với các nhà bán buôn, siêu thị lớn về điều khoản công nợ, chiết khấu, trưng bày.\n- Phát hiện và xử lý sớm các điểm bán có tồn kho cận date, hàng trưng bày sai quy định.\n- Phối hợp với bộ phận kho vận và kế toán để đảm bảo giao hàng và thu tiền đúng hạn.\n- Báo cáo kết quả tuần và đề xuất hành động cho Giám đốc Kinh doanh miền Bắc.",
+    "requirements": "- Từ 4 năm kinh nghiệm trong ngành FMCG hoặc phân phối, trong đó tối thiểu 2 năm ở vai trò giám sát hoặc trưởng nhóm.\n- Hiểu cách vận hành hệ thống nhà phân phối, kênh bán buôn và kênh hiện đại.\n- Phân tích được số liệu bán hàng để tìm cơ hội và rủi ro.\n- Kỹ năng huấn luyện, tạo động lực cho đội ngũ đi thị trường.\n- Sẵn sàng đi công tác các tỉnh lân cận hằng tuần.",
+    "benefitList": [
+      "Lương cứng 22 triệu cộng thưởng doanh số theo bậc",
+      "Xe máy công ty hoặc phụ cấp xe ô tô theo quy định",
+      "Thưởng tháng 13 và thưởng kỷ niệm thành lập",
+      "Bảo hiểm sức khỏe cho nhân viên và người thân",
+      "Cơ hội thăng tiến lên Trưởng phòng Kinh doanh khu vực"
+    ],
+    "howToApply": "Ứng tuyển qua hệ thống. Quy trình phỏng vấn 2 vòng với Giám đốc Kinh doanh miền Bắc và Giám đốc Nhân sự; vòng 2 có bài thảo luận tình huống về xử lý điểm bán không đạt doanh số.",
+    "category": "sales",
+    "level": "senior",
+    "employmentType": "full-time",
+    "workMode": "onsite",
+    "city": "Hà Nội",
+    "address": "Số 214 Nguyễn Xiển, Thanh Xuân",
+    "salary": {
+      "min": 28000000,
+      "max": 42000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "Quản lý đội bán hàng"
+      },
+      {
+        "name": "FMCG"
+      },
+      {
+        "name": "Phân tích doanh số"
+      },
+      {
+        "name": "Quản lý nhà phân phối"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "Phần mềm DMS"
+      },
+      {
+        "name": "Lập kế hoạch tuyến"
+      }
+    ],
+    "minYearsExperience": 4,
+    "maxYearsExperience": 7,
+    "minEducation": "bachelor",
+    "vacancies": 1,
+    "status": "published",
+    "postedDaysAgo": 7,
+    "deadlineInDays": 9,
+    "viewsCount": 245,
+    "applicationsCount": 17
+  },
+  {
+    "employerEmail": "employer11@demo.com",
+    "title": "Chuyên viên Kinh doanh Dự án - Thiết bị bếp công nghiệp",
+    "description": "Mảng thiết bị bếp công nghiệp của Đại Ngàn cung cấp và lắp đặt bếp cho nhà hàng, khách sạn, bếp ăn tập thể của khu công nghiệp. Một dự án thường có giá trị 300 triệu đến 6 tỷ đồng và chu kỳ chốt từ 2 đến 5 tháng.\n\nBạn sẽ:\n- Tìm kiếm khách hàng tiềm năng: chủ đầu tư nhà hàng, đơn vị thiết kế nội thất, nhà thầu xây dựng.\n- Khảo sát mặt bằng cùng kỹ sư, tư vấn giải pháp bố trí bếp và thiết bị phù hợp ngân sách.\n- Lập báo giá, hồ sơ năng lực, thuyết trình giải pháp và đàm phán hợp đồng.\n- Theo dõi tiến độ lắp đặt, nghiệm thu và thu tiền theo từng giai đoạn.\n- Duy trì quan hệ để khai thác thêm dịch vụ bảo trì và nhu cầu mở rộng.",
+    "requirements": "- Từ 2 năm bán hàng B2B, ưu tiên thiết bị bếp, thiết bị nhà hàng, nội thất hoặc xây dựng.\n- Đọc hiểu bản vẽ mặt bằng cơ bản; biết AutoCAD là lợi thế.\n- Kỹ năng thuyết trình và đàm phán với người ra quyết định.\n- Quản lý được nhiều cơ hội cùng lúc và biết dùng CRM để theo dõi.\n- Chịu được áp lực của chu kỳ bán dài và biết kiên trì chăm sóc khách hàng.",
+    "benefitList": [
+      "Lương cứng 12 triệu cộng hoa hồng 1,5-3% giá trị hợp đồng",
+      "Thưởng chốt dự án lớn trên 2 tỷ",
+      "Hỗ trợ chi phí tiếp khách và đi lại",
+      "Bảo hiểm xã hội và sức khỏe đầy đủ",
+      "Hybrid: linh hoạt làm việc tại nhà những ngày không đi gặp khách"
+    ],
+    "howToApply": "Nộp CV qua hệ thống, cho biết 1-2 hợp đồng lớn nhất bạn từng chốt. Phỏng vấn gồm buổi trao đổi với trưởng phòng dự án và một buổi thuyết trình giả định giải pháp bếp cho nhà hàng 120 chỗ.",
+    "category": "sales",
+    "level": "middle",
+    "employmentType": "full-time",
+    "workMode": "hybrid",
+    "city": "Quảng Ninh",
+    "address": "Số 12 Lê Thánh Tông, phường Hồng Gai",
+    "salary": {
+      "min": 20000000,
+      "max": 38000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "Bán hàng B2B"
+      },
+      {
+        "name": "Báo giá"
+      },
+      {
+        "name": "Đọc bản vẽ kỹ thuật"
+      },
+      {
+        "name": "Thuyết trình"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "AutoCAD"
+      },
+      {
+        "name": "Kiến thức bếp công nghiệp"
+      },
+      {
+        "name": "Đấu thầu"
+      }
+    ],
+    "minYearsExperience": 2,
+    "maxYearsExperience": 5,
+    "minEducation": "bachelor",
+    "vacancies": 2,
+    "status": "published",
+    "postedDaysAgo": 11,
+    "deadlineInDays": 26,
+    "viewsCount": 168,
+    "applicationsCount": 11
+  },
+  {
+    "employerEmail": "employer11@demo.com",
+    "title": "Trưởng phòng Kinh doanh Online",
+    "description": "Đại Ngàn thành lập phòng Kinh doanh Online để đưa hàng của các nhãn hàng lên Shopee, Lazada, TikTok Shop và website riêng. Trưởng phòng sẽ xây dựng đội ngũ từ con số 0 (kế hoạch 12 người trong năm đầu) và chịu trách nhiệm mục tiêu doanh thu 60 tỷ đồng/năm.\n\nTrách nhiệm:\n- Xây dựng chiến lược kênh bán, chọn danh mục sản phẩm và chính sách giá riêng cho từng sàn.\n- Tuyển dụng, đào tạo nhân viên vận hành gian hàng, chuyên viên quảng cáo và chăm sóc khách hàng.\n- Đàm phán với các sàn về chương trình khuyến mãi lớn; quản lý ngân sách quảng cáo hằng tháng.\n- Phối hợp với kho để đảm bảo tồn kho và tốc độ xử lý đơn hàng.\n- Báo cáo kết quả kinh doanh hằng tuần cho Tổng Giám đốc.",
+    "requirements": "- Từ 6 năm kinh doanh, trong đó tối thiểu 3 năm ở lĩnh vực thương mại điện tử.\n- Từng quản lý gian hàng có doanh thu trên 20 tỷ đồng/năm trên các sàn lớn.\n- Có kinh nghiệm xây dựng và quản lý đội từ 8 người trở lên.\n- Phân tích thành thạo số liệu: doanh thu, tỷ lệ chuyển đổi, ROAS, lợi nhuận gộp theo từng SKU.\n- Tư duy chiến lược và khả năng làm việc với đối tác bên ngoài.",
+    "benefitList": [
+      "Lương cứng 45 triệu cộng thưởng theo doanh thu/lợi nhuận",
+      "Thưởng tháng 13",
+      "Quyền chọn cổ phần sau 2 năm đạt mục tiêu",
+      "Bảo hiểm sức khỏe cao cấp",
+      "Được ủy quyền đầy đủ về nhân sự và ngân sách của phòng"
+    ],
+    "howToApply": "Vị trí đã tìm được ứng viên phù hợp và tạm ngừng nhận hồ sơ. Chúng tôi lưu CV của bạn cho các vị trí quản lý kinh doanh trong thời gian tới.",
+    "category": "sales",
+    "level": "manager",
+    "employmentType": "full-time",
+    "workMode": "onsite",
+    "city": "Hà Nội",
+    "address": "Số 214 Nguyễn Xiển, Thanh Xuân",
+    "salary": {
+      "min": 45000000,
+      "max": 65000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "Quản lý kinh doanh"
+      },
+      {
+        "name": "Thương mại điện tử"
+      },
+      {
+        "name": "Shopee"
+      },
+      {
+        "name": "Lazada"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "TikTok Shop"
+      },
+      {
+        "name": "Quản lý ngân sách quảng cáo"
+      },
+      {
+        "name": "Tiếng Anh"
+      }
+    ],
+    "minYearsExperience": 6,
+    "maxYearsExperience": 10,
+    "minEducation": "bachelor",
+    "vacancies": 1,
+    "status": "closed",
+    "postedDaysAgo": 40,
+    "deadlineInDays": 25,
+    "viewsCount": 520,
+    "applicationsCount": 47
+  }
+]

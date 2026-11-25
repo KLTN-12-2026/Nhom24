@@ -1,0 +1,1253 @@
+[
+  {
+    "evalId": "J11",
+    "employerEmail": "employer1@demo.com",
+    "title": "Mobile Developer (Flutter)",
+    "description": "Phát triển ứng dụng di động đa nền tảng cho sản phẩm fintech bằng Flutter.",
+    "requirements": "Thành thạo Flutter và Dart, từng tích hợp REST API, biết dùng Firebase là lợi thế.",
+    "benefits": "Thưởng theo hiệu quả, bảo hiểm đầy đủ, môi trường trẻ.",
+    "category": "it-software",
+    "level": "junior",
+    "employmentType": "full-time",
+    "workMode": "hybrid",
+    "city": "Hồ Chí Minh",
+    "salary": {
+      "min": 16000000,
+      "max": 26000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "Flutter"
+      },
+      {
+        "name": "Dart"
+      },
+      {
+        "name": "REST API"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "Firebase"
+      },
+      {
+        "name": "Git"
+      }
+    ],
+    "minYearsExperience": 1,
+    "minEducation": "bachelor",
+    "vacancies": 1,
+    "deadlineInDays": 45,
+    "status": "published"
+  },
+  {
+    "evalId": "J12",
+    "employerEmail": "employer1@demo.com",
+    "title": "Android Developer (Kotlin)",
+    "description": "Xây dựng và tối ưu ứng dụng Android cho hàng triệu người dùng.",
+    "requirements": "Từ 3 năm kinh nghiệm Android với Kotlin, hiểu kiến trúc MVVM và REST API.",
+    "benefits": "Thưởng theo hiệu quả, bảo hiểm đầy đủ, môi trường trẻ.",
+    "category": "it-software",
+    "level": "middle",
+    "employmentType": "full-time",
+    "workMode": "hybrid",
+    "city": "Hồ Chí Minh",
+    "salary": {
+      "min": 25000000,
+      "max": 40000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "Kotlin"
+      },
+      {
+        "name": "Android"
+      },
+      {
+        "name": "REST API"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "Firebase"
+      },
+      {
+        "name": "Jetpack Compose"
+      }
+    ],
+    "minYearsExperience": 3,
+    "minEducation": "bachelor",
+    "vacancies": 1,
+    "deadlineInDays": 45,
+    "status": "published"
+  },
+  {
+    "evalId": "J13",
+    "employerEmail": "employer2@demo.com",
+    "title": "Java Backend Developer (Spring Boot)",
+    "description": "Phát triển các dịch vụ backend cho hệ thống thanh toán, xử lý giao dịch khối lượng lớn.",
+    "requirements": "Từ 3 năm Java, thành thạo Spring Boot và MySQL, hiểu kiến trúc microservices.",
+    "benefits": "Thưởng theo hiệu quả, bảo hiểm đầy đủ, môi trường trẻ.",
+    "category": "it-software",
+    "level": "middle",
+    "employmentType": "full-time",
+    "workMode": "hybrid",
+    "city": "Hồ Chí Minh",
+    "salary": {
+      "min": 28000000,
+      "max": 45000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "Java"
+      },
+      {
+        "name": "Spring Boot"
+      },
+      {
+        "name": "MySQL"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "Docker"
+      },
+      {
+        "name": "Redis"
+      },
+      {
+        "name": "Microservices"
+      }
+    ],
+    "minYearsExperience": 3,
+    "minEducation": "bachelor",
+    "vacancies": 1,
+    "deadlineInDays": 45,
+    "status": "published"
+  },
+  {
+    "evalId": "J14",
+    "employerEmail": "employer2@demo.com",
+    "title": "Python Backend Developer (Django)",
+    "description": "Phát triển API và dịch vụ nội bộ cho nền tảng giáo dục trực tuyến bằng Django.",
+    "requirements": "Có kinh nghiệm Python và Django, làm việc với PostgreSQL.",
+    "benefits": "Thưởng theo hiệu quả, bảo hiểm đầy đủ, môi trường trẻ.",
+    "category": "it-software",
+    "level": "junior",
+    "employmentType": "full-time",
+    "workMode": "hybrid",
+    "city": "Hà Nội",
+    "salary": {
+      "min": 16000000,
+      "max": 28000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "Python"
+      },
+      {
+        "name": "Django"
+      },
+      {
+        "name": "PostgreSQL"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "Docker"
+      },
+      {
+        "name": "Redis"
+      }
+    ],
+    "minYearsExperience": 1,
+    "minEducation": "bachelor",
+    "vacancies": 1,
+    "deadlineInDays": 45,
+    "status": "published"
+  },
+  {
+    "evalId": "J15",
+    "employerEmail": "employer3@demo.com",
+    "title": ".NET Developer",
+    "description": "Phát triển và bảo trì hệ thống ERP bằng C# và .NET cho khách hàng doanh nghiệp.",
+    "requirements": "Từ 3 năm kinh nghiệm C# .NET, thành thạo SQL Server, ưu tiên biết Azure.",
+    "benefits": "Thưởng theo hiệu quả, bảo hiểm đầy đủ, môi trường trẻ.",
+    "category": "it-software",
+    "level": "middle",
+    "employmentType": "full-time",
+    "workMode": "onsite",
+    "city": "Đà Nẵng",
+    "salary": {
+      "min": 22000000,
+      "max": 38000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "C#"
+      },
+      {
+        "name": ".NET"
+      },
+      {
+        "name": "SQL Server"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "Azure"
+      },
+      {
+        "name": "Docker"
+      }
+    ],
+    "minYearsExperience": 3,
+    "minEducation": "bachelor",
+    "vacancies": 1,
+    "deadlineInDays": 45,
+    "status": "published"
+  },
+  {
+    "evalId": "J16",
+    "employerEmail": "employer3@demo.com",
+    "title": "QA Automation Engineer",
+    "description": "Xây dựng bộ kiểm thử tự động cho ứng dụng web và API, tích hợp vào pipeline CI.",
+    "requirements": "Có kinh nghiệm viết kiểm thử tự động với Selenium, kiểm thử API bằng Postman, biết SQL.",
+    "benefits": "Thưởng theo hiệu quả, bảo hiểm đầy đủ, môi trường trẻ.",
+    "category": "it-software",
+    "level": "junior",
+    "employmentType": "full-time",
+    "workMode": "hybrid",
+    "city": "Hồ Chí Minh",
+    "salary": {
+      "min": 15000000,
+      "max": 26000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "Selenium"
+      },
+      {
+        "name": "Postman"
+      },
+      {
+        "name": "SQL"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "Jira"
+      },
+      {
+        "name": "CI/CD"
+      }
+    ],
+    "minYearsExperience": 1,
+    "minEducation": "bachelor",
+    "vacancies": 1,
+    "deadlineInDays": 45,
+    "status": "published"
+  },
+  {
+    "evalId": "J17",
+    "employerEmail": "employer3@demo.com",
+    "title": "Software Tester (Manual)",
+    "description": "Viết test case, thực hiện kiểm thử thủ công và báo cáo lỗi cho dự án phần mềm.",
+    "requirements": "Hiểu quy trình kiểm thử phần mềm, biết viết test case, dùng Jira theo dõi lỗi.",
+    "benefits": "Thưởng theo hiệu quả, bảo hiểm đầy đủ, môi trường trẻ.",
+    "category": "it-software",
+    "level": "fresher",
+    "employmentType": "full-time",
+    "workMode": "onsite",
+    "city": "Hồ Chí Minh",
+    "salary": {
+      "min": 9000000,
+      "max": 15000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "Software Testing"
+      },
+      {
+        "name": "Test Case"
+      },
+      {
+        "name": "Jira"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "SQL"
+      }
+    ],
+    "minYearsExperience": 0,
+    "minEducation": "college",
+    "vacancies": 1,
+    "deadlineInDays": 45,
+    "status": "published"
+  },
+  {
+    "evalId": "J18",
+    "employerEmail": "employer4@demo.com",
+    "title": "Business Analyst",
+    "description": "Thu thập yêu cầu, phân tích nghiệp vụ và làm cầu nối giữa khách hàng với đội phát triển.",
+    "requirements": "Từ 3 năm làm BA, viết tài liệu yêu cầu, biết SQL để phân tích dữ liệu, dùng Jira.",
+    "benefits": "Thưởng theo hiệu quả, bảo hiểm đầy đủ, môi trường trẻ.",
+    "category": "it-software",
+    "level": "middle",
+    "employmentType": "full-time",
+    "workMode": "hybrid",
+    "city": "Hà Nội",
+    "salary": {
+      "min": 22000000,
+      "max": 35000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "Business Analysis"
+      },
+      {
+        "name": "SQL"
+      },
+      {
+        "name": "Jira"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "UML"
+      },
+      {
+        "name": "Agile"
+      }
+    ],
+    "minYearsExperience": 3,
+    "minEducation": "bachelor",
+    "vacancies": 1,
+    "deadlineInDays": 45,
+    "status": "published"
+  },
+  {
+    "evalId": "J19",
+    "employerEmail": "employer4@demo.com",
+    "title": "IT Project Manager",
+    "description": "Quản lý các dự án phần mềm theo Agile/Scrum, điều phối đội ngũ và làm việc với khách hàng.",
+    "requirements": "Từ 5 năm kinh nghiệm, đã quản lý dự án phần mềm, thành thạo Agile và Scrum.",
+    "benefits": "Thưởng theo hiệu quả, bảo hiểm đầy đủ, môi trường trẻ.",
+    "category": "it-software",
+    "level": "senior",
+    "employmentType": "full-time",
+    "workMode": "hybrid",
+    "city": "Hồ Chí Minh",
+    "salary": {
+      "min": 35000000,
+      "max": 55000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "Project Management"
+      },
+      {
+        "name": "Agile"
+      },
+      {
+        "name": "Scrum"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "Jira"
+      }
+    ],
+    "minYearsExperience": 5,
+    "minEducation": "bachelor",
+    "vacancies": 1,
+    "deadlineInDays": 45,
+    "status": "published"
+  },
+  {
+    "evalId": "J20",
+    "employerEmail": "employer1@demo.com",
+    "title": "Data Engineer",
+    "description": "Xây dựng pipeline dữ liệu ETL, vận hành kho dữ liệu phục vụ phân tích và báo cáo.",
+    "requirements": "Từ 3 năm kinh nghiệm Python và SQL, đã xây dựng pipeline ETL.",
+    "benefits": "Thưởng theo hiệu quả, bảo hiểm đầy đủ, môi trường trẻ.",
+    "category": "it-data-ai",
+    "level": "middle",
+    "employmentType": "full-time",
+    "workMode": "hybrid",
+    "city": "Hồ Chí Minh",
+    "salary": {
+      "min": 28000000,
+      "max": 45000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "Python"
+      },
+      {
+        "name": "SQL"
+      },
+      {
+        "name": "ETL"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "Airflow"
+      },
+      {
+        "name": "Spark"
+      },
+      {
+        "name": "AWS"
+      }
+    ],
+    "minYearsExperience": 3,
+    "minEducation": "bachelor",
+    "vacancies": 1,
+    "deadlineInDays": 45,
+    "status": "published"
+  },
+  {
+    "evalId": "J21",
+    "employerEmail": "employer1@demo.com",
+    "title": "AI Engineer (NLP/LLM)",
+    "description": "Nghiên cứu và triển khai mô hình xử lý ngôn ngữ tự nhiên, ứng dụng LLM vào chatbot chăm sóc khách hàng.",
+    "requirements": "Có kinh nghiệm Python, NLP và PyTorch, từng triển khai mô hình lên môi trường thực tế.",
+    "benefits": "Thưởng theo hiệu quả, bảo hiểm đầy đủ, môi trường trẻ.",
+    "category": "it-data-ai",
+    "level": "middle",
+    "employmentType": "full-time",
+    "workMode": "hybrid",
+    "city": "Hồ Chí Minh",
+    "salary": {
+      "min": 30000000,
+      "max": 50000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "Python"
+      },
+      {
+        "name": "NLP"
+      },
+      {
+        "name": "PyTorch"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "Docker"
+      },
+      {
+        "name": "LLM"
+      }
+    ],
+    "minYearsExperience": 2,
+    "minEducation": "bachelor",
+    "vacancies": 1,
+    "deadlineInDays": 45,
+    "status": "published"
+  },
+  {
+    "evalId": "J22",
+    "employerEmail": "employer2@demo.com",
+    "title": "Data Scientist",
+    "description": "Xây dựng mô hình dự đoán hành vi khách hàng và phân tích thống kê cho đội sản phẩm.",
+    "requirements": "Nắm vững Python, thống kê và machine learning, biết SQL.",
+    "benefits": "Thưởng theo hiệu quả, bảo hiểm đầy đủ, môi trường trẻ.",
+    "category": "it-data-ai",
+    "level": "junior",
+    "employmentType": "full-time",
+    "workMode": "hybrid",
+    "city": "Hà Nội",
+    "salary": {
+      "min": 18000000,
+      "max": 30000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "Python"
+      },
+      {
+        "name": "Statistics"
+      },
+      {
+        "name": "Machine Learning"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "SQL"
+      },
+      {
+        "name": "Power BI"
+      }
+    ],
+    "minYearsExperience": 1,
+    "minEducation": "bachelor",
+    "vacancies": 1,
+    "deadlineInDays": 45,
+    "status": "published"
+  },
+  {
+    "evalId": "J23",
+    "employerEmail": "employer2@demo.com",
+    "title": "BI Developer",
+    "description": "Xây dựng dashboard và báo cáo quản trị bằng Power BI cho các phòng ban.",
+    "requirements": "Thành thạo SQL, Power BI và Excel, tư duy phân tích dữ liệu tốt.",
+    "benefits": "Thưởng theo hiệu quả, bảo hiểm đầy đủ, môi trường trẻ.",
+    "category": "it-data-ai",
+    "level": "fresher",
+    "employmentType": "full-time",
+    "workMode": "onsite",
+    "city": "Hà Nội",
+    "salary": {
+      "min": 12000000,
+      "max": 20000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "SQL"
+      },
+      {
+        "name": "Power BI"
+      },
+      {
+        "name": "Excel"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "Python"
+      }
+    ],
+    "minYearsExperience": 0,
+    "minEducation": "bachelor",
+    "vacancies": 1,
+    "deadlineInDays": 45,
+    "status": "published"
+  },
+  {
+    "evalId": "J24",
+    "employerEmail": "employer5@demo.com",
+    "title": "Cloud Engineer (AWS)",
+    "description": "Thiết kế và vận hành hạ tầng đám mây trên AWS, quản lý hạ tầng bằng mã với Terraform.",
+    "requirements": "Từ 3 năm kinh nghiệm AWS, Terraform và Linux, hiểu mạng và bảo mật cơ bản.",
+    "benefits": "Thưởng theo hiệu quả, bảo hiểm đầy đủ, môi trường trẻ.",
+    "category": "it-infra-security",
+    "level": "middle",
+    "employmentType": "full-time",
+    "workMode": "remote",
+    "city": "Hồ Chí Minh",
+    "salary": {
+      "min": 30000000,
+      "max": 50000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "AWS"
+      },
+      {
+        "name": "Terraform"
+      },
+      {
+        "name": "Linux"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "Kubernetes"
+      },
+      {
+        "name": "Docker"
+      }
+    ],
+    "minYearsExperience": 3,
+    "minEducation": "bachelor",
+    "vacancies": 1,
+    "deadlineInDays": 45,
+    "status": "published"
+  },
+  {
+    "evalId": "J25",
+    "employerEmail": "employer5@demo.com",
+    "title": "Security Engineer",
+    "description": "Giám sát an ninh hệ thống, kiểm thử xâm nhập và xử lý sự cố bảo mật.",
+    "requirements": "Từ 3 năm kinh nghiệm an ninh mạng, biết penetration testing và Linux.",
+    "benefits": "Thưởng theo hiệu quả, bảo hiểm đầy đủ, môi trường trẻ.",
+    "category": "it-infra-security",
+    "level": "middle",
+    "employmentType": "full-time",
+    "workMode": "hybrid",
+    "city": "Hà Nội",
+    "salary": {
+      "min": 28000000,
+      "max": 48000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "Network Security"
+      },
+      {
+        "name": "Penetration Testing"
+      },
+      {
+        "name": "Linux"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "Python"
+      }
+    ],
+    "minYearsExperience": 3,
+    "minEducation": "bachelor",
+    "vacancies": 1,
+    "deadlineInDays": 45,
+    "status": "published"
+  },
+  {
+    "evalId": "J26",
+    "employerEmail": "employer1@demo.com",
+    "title": "Frontend Developer (Vue.js)",
+    "description": "Phát triển giao diện web cho hệ thống quản lý nội bộ bằng Vue.js.",
+    "requirements": "Thành thạo Vue.js, JavaScript và HTML/CSS, hiểu responsive design.",
+    "benefits": "Thưởng theo hiệu quả, bảo hiểm đầy đủ, môi trường trẻ.",
+    "category": "it-software",
+    "level": "junior",
+    "employmentType": "full-time",
+    "workMode": "hybrid",
+    "city": "Hồ Chí Minh",
+    "salary": {
+      "min": 14000000,
+      "max": 24000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "Vue.js"
+      },
+      {
+        "name": "JavaScript"
+      },
+      {
+        "name": "HTML/CSS"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "TypeScript"
+      }
+    ],
+    "minYearsExperience": 1,
+    "minEducation": "college",
+    "vacancies": 1,
+    "deadlineInDays": 45,
+    "status": "published"
+  },
+  {
+    "evalId": "J27",
+    "employerEmail": "employer2@demo.com",
+    "title": "UI/UX Designer",
+    "description": "Thiết kế giao diện và trải nghiệm người dùng cho ứng dụng web và di động, làm việc với đội phát triển.",
+    "requirements": "Thành thạo Figma, có portfolio thiết kế UI, hiểu quy trình nghiên cứu người dùng.",
+    "benefits": "Thưởng theo hiệu quả, bảo hiểm đầy đủ, môi trường trẻ.",
+    "category": "design",
+    "level": "junior",
+    "employmentType": "full-time",
+    "workMode": "hybrid",
+    "city": "Hồ Chí Minh",
+    "salary": {
+      "min": 14000000,
+      "max": 25000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "Figma"
+      },
+      {
+        "name": "UI Design"
+      },
+      {
+        "name": "Prototyping"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "Adobe XD"
+      },
+      {
+        "name": "User Research"
+      }
+    ],
+    "minYearsExperience": 1,
+    "minEducation": "college",
+    "vacancies": 1,
+    "deadlineInDays": 45,
+    "status": "published"
+  },
+  {
+    "evalId": "J28",
+    "employerEmail": "employer2@demo.com",
+    "title": "Content Marketing Executive",
+    "description": "Lên kế hoạch và sản xuất nội dung cho blog, mạng xã hội và email marketing.",
+    "requirements": "Viết tốt, có kinh nghiệm SEO content, biết dùng Google Analytics.",
+    "benefits": "Thưởng theo hiệu quả, bảo hiểm đầy đủ, môi trường trẻ.",
+    "category": "marketing",
+    "level": "junior",
+    "employmentType": "full-time",
+    "workMode": "hybrid",
+    "city": "Hà Nội",
+    "salary": {
+      "min": 10000000,
+      "max": 17000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "Content Marketing"
+      },
+      {
+        "name": "SEO"
+      },
+      {
+        "name": "Copywriting"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "Google Analytics"
+      }
+    ],
+    "minYearsExperience": 1,
+    "minEducation": "bachelor",
+    "vacancies": 1,
+    "deadlineInDays": 45,
+    "status": "published"
+  },
+  {
+    "evalId": "J29",
+    "employerEmail": "employer4@demo.com",
+    "title": "HR Recruiter",
+    "description": "Tìm kiếm, sàng lọc và phỏng vấn ứng viên cho các vị trí công nghệ và kinh doanh.",
+    "requirements": "Có kinh nghiệm tuyển dụng, biết sử dụng LinkedIn, kỹ năng phỏng vấn tốt.",
+    "benefits": "Thưởng theo hiệu quả, bảo hiểm đầy đủ, môi trường trẻ.",
+    "category": "hr-admin",
+    "level": "junior",
+    "employmentType": "full-time",
+    "workMode": "onsite",
+    "city": "Hồ Chí Minh",
+    "salary": {
+      "min": 10000000,
+      "max": 16000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "Tuyển dụng"
+      },
+      {
+        "name": "Phỏng vấn"
+      },
+      {
+        "name": "LinkedIn"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "Excel"
+      }
+    ],
+    "minYearsExperience": 1,
+    "minEducation": "bachelor",
+    "vacancies": 1,
+    "deadlineInDays": 45,
+    "status": "published"
+  },
+  {
+    "evalId": "J30",
+    "employerEmail": "employer4@demo.com",
+    "title": "Kế toán thuế",
+    "description": "Lập tờ khai thuế, đối chiếu hóa đơn và làm việc với cơ quan thuế.",
+    "requirements": "Từ 2 năm kinh nghiệm kế toán, thành thạo MISA và báo cáo thuế.",
+    "benefits": "Thưởng theo hiệu quả, bảo hiểm đầy đủ, môi trường trẻ.",
+    "category": "finance-accounting",
+    "level": "middle",
+    "employmentType": "full-time",
+    "workMode": "onsite",
+    "city": "Hà Nội",
+    "salary": {
+      "min": 13000000,
+      "max": 20000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "MISA"
+      },
+      {
+        "name": "Báo cáo thuế"
+      },
+      {
+        "name": "Kế toán thuế"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "Excel"
+      }
+    ],
+    "minYearsExperience": 2,
+    "minEducation": "bachelor",
+    "vacancies": 1,
+    "deadlineInDays": 45,
+    "status": "published"
+  },
+  {
+    "evalId": "J31",
+    "employerEmail": "employer5@demo.com",
+    "title": "Financial Analyst",
+    "description": "Phân tích số liệu tài chính, lập mô hình dự báo và báo cáo cho ban giám đốc.",
+    "requirements": "Từ 3 năm kinh nghiệm phân tích tài chính, thành thạo Excel và mô hình tài chính.",
+    "benefits": "Thưởng theo hiệu quả, bảo hiểm đầy đủ, môi trường trẻ.",
+    "category": "finance-accounting",
+    "level": "middle",
+    "employmentType": "full-time",
+    "workMode": "hybrid",
+    "city": "Hồ Chí Minh",
+    "salary": {
+      "min": 22000000,
+      "max": 36000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "Financial Analysis"
+      },
+      {
+        "name": "Excel"
+      },
+      {
+        "name": "Financial Modeling"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "Power BI"
+      },
+      {
+        "name": "SQL"
+      }
+    ],
+    "minYearsExperience": 3,
+    "minEducation": "bachelor",
+    "vacancies": 1,
+    "deadlineInDays": 45,
+    "status": "published"
+  },
+  {
+    "evalId": "J32",
+    "employerEmail": "employer3@demo.com",
+    "title": "Giáo viên IELTS",
+    "description": "Giảng dạy các lớp IELTS cho học viên trung học và người đi làm.",
+    "requirements": "Có chứng chỉ IELTS từ 7.5, kỹ năng giảng dạy tốt, ưu tiên có kinh nghiệm luyện thi.",
+    "benefits": "Thưởng theo hiệu quả, bảo hiểm đầy đủ, môi trường trẻ.",
+    "category": "education",
+    "level": "junior",
+    "employmentType": "full-time",
+    "workMode": "onsite",
+    "city": "Đà Nẵng",
+    "salary": {
+      "min": 12000000,
+      "max": 22000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "Giảng dạy"
+      },
+      {
+        "name": "IELTS"
+      },
+      {
+        "name": "Tiếng Anh"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "Soạn giáo án"
+      }
+    ],
+    "minYearsExperience": 1,
+    "minEducation": "bachelor",
+    "vacancies": 1,
+    "deadlineInDays": 45,
+    "status": "published"
+  },
+  {
+    "evalId": "J33",
+    "employerEmail": "employer3@demo.com",
+    "title": "Điều dưỡng viên",
+    "description": "Chăm sóc bệnh nhân nội trú, thực hiện y lệnh và theo dõi tình trạng sức khỏe.",
+    "requirements": "Tốt nghiệp cao đẳng điều dưỡng, có chứng chỉ hành nghề, kỹ năng sơ cứu.",
+    "benefits": "Thưởng theo hiệu quả, bảo hiểm đầy đủ, môi trường trẻ.",
+    "category": "healthcare",
+    "level": "fresher",
+    "employmentType": "full-time",
+    "workMode": "onsite",
+    "city": "Hồ Chí Minh",
+    "salary": {
+      "min": 8000000,
+      "max": 13000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "Chăm sóc bệnh nhân"
+      },
+      {
+        "name": "Sơ cứu"
+      },
+      {
+        "name": "Điều dưỡng"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "Tiếng Anh"
+      }
+    ],
+    "minYearsExperience": 0,
+    "minEducation": "college",
+    "vacancies": 1,
+    "deadlineInDays": 45,
+    "status": "published"
+  },
+  {
+    "evalId": "J34",
+    "employerEmail": "employer5@demo.com",
+    "title": "Kỹ sư cơ khí (thiết kế CAD)",
+    "description": "Thiết kế chi tiết máy và bản vẽ kỹ thuật cho dây chuyền sản xuất.",
+    "requirements": "Thành thạo AutoCAD và SolidWorks, hiểu dung sai lắp ghép.",
+    "benefits": "Thưởng theo hiệu quả, bảo hiểm đầy đủ, môi trường trẻ.",
+    "category": "engineering",
+    "level": "junior",
+    "employmentType": "full-time",
+    "workMode": "onsite",
+    "city": "Đà Nẵng",
+    "salary": {
+      "min": 12000000,
+      "max": 20000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "AutoCAD"
+      },
+      {
+        "name": "SolidWorks"
+      },
+      {
+        "name": "Bản vẽ kỹ thuật"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "Inventor"
+      }
+    ],
+    "minYearsExperience": 1,
+    "minEducation": "bachelor",
+    "vacancies": 1,
+    "deadlineInDays": 45,
+    "status": "published"
+  },
+  {
+    "evalId": "J35",
+    "employerEmail": "employer5@demo.com",
+    "title": "Nhân viên Kho vận Logistics",
+    "description": "Quản lý xuất nhập kho, điều phối vận chuyển và theo dõi tồn kho.",
+    "requirements": "Biết quản lý kho, thành thạo Excel, ưu tiên từng dùng SAP.",
+    "benefits": "Thưởng theo hiệu quả, bảo hiểm đầy đủ, môi trường trẻ.",
+    "category": "logistics",
+    "level": "junior",
+    "employmentType": "full-time",
+    "workMode": "onsite",
+    "city": "Hồ Chí Minh",
+    "salary": {
+      "min": 9000000,
+      "max": 15000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "Quản lý kho"
+      },
+      {
+        "name": "Excel"
+      },
+      {
+        "name": "Logistics"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "SAP"
+      }
+    ],
+    "minYearsExperience": 1,
+    "minEducation": "college",
+    "vacancies": 1,
+    "deadlineInDays": 45,
+    "status": "published"
+  },
+  {
+    "evalId": "J36",
+    "employerEmail": "employer3@demo.com",
+    "title": "Lễ tân khách sạn",
+    "description": "Đón tiếp khách, xử lý đặt phòng và hỗ trợ check-in/check-out bằng phần mềm PMS.",
+    "requirements": "Giao tiếp tốt, thành thạo tiếng Anh, từng dùng phần mềm quản lý khách sạn là lợi thế.",
+    "benefits": "Thưởng theo hiệu quả, bảo hiểm đầy đủ, môi trường trẻ.",
+    "category": "hospitality",
+    "level": "fresher",
+    "employmentType": "full-time",
+    "workMode": "onsite",
+    "city": "Đà Nẵng",
+    "salary": {
+      "min": 7000000,
+      "max": 11000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "Lễ tân"
+      },
+      {
+        "name": "Tiếng Anh"
+      },
+      {
+        "name": "Phần mềm PMS"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "Tiếng Nhật"
+      }
+    ],
+    "minYearsExperience": 0,
+    "minEducation": "college",
+    "vacancies": 1,
+    "deadlineInDays": 45,
+    "status": "published"
+  },
+  {
+    "evalId": "J37",
+    "employerEmail": "employer2@demo.com",
+    "title": "Sales Executive (SaaS)",
+    "description": "Tìm kiếm khách hàng doanh nghiệp và chốt hợp đồng phần mềm SaaS.",
+    "requirements": "Từ 3 năm bán hàng B2B, thành thạo CRM và đàm phán, tiếng Anh tốt.",
+    "benefits": "Thưởng theo hiệu quả, bảo hiểm đầy đủ, môi trường trẻ.",
+    "category": "sales",
+    "level": "middle",
+    "employmentType": "full-time",
+    "workMode": "hybrid",
+    "city": "Hồ Chí Minh",
+    "salary": {
+      "min": 18000000,
+      "max": 35000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "Bán hàng B2B"
+      },
+      {
+        "name": "CRM"
+      },
+      {
+        "name": "Đàm phán"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "Tiếng Anh"
+      }
+    ],
+    "minYearsExperience": 3,
+    "minEducation": "bachelor",
+    "vacancies": 1,
+    "deadlineInDays": 45,
+    "status": "published"
+  },
+  {
+    "evalId": "J38",
+    "employerEmail": "employer2@demo.com",
+    "title": "Social Media Executive",
+    "description": "Quản lý kênh Facebook, TikTok, chạy quảng cáo và thiết kế ấn phẩm cơ bản bằng Canva.",
+    "requirements": "Biết chạy Facebook Ads, viết nội dung mạng xã hội, dùng Canva.",
+    "benefits": "Thưởng theo hiệu quả, bảo hiểm đầy đủ, môi trường trẻ.",
+    "category": "marketing",
+    "level": "fresher",
+    "employmentType": "full-time",
+    "workMode": "hybrid",
+    "city": "Hà Nội",
+    "salary": {
+      "min": 9000000,
+      "max": 14000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "Facebook Ads"
+      },
+      {
+        "name": "Content Marketing"
+      },
+      {
+        "name": "Canva"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "TikTok"
+      }
+    ],
+    "minYearsExperience": 0,
+    "minEducation": "college",
+    "vacancies": 1,
+    "deadlineInDays": 45,
+    "status": "published"
+  },
+  {
+    "evalId": "J39",
+    "employerEmail": "employer5@demo.com",
+    "title": "DevOps Engineer (Junior)",
+    "description": "Hỗ trợ vận hành hệ thống CI/CD, đóng gói ứng dụng bằng Docker và giám sát dịch vụ.",
+    "requirements": "Biết Docker, Linux và Git, có hiểu biết về CI/CD.",
+    "benefits": "Thưởng theo hiệu quả, bảo hiểm đầy đủ, môi trường trẻ.",
+    "category": "it-infra-security",
+    "level": "junior",
+    "employmentType": "full-time",
+    "workMode": "hybrid",
+    "city": "Hồ Chí Minh",
+    "salary": {
+      "min": 16000000,
+      "max": 28000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "Docker"
+      },
+      {
+        "name": "Linux"
+      },
+      {
+        "name": "Git"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "CI/CD"
+      },
+      {
+        "name": "AWS"
+      }
+    ],
+    "minYearsExperience": 1,
+    "minEducation": "bachelor",
+    "vacancies": 1,
+    "deadlineInDays": 45,
+    "status": "published"
+  },
+  {
+    "evalId": "J40",
+    "employerEmail": "employer1@demo.com",
+    "title": "Tech Lead Backend",
+    "description": "Dẫn dắt đội backend, thiết kế kiến trúc microservices, review mã và mentoring.",
+    "requirements": "Từ 7 năm kinh nghiệm backend, từng thiết kế hệ thống phân tán, thành thạo Kubernetes và PostgreSQL.",
+    "benefits": "Thưởng theo hiệu quả, bảo hiểm đầy đủ, môi trường trẻ.",
+    "category": "it-software",
+    "level": "lead",
+    "employmentType": "full-time",
+    "workMode": "hybrid",
+    "city": "Hồ Chí Minh",
+    "salary": {
+      "min": 55000000,
+      "max": 85000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "Microservices"
+      },
+      {
+        "name": "Kubernetes"
+      },
+      {
+        "name": "PostgreSQL"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "AWS"
+      },
+      {
+        "name": "Go"
+      }
+    ],
+    "minYearsExperience": 7,
+    "minEducation": "bachelor",
+    "vacancies": 1,
+    "deadlineInDays": 45,
+    "status": "published"
+  }
+]

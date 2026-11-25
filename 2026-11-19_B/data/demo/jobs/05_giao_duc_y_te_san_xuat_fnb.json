@@ -1,0 +1,1003 @@
+[
+  {
+    "employerEmail": "employer16@demo.com",
+    "title": "Giáo viên Tiếng Anh Thiếu nhi (6-11 tuổi)",
+    "description": "Hạt Giống Academy dạy tiếng Anh và kỹ năng sống cho trẻ em từ 4 đến 15 tuổi, với 5 cơ sở tại Cầu Giấy, Thanh Xuân và Hà Đông. Chúng tôi theo đuổi phương pháp học qua dự án: mỗi tháng lớp làm ra một sản phẩm cụ thể, ví dụ làm báo tường, quay bản tin lớp hoặc mở cửa hàng đồ chơi.\n\nVới nhóm lớp 6-11 tuổi, bạn sẽ:\n- Giảng dạy 18-22 tiết mỗi tuần, sĩ số 10-14 học viên/lớp, theo chương trình Cambridge Young Learners có điều chỉnh.\n- Chuẩn bị giáo án chi tiết, trò chơi và hoạt động; giáo cụ được cấp ngân sách riêng.\n- Nhận xét từng học viên hằng tháng bằng tiếng Việt cho phụ huynh, tổ chức buổi gặp phụ huynh mỗi quý.\n- Phối hợp với trợ giảng để chấm bài, theo dõi tiến bộ và sắp xếp lớp bù khi cần.\n- Tham gia ngày hội ngoại khóa 2 lần/năm.",
+    "requirements": "- Tốt nghiệp đại học chuyên ngành Sư phạm Anh, Ngôn ngữ Anh hoặc ngành khác có IELTS 6.5+ / TESOL / CELTA.\n- Từ 1 năm dạy tiếng Anh cho trẻ em, hoặc đã làm trợ giảng chăm chỉ.\n- Phát âm chuẩn, giọng nói truyền cảm, có năng lượng và biết cách giữ trẻ tập trung.\n- Kiên nhẫn, yêu trẻ, giao tiếp chuyên nghiệp với phụ huynh.\n- Có thể dạy buổi tối và cuối tuần (xếp lịch cố định theo tháng).",
+    "benefitList": [
+      "Lương theo tiết dạy, thu nhập trung bình 12-20 triệu/tháng",
+      "Thưởng tháng 13 và thưởng chất lượng giảng dạy theo quý",
+      "Được hỗ trợ học phí chứng chỉ TESOL/CELTA",
+      "Bảo hiểm xã hội đầy đủ sau hợp đồng thử việc",
+      "Bồi dưỡng chuyên môn hằng tháng cùng giáo viên nước ngoài",
+      "Nghỉ hè 2 tuần có lương"
+    ],
+    "howToApply": "Nộp CV qua hệ thống. Vòng 1: giảng thử 15 phút một hoạt động bằng tiếng Anh trước hai giáo viên. Vòng 2: phỏng vấn với Trưởng cơ sở. Kết quả trong vòng 3 ngày làm việc.",
+    "category": "education",
+    "level": "junior",
+    "employmentType": "full-time",
+    "workMode": "onsite",
+    "city": "Hà Nội",
+    "address": "Số 41 Trần Đăng Ninh, Cầu Giấy",
+    "salary": {
+      "min": 12000000,
+      "max": 20000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "Giảng dạy tiếng Anh"
+      },
+      {
+        "name": "IELTS/TESOL"
+      },
+      {
+        "name": "Quản lý lớp học"
+      },
+      {
+        "name": "Giao tiếp với phụ huynh"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "Kỹ năng tổ chức trò chơi"
+      },
+      {
+        "name": "Phát âm chuẩn"
+      },
+      {
+        "name": "Cambridge Young Learners"
+      }
+    ],
+    "minYearsExperience": 1,
+    "maxYearsExperience": 3,
+    "minEducation": "bachelor",
+    "vacancies": 5,
+    "status": "published",
+    "postedDaysAgo": 2,
+    "deadlineInDays": 24,
+    "viewsCount": 310,
+    "applicationsCount": 44
+  },
+  {
+    "employerEmail": "employer16@demo.com",
+    "title": "Giáo viên Lập trình Scratch & Python cho Trẻ em",
+    "description": "Lớp lập trình cho trẻ của Hạt Giống mở vào các buổi chiều thứ Ba, thứ Năm và cuối tuần, với hơn 200 học viên từ 7 đến 14 tuổi. Chúng tôi cần các bạn sinh viên CNTT hoặc kỹ sư trẻ thích giảng dạy, nhận 6-10 tiết mỗi tuần.\n\nBạn sẽ:\n- Dạy các khóa Scratch (7-10 tuổi) và Python cơ bản (11-14 tuổi) theo giáo trình có sẵn.\n- Hướng dẫn trẻ hoàn thành dự án cuối khóa: game đơn giản, hoạt hình tương tác, chương trình điều khiển robot.\n- Giải thích lỗi cho trẻ bằng ngôn ngữ dễ hiểu và biến lỗi thành cơ hội học.\n- Ghi nhận xét tiến bộ sau mỗi buổi cho phụ huynh qua ứng dụng lớp học.\n- Cùng đội ngũ cải tiến giáo trình dựa trên phản hồi lớp thực tế.",
+    "requirements": "- Sinh viên năm 3-4 hoặc đã tốt nghiệp ngành CNTT, Khoa học máy tính, Sư phạm Tin học.\n- Biết Scratch và Python ở mức cơ bản; thích truyền đạt và kiên nhẫn với trẻ nhỏ.\n- Có thể dạy vào chiều thứ Ba, thứ Năm và cuối tuần.\n- Giao tiếp vui vẻ, năng động; có kinh nghiệm hướng dẫn câu lạc bộ hoặc gia sư là lợi thế.\n- Cam kết ít nhất 6 tháng.",
+    "benefitList": [
+      "Thu nhập 7-12 triệu/tháng, trả theo tiết dạy",
+      "Đào tạo phương pháp giảng dạy cho trẻ 2 buổi trước khi lên lớp",
+      "Cấp giáo trình và thiết bị (laptop, robot) để giảng dạy",
+      "Cơ hội trở thành giáo viên cố định hoặc xây dựng giáo trình mới",
+      "Giấy chứng nhận kinh nghiệm giảng dạy"
+    ],
+    "howToApply": "Ứng tuyển trên hệ thống. Bạn sẽ được mời dạy thử 20 phút một bài lập trình đơn giản cho nhóm trẻ thật, không cần chuẩn bị giáo án phức tạp.",
+    "category": "education",
+    "level": "fresher",
+    "employmentType": "part-time",
+    "workMode": "onsite",
+    "city": "Hà Nội",
+    "address": "Số 41 Trần Đăng Ninh, Cầu Giấy",
+    "salary": {
+      "min": 7000000,
+      "max": 12000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "Scratch"
+      },
+      {
+        "name": "Python"
+      },
+      {
+        "name": "Giảng dạy"
+      },
+      {
+        "name": "Giao tiếp"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "Robotics"
+      },
+      {
+        "name": "Lego Education"
+      },
+      {
+        "name": "Sư phạm"
+      }
+    ],
+    "minYearsExperience": 0,
+    "maxYearsExperience": 1,
+    "minEducation": "college",
+    "vacancies": 3,
+    "status": "published",
+    "postedDaysAgo": 6,
+    "deadlineInDays": 15,
+    "viewsCount": 224,
+    "applicationsCount": 35
+  },
+  {
+    "employerEmail": "employer16@demo.com",
+    "title": "Điều phối Học vụ & Chăm sóc Phụ huynh",
+    "description": "Điều phối học vụ là người giữ cho mọi lớp học tại cơ sở diễn ra đúng lịch, đủ giáo viên, đủ phòng, và phụ huynh luôn biết con mình đang học thế nào. Đây là vị trí phối hợp trung tâm giữa giáo viên, trợ giảng, tư vấn tuyển sinh và phụ huynh.\n\nCông việc:\n- Xếp thời khóa biểu theo học kỳ, điều chỉnh khi có giáo viên nghỉ và sắp xếp lớp bù.\n- Theo dõi điểm danh, kết quả đánh giá định kỳ và gửi báo cáo cho phụ huynh mỗi tháng.\n- Tiếp nhận và xử lý phản ánh của phụ huynh, ghi lại hướng giải quyết và theo dõi đến khi hoàn tất.\n- Tổ chức buổi học thử, buổi gặp phụ huynh, ngày hội ngoại khóa.\n- Làm việc với bộ phận tuyển sinh để dự báo số lớp mở trong học kỳ sau.",
+    "requirements": "- Từ 2 năm làm điều hành học vụ tại trung tâm giáo dục, trường quốc tế hoặc quản lý lớp học.\n- Kỹ năng tổ chức, sắp xếp tốt; xử lý được nhiều việc nhỏ cùng lúc.\n- Giao tiếp mềm mỏng với phụ huynh, giữ bình tĩnh khi xử lý phàn nàn.\n- Thành thạo Excel/Google Sheets; dùng phần mềm quản lý trung tâm là lợi thế.\n- Có thể làm việc cuối tuần theo ca xoay.",
+    "benefitList": [
+      "Thưởng tháng 13 và thưởng theo tỷ lệ gia hạn khóa học",
+      "Bảo hiểm sức khỏe",
+      "Con em nhân viên được ưu đãi học phí 50%",
+      "Nghỉ thứ Hai hoặc thứ Ba khi làm cuối tuần"
+    ],
+    "howToApply": "Gửi hồ sơ qua hệ thống. Buổi phỏng vấn gồm bài xử lý tình huống: một phụ huynh phản ánh lớp bị đổi giáo viên đột ngột, bạn sẽ trao đổi như thế nào.",
+    "category": "education",
+    "level": "middle",
+    "employmentType": "full-time",
+    "workMode": "onsite",
+    "city": "Thái Nguyên",
+    "address": "Số 36 Hoàng Văn Thụ, phường Phan Đình Phùng",
+    "salary": {
+      "min": 13000000,
+      "max": 20000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "Quản lý học vụ"
+      },
+      {
+        "name": "Chăm sóc phụ huynh"
+      },
+      {
+        "name": "Excel"
+      },
+      {
+        "name": "Lập lịch học"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "Phần mềm quản lý trung tâm"
+      },
+      {
+        "name": "Tư vấn tuyển sinh"
+      }
+    ],
+    "minYearsExperience": 2,
+    "maxYearsExperience": 4,
+    "minEducation": "bachelor",
+    "vacancies": 1,
+    "status": "published",
+    "postedDaysAgo": 10,
+    "deadlineInDays": 18,
+    "viewsCount": 186,
+    "applicationsCount": 19
+  },
+  {
+    "employerEmail": "employer16@demo.com",
+    "title": "Tư vấn Tuyển sinh",
+    "description": "Tư vấn tuyển sinh của Hạt Giống gặp gỡ phụ huynh để hiểu nhu cầu của con và giúp họ chọn khóa học phù hợp. Công việc không phải chạy theo chỉ tiêu bằng mọi giá mà là xây dựng lòng tin để phụ huynh quay lại các năm sau.\n\nCông việc:\n- Tiếp nhận khách hàng tiềm năng qua điện thoại, Zalo, fanpage và trực tiếp tại cơ sở.\n- Tư vấn chương trình, lộ trình học, học phí; xếp lịch học thử và kiểm tra đầu vào cho học viên.\n- Chăm sóc phụ huynh sau buổi học thử, hướng dẫn thủ tục đăng ký.\n- Tham gia hội chợ giáo dục, ngày hội ở trường học và quận huyện.\n- Báo cáo số lượng liên hệ, học thử và đăng ký mỗi tuần.",
+    "requirements": "- Tốt nghiệp từ cao đẳng; có kinh nghiệm tư vấn, bán hàng dịch vụ hoặc chăm sóc khách hàng là lợi thế.\n- Giao tiếp trôi chảy, giọng nói dễ nghe, tạo được cảm giác tin cậy.\n- Trung thực với thông tin tư vấn.\n- Làm việc linh hoạt cả tối và cuối tuần.",
+    "benefitList": [
+      "Lương cứng 7 triệu cộng hoa hồng 5-8% học phí",
+      "Thu nhập trung bình 10-20 triệu/tháng",
+      "Thưởng tháng 13",
+      "Đào tạo kỹ năng tư vấn trong 1 tháng đầu",
+      "Bảo hiểm xã hội đầy đủ"
+    ],
+    "howToApply": "Đợt tuyển này đã đủ số lượng nên tạm đóng. Vui lòng theo dõi để ứng tuyển ở đợt tiếp theo vào đầu học kỳ sau.",
+    "category": "education",
+    "level": "junior",
+    "employmentType": "full-time",
+    "workMode": "onsite",
+    "city": "Hà Nội",
+    "address": "Số 41 Trần Đăng Ninh, Cầu Giấy",
+    "salary": {
+      "min": 9000000,
+      "max": 22000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "Tư vấn"
+      },
+      {
+        "name": "Bán hàng"
+      },
+      {
+        "name": "Giao tiếp"
+      },
+      {
+        "name": "Chăm sóc khách hàng"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "Kinh nghiệm giáo dục"
+      },
+      {
+        "name": "Zalo OA"
+      }
+    ],
+    "minYearsExperience": 0,
+    "maxYearsExperience": 2,
+    "minEducation": "college",
+    "vacancies": 4,
+    "status": "closed",
+    "postedDaysAgo": 38,
+    "deadlineInDays": 15,
+    "viewsCount": 290,
+    "applicationsCount": 52
+  },
+  {
+    "employerEmail": "employer17@demo.com",
+    "title": "Điều dưỡng Phòng khám Đa khoa",
+    "description": "Phúc Lâm Medical Center là phòng khám đa khoa với 14 chuyên khoa, tiếp nhận khoảng 450 lượt khám mỗi ngày. Điều dưỡng làm việc theo khu vực (khám nội, nhi, sản, tiêm chủng) và phối hợp chặt chẽ với bác sĩ để mỗi lượt khám diễn ra an toàn, nhanh gọn.\n\nNhiệm vụ:\n- Đón tiếp, đo sinh hiệu, ghi nhận triệu chứng ban đầu và hỗ trợ bác sĩ trong lúc khám.\n- Thực hiện tiêm, truyền, lấy mẫu máu, thay băng, chăm sóc vết thương theo y lệnh.\n- Chuẩn bị dụng cụ, vô khuẩn dụng cụ và giữ gìn môi trường theo quy trình kiểm soát nhiễm khuẩn.\n- Hướng dẫn bệnh nhân và gia đình về thuốc, lịch tái khám, chăm sóc tại nhà.\n- Ghi hồ sơ bệnh án điện tử đầy đủ, chính xác.\n\nLàm theo ca: sáng 7h30-16h, chiều 12h-20h30; mỗi người làm 1 ngày cuối tuần mỗi tháng.",
+    "requirements": "- Tốt nghiệp cao đẳng/đại học Điều dưỡng; có chứng chỉ hành nghề hoặc đủ điều kiện cấp chứng chỉ.\n- Từ 1 năm kinh nghiệm tại bệnh viện/phòng khám; điều dưỡng mới ra trường có thực tập tốt cũng được xem xét.\n- Kỹ năng giao tiếp nhẹ nhàng, kiên nhẫn, đặc biệt với trẻ em và người lớn tuổi.\n- Tuân thủ chặt chẽ quy trình vô khuẩn và an toàn người bệnh.\n- Có chứng chỉ sơ cấp cứu cơ bản là lợi thế.",
+    "benefitList": [
+      "Thưởng tháng 13 và phụ cấp ca/độc hại theo quy định",
+      "Khám chữa bệnh miễn phí cho nhân viên và giảm 50% cho người thân",
+      "Đào tạo liên tục: hội thảo chuyên môn mỗi tháng, cấp chứng chỉ CME",
+      "Bảo hiểm xã hội đầy đủ, bảo hiểm sức khỏe cao cấp",
+      "Suất ăn ca miễn phí và đồng phục được giặt ủi"
+    ],
+    "howToApply": "Nộp hồ sơ trên hệ thống hoặc trực tiếp tại phòng Nhân sự (tầng 2) vào giờ hành chính. Phỏng vấn kèm đánh giá thực hành tiêm và đo huyết áp với điều dưỡng trưởng.",
+    "category": "healthcare",
+    "level": "junior",
+    "employmentType": "full-time",
+    "workMode": "onsite",
+    "city": "Cần Thơ",
+    "address": "Số 234 đường 30 Tháng 4, phường Ninh Kiều",
+    "salary": {
+      "min": 10000000,
+      "max": 15000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "Điều dưỡng"
+      },
+      {
+        "name": "Chăm sóc bệnh nhân"
+      },
+      {
+        "name": "Tiêm truyền"
+      },
+      {
+        "name": "Kiểm soát nhiễm khuẩn"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "Sơ cấp cứu"
+      },
+      {
+        "name": "Xét nghiệm lấy mẫu"
+      },
+      {
+        "name": "Tiếng Anh y khoa"
+      }
+    ],
+    "minYearsExperience": 1,
+    "maxYearsExperience": 3,
+    "minEducation": "college",
+    "vacancies": 6,
+    "status": "published",
+    "postedDaysAgo": 3,
+    "deadlineInDays": 17,
+    "viewsCount": 265,
+    "applicationsCount": 31
+  },
+  {
+    "employerEmail": "employer17@demo.com",
+    "title": "Bác sĩ Nhi khoa",
+    "description": "Khoa Nhi của Phúc Lâm mỗi ngày đón từ 90 đến 130 lượt khám, bao gồm khám bệnh thông thường, tiêm chủng, tư vấn dinh dưỡng và theo dõi tăng trưởng. Chúng tôi cần thêm hai bác sĩ nhi khoa làm việc toàn thời gian để mở rộng khung giờ khám buổi tối.\n\nCông việc:\n- Khám, chẩn đoán và điều trị các bệnh nhi thường gặp (hô hấp, tiêu hóa, da liễu, dị ứng).\n- Theo dõi tăng trưởng, tư vấn dinh dưỡng, phát triển vận động và ngôn ngữ cho trẻ dưới 6 tuổi.\n- Chỉ định xét nghiệm, hình ảnh; chuyển tuyến kịp thời khi có dấu hiệu nặng.\n- Phối hợp với điều dưỡng và dược sĩ để hướng dẫn gia đình dùng thuốc an toàn.\n- Tham gia hội chẩn ca khó hằng tháng và chia sẻ chuyên môn nội bộ.",
+    "requirements": "- Tốt nghiệp đại học Y, có chứng chỉ hành nghề khám chữa bệnh chuyên khoa Nhi, ít nhất 5 năm kinh nghiệm.\n- Ưu tiên bác sĩ có bằng chuyên khoa I/II hoặc thạc sĩ Nhi khoa.\n- Giao tiếp tốt với trẻ nhỏ và cha mẹ, giải thích dễ hiểu.\n- Tinh thần học hỏi, cập nhật phác đồ và khuyến cáo mới.\n- Có thể làm ca chiều tối và một ngày cuối tuần mỗi tháng.",
+    "benefitList": [
+      "Thu nhập gồm lương cứng và phần trăm doanh thu khám, trung bình 45-70 triệu/tháng",
+      "Thưởng tháng 13",
+      "Bảo hiểm trách nhiệm nghề nghiệp do công ty đóng",
+      "Hỗ trợ học phí chuyên khoa và tham dự hội nghị y khoa",
+      "Phòng khám riêng, trang thiết bị hiện đại và điều dưỡng hỗ trợ riêng",
+      "Khám sức khỏe định kỳ miễn phí cho gia đình"
+    ],
+    "howToApply": "Hồ sơ gồm CV, bản sao chứng chỉ hành nghề và bằng cấp, nộp qua hệ thống. Ban giám đốc y khoa sẽ liên hệ trực tiếp để hẹn buổi gặp trao đổi.",
+    "category": "healthcare",
+    "level": "senior",
+    "employmentType": "full-time",
+    "workMode": "onsite",
+    "city": "Cần Thơ",
+    "address": "Số 234 đường 30 Tháng 4, phường Ninh Kiều",
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": "VND",
+      "negotiable": true
+    },
+    "requiredSkills": [
+      {
+        "name": "Khám nhi khoa"
+      },
+      {
+        "name": "Chẩn đoán"
+      },
+      {
+        "name": "Tư vấn dinh dưỡng trẻ em"
+      },
+      {
+        "name": "Hồ sơ bệnh án"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "Chuyên khoa I/II Nhi"
+      },
+      {
+        "name": "Siêu âm"
+      },
+      {
+        "name": "Tiếng Anh"
+      }
+    ],
+    "minYearsExperience": 5,
+    "maxYearsExperience": 12,
+    "minEducation": "master",
+    "vacancies": 2,
+    "status": "published",
+    "postedDaysAgo": 5,
+    "deadlineInDays": 34,
+    "viewsCount": 349,
+    "applicationsCount": 7
+  },
+  {
+    "employerEmail": "employer17@demo.com",
+    "title": "Kỹ thuật viên Xét nghiệm",
+    "description": "Phòng xét nghiệm của Phúc Lâm đạt tiêu chuẩn ISO 15189 và mở rộng thêm nhóm xét nghiệm miễn dịch, vi sinh. Chúng tôi cần kỹ thuật viên có kinh nghiệm để vận hành các máy xét nghiệm tự động và bảo đảm kết quả trả đúng hạn.\n\nCông việc:\n- Tiếp nhận và kiểm tra mẫu bệnh phẩm, từ chối và ghi nhận mẫu không đạt chất lượng.\n- Vận hành máy huyết học, sinh hóa, miễn dịch; thực hiện nội kiểm hằng ngày và hiệu chuẩn định kỳ.\n- Duyệt kết quả trên hệ thống LIS, báo ngay cho bác sĩ khi có kết quả nguy kịch.\n- Bảo quản hóa chất, theo dõi hạn sử dụng và đề xuất đặt hàng.\n- Tuân thủ quy trình an toàn sinh học và xử lý chất thải y tế.",
+    "requirements": "- Tốt nghiệp đại học/cao đẳng Kỹ thuật xét nghiệm y học; từ 2 năm kinh nghiệm tại phòng xét nghiệm.\n- Hiểu nguyên lý và biết vận hành các máy xét nghiệm tự động.\n- Có thể làm ca xoay và trực cuối tuần theo lịch.\n- Cẩn thận, trung thực khi ghi nhận kết quả.",
+    "benefitList": [
+      "Thưởng tháng 13",
+      "Phụ cấp độc hại và phụ cấp ca",
+      "Đào tạo ISO 15189 và hướng dẫn sử dụng máy mới",
+      "Bảo hiểm xã hội, bảo hiểm sức khỏe",
+      "Khám chữa bệnh miễn phí cho nhân viên"
+    ],
+    "howToApply": "Tin đang chờ quản trị viên duyệt, sau khi hiển thị bạn có thể nộp hồ sơ trực tiếp trên hệ thống.",
+    "category": "healthcare",
+    "level": "middle",
+    "employmentType": "full-time",
+    "workMode": "onsite",
+    "city": "Cần Thơ",
+    "address": "Số 234 đường 30 Tháng 4, phường Ninh Kiều",
+    "salary": {
+      "min": 12000000,
+      "max": 18000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "Xét nghiệm huyết học"
+      },
+      {
+        "name": "Xét nghiệm sinh hóa"
+      },
+      {
+        "name": "Kiểm soát chất lượng"
+      },
+      {
+        "name": "Vận hành máy xét nghiệm"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "Vi sinh"
+      },
+      {
+        "name": "ISO 15189"
+      },
+      {
+        "name": "Phần mềm LIS"
+      }
+    ],
+    "minYearsExperience": 2,
+    "maxYearsExperience": 5,
+    "minEducation": "bachelor",
+    "vacancies": 2,
+    "status": "pending",
+    "postedDaysAgo": 1,
+    "deadlineInDays": 28,
+    "viewsCount": 18,
+    "applicationsCount": 0
+  },
+  {
+    "employerEmail": "employer17@demo.com",
+    "title": "Dược sĩ Phụ trách Quầy thuốc",
+    "description": "Nhà thuốc nội bộ của Phúc Lâm phục vụ bệnh nhân sau khi khám và cả khách ngoài với khoảng 2.500 mặt hàng. Dược sĩ phụ trách chịu trách nhiệm chuyên môn của quầy thuốc theo tiêu chuẩn GPP.\n\nCông việc:\n- Kiểm tra đơn thuốc, phát hiện tương tác thuốc, sai liều hoặc chống chỉ định và liên hệ bác sĩ khi cần.\n- Tư vấn cách dùng thuốc, tác dụng phụ, thực phẩm cần tránh cho bệnh nhân.\n- Quản lý nhập, xuất, tồn kho; theo dõi hạn dùng và biệt dược gây nghiện, hướng thần theo quy định.\n- Chọn nhà cung cấp, đàm phán giá nhập và đề xuất danh mục thuốc cùng Hội đồng thuốc.\n- Hướng dẫn và giám sát 3 nhân viên bán thuốc.",
+    "requirements": "- Tốt nghiệp Đại học Dược, có chứng chỉ hành nghề dược còn hiệu lực.\n- Từ 2 năm làm việc tại nhà thuốc, bệnh viện hoặc phòng khám.\n- Thành thạo tra cứu tương tác thuốc và dược thư quốc gia.\n- Tận tâm, giao tiếp rõ ràng với bệnh nhân lớn tuổi.\n- Biết sử dụng phần mềm quản lý nhà thuốc.",
+    "benefitList": [
+      "Thưởng tháng 13 và thưởng doanh số nhà thuốc",
+      "Hỗ trợ học tập liên tục để duy trì chứng chỉ hành nghề",
+      "Bảo hiểm sức khỏe",
+      "Khám chữa bệnh miễn phí tại Phúc Lâm"
+    ],
+    "howToApply": "Nộp hồ sơ qua hệ thống, kèm bản sao chứng chỉ hành nghề dược. Phỏng vấn trực tiếp với Giám đốc y khoa và Trưởng khoa Dược.",
+    "category": "healthcare",
+    "level": "middle",
+    "employmentType": "full-time",
+    "workMode": "onsite",
+    "city": "Cần Thơ",
+    "address": "Số 234 đường 30 Tháng 4, phường Ninh Kiều",
+    "salary": {
+      "min": 15000000,
+      "max": 22000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "Dược lâm sàng"
+      },
+      {
+        "name": "Quản lý thuốc"
+      },
+      {
+        "name": "Tư vấn sử dụng thuốc"
+      },
+      {
+        "name": "GPP"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "Phần mềm quản lý nhà thuốc"
+      },
+      {
+        "name": "Tiếng Anh"
+      }
+    ],
+    "minYearsExperience": 2,
+    "maxYearsExperience": 5,
+    "minEducation": "bachelor",
+    "vacancies": 1,
+    "status": "published",
+    "postedDaysAgo": 14,
+    "deadlineInDays": 13,
+    "viewsCount": 142,
+    "applicationsCount": 12
+  },
+  {
+    "employerEmail": "employer18@demo.com",
+    "title": "Kỹ sư Cơ khí - Gia công CNC",
+    "description": "Hưng Lộc Precision sản xuất chi tiết cơ khí chính xác cho ngành ô tô, xe máy và thiết bị điện tử, với 120 máy CNC, tiện và phay đặt tại nhà máy rộng 3,2 ha. Sai số yêu cầu phổ biến từ ±0,01 mm, và khách hàng kiểm tra rất nghiêm ngặt trước khi nhận hàng.\n\nKỹ sư gia công CNC sẽ:\n- Nghiên cứu bản vẽ và lập quy trình công nghệ gia công cho mã hàng mới; chọn dao cụ, đồ gá, thông số cắt.\n- Viết và tối ưu chương trình gia công (Mastercam), thử chạy mẫu đầu tiên và đo kiểm.\n- Làm việc với tổ sản xuất để xử lý lỗi, giảm phế phẩm và rút ngắn thời gian chu kỳ.\n- Lập báo cáo kiểm tra mẫu đầu tiên (FAI) và tham gia đánh giá khách hàng.\n- Đề xuất cải tiến theo Lean để giảm thời gian chuyển đổi mã hàng.",
+    "requirements": "- Tốt nghiệp đại học Cơ khí chế tạo máy hoặc tương đương; từ 2 năm gia công CNC trong nhà máy.\n- Đọc hiểu bản vẽ kỹ thuật, dung sai hình học (GD&T) và vật liệu thường dùng (thép, nhôm, inox).\n- Thành thạo SolidWorks/Mastercam; biết sử dụng máy đo CMM là lợi thế.\n- Tinh thần cải tiến, kiên trì tìm nguyên nhân gốc của lỗi.\n- Chịu được môi trường nhà máy, sẵn sàng làm ca khi cần.",
+    "benefitList": [
+      "Thưởng tháng 13 và thưởng cải tiến (Kaizen)",
+      "Xe đưa đón từ Thủ Dầu Một, Thuận An, Dĩ An và Bến Cát",
+      "Ba bữa ăn ca miễn phí",
+      "Bảo hiểm xã hội, bảo hiểm sức khỏe và khám sức khỏe định kỳ",
+      "Đào tạo kỹ thuật tại nhà máy đối tác Nhật Bản"
+    ],
+    "howToApply": "Nộp hồ sơ qua hệ thống hoặc trực tiếp tại nhà máy vào giờ hành chính. Phỏng vấn gồm buổi đọc bản vẽ mẫu và lập quy trình gia công trong 40 phút cùng trưởng bộ phận kỹ thuật.",
+    "category": "engineering",
+    "level": "middle",
+    "employmentType": "full-time",
+    "workMode": "onsite",
+    "city": "TP. Hồ Chí Minh",
+    "address": "Lô C2-5, Khu công nghiệp Mỹ Phước 3, phường Bến Cát",
+    "salary": {
+      "min": 18000000,
+      "max": 28000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "Gia công CNC"
+      },
+      {
+        "name": "Đọc bản vẽ cơ khí"
+      },
+      {
+        "name": "GD&T"
+      },
+      {
+        "name": "SolidWorks"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "Mastercam"
+      },
+      {
+        "name": "CMM"
+      },
+      {
+        "name": "Lean Manufacturing"
+      }
+    ],
+    "minYearsExperience": 2,
+    "maxYearsExperience": 5,
+    "minEducation": "bachelor",
+    "vacancies": 3,
+    "status": "published",
+    "postedDaysAgo": 4,
+    "deadlineInDays": 20,
+    "viewsCount": 241,
+    "applicationsCount": 22
+  },
+  {
+    "employerEmail": "employer18@demo.com",
+    "title": "Kỹ sư Chất lượng Nhà cung cấp (SQE)",
+    "description": "Hưng Lộc cung cấp chi tiết cho nhiều hãng ô tô và xe máy, nên hệ thống chất lượng phải đạt IATF 16949. Kỹ sư SQE đảm bảo vật liệu và dịch vụ từ nhà cung cấp (phôi, xử lý bề mặt, nhiệt luyện) đáp ứng yêu cầu trước khi vào dây chuyền.\n\nCông việc:\n- Đánh giá và phê duyệt nhà cung cấp mới; đánh giá định kỳ nhà cung cấp hiện tại (audit tại chỗ).\n- Xử lý khiếu nại chất lượng bằng báo cáo 8D, thúc đẩy nhà cung cấp thực hiện hành động khắc phục.\n- Xét duyệt hồ sơ PPAP, FMEA, kế hoạch kiểm soát cho mã hàng mới.\n- Theo dõi chỉ số PPM, tỷ lệ giao hàng đúng hạn và xếp hạng nhà cung cấp mỗi quý.\n- Đào tạo nhà cung cấp về công cụ chất lượng cốt lõi (core tools).",
+    "requirements": "- Từ 5 năm trong quản lý chất lượng ở nhà máy cơ khí hoặc linh kiện ô tô.\n- Hiểu sâu IATF 16949 và các công cụ chất lượng: 8D, FMEA, SPC, MSA, PPAP.\n- Đã tham gia hoặc dẫn dắt ít nhất 10 cuộc đánh giá nhà cung cấp.\n- Giao tiếp quyết đoán nhưng hợp tác với nhà cung cấp; tiếng Anh đọc hiểu tốt, biết tiếng Nhật là lợi thế.\n- Chứng chỉ đánh giá viên nội bộ IATF hoặc ISO 9001.",
+    "benefitList": [
+      "Thưởng tháng 13 và thưởng chất lượng quý",
+      "Xe đưa đón và bữa ăn ca",
+      "Chi trả học phí khóa đánh giá viên IATF",
+      "Cơ hội đi đào tạo tại Nhật Bản",
+      "Bảo hiểm sức khỏe"
+    ],
+    "howToApply": "Nộp CV qua hệ thống. Chúng tôi sẽ liên hệ trong 3 ngày làm việc để hẹn phỏng vấn với Trưởng phòng Chất lượng.",
+    "category": "engineering",
+    "level": "senior",
+    "employmentType": "full-time",
+    "workMode": "onsite",
+    "city": "TP. Hồ Chí Minh",
+    "address": "Lô C2-5, Khu công nghiệp Mỹ Phước 3, phường Bến Cát",
+    "salary": {
+      "min": 30000000,
+      "max": 45000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "IATF 16949"
+      },
+      {
+        "name": "Quản lý chất lượng nhà cung cấp"
+      },
+      {
+        "name": "8D"
+      },
+      {
+        "name": "FMEA"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "PPAP"
+      },
+      {
+        "name": "Tiếng Nhật"
+      },
+      {
+        "name": "Six Sigma"
+      }
+    ],
+    "minYearsExperience": 5,
+    "maxYearsExperience": 9,
+    "minEducation": "bachelor",
+    "vacancies": 1,
+    "status": "published",
+    "postedDaysAgo": 19,
+    "deadlineInDays": -3,
+    "viewsCount": 118,
+    "applicationsCount": 6
+  },
+  {
+    "employerEmail": "employer18@demo.com",
+    "title": "Giám sát Sản xuất Ca (Xưởng Tiện - Phay)",
+    "description": "Xưởng Tiện - Phay của Hưng Lộc chạy ba ca với khoảng 140 công nhân vận hành và kỹ thuật viên. Giám sát ca chịu trách nhiệm toàn bộ sản lượng, chất lượng và an toàn của ca mình quản lý.\n\nTrách nhiệm:\n- Phân công công việc cho tổ trưởng và công nhân dựa trên kế hoạch sản xuất ngày và tình trạng máy.\n- Kiểm soát chất lượng tại chỗ: duyệt mẫu đầu, kiểm tra ngẫu nhiên, xử lý ngay lỗi lặp lại.\n- Theo dõi chỉ số OEE, sản lượng, phế phẩm và thời gian dừng máy; họp giao ban đầu và cuối ca.\n- Đảm bảo 5S, an toàn lao động và quy định PCCC trong khu vực.\n- Đào tạo thợ mới và đánh giá tay nghề định kỳ.\n- Đề xuất cải tiến giảm thời gian chuyển đổi mã hàng và tiêu hao dao cụ.",
+    "requirements": "- Từ 4 năm trong sản xuất cơ khí, ít nhất 2 năm làm tổ trưởng hoặc giám sát.\n- Đọc hiểu bản vẽ cơ khí, am hiểu máy CNC, tiện, phay.\n- Quen sử dụng các công cụ Lean (5S, Kaizen, SMED); biết đo OEE là lợi thế.\n- Khả năng điều hành đội ngũ, giữ kỷ luật nhưng công bằng.\n- Sẵn sàng làm ca xoay, kể cả ca đêm theo luân phiên.",
+    "benefitList": [
+      "Phụ cấp trách nhiệm và phụ cấp ca đêm",
+      "Thưởng tháng 13, thưởng năng suất theo ca",
+      "Xe đưa đón nhiều tuyến, ăn ca miễn phí",
+      "Bảo hiểm xã hội, bảo hiểm sức khỏe cho cả gia đình",
+      "Lộ trình lên Trưởng xưởng với chương trình đào tạo quản lý nội bộ"
+    ],
+    "howToApply": "Nộp hồ sơ qua hệ thống hoặc trực tiếp tại cổng nhà máy (gặp bảo vệ để chuyển phòng Nhân sự). Phỏng vấn gồm tham quan xưởng và thảo luận tình huống dừng máy hàng loạt.",
+    "category": "engineering",
+    "level": "lead",
+    "employmentType": "full-time",
+    "workMode": "onsite",
+    "city": "TP. Hồ Chí Minh",
+    "address": "Lô C2-5, Khu công nghiệp Mỹ Phước 3, phường Bến Cát",
+    "salary": {
+      "min": 22000000,
+      "max": 34000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "Quản lý sản xuất"
+      },
+      {
+        "name": "Lean Manufacturing"
+      },
+      {
+        "name": "5S"
+      },
+      {
+        "name": "Lập kế hoạch sản xuất"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "OEE"
+      },
+      {
+        "name": "SAP"
+      },
+      {
+        "name": "Kaizen"
+      }
+    ],
+    "minYearsExperience": 4,
+    "maxYearsExperience": 8,
+    "minEducation": "college",
+    "vacancies": 2,
+    "status": "published",
+    "postedDaysAgo": 8,
+    "deadlineInDays": 29,
+    "viewsCount": 164,
+    "applicationsCount": 15
+  },
+  {
+    "employerEmail": "employer18@demo.com",
+    "title": "Thực tập sinh Kỹ thuật Cơ khí",
+    "description": "Chương trình thực tập 3-4 tháng dành cho sinh viên năm cuối ngành Cơ khí, Cơ điện tử, Công nghệ chế tạo máy. Bạn sẽ được xếp vào một bộ phận của nhà máy (kỹ thuật gia công, chất lượng hoặc bảo trì) và làm việc cùng kỹ sư hướng dẫn.\n\nHoạt động:\n- Tuần 1-2: học an toàn lao động, tham quan toàn bộ dây chuyền, tìm hiểu quy trình sản xuất.\n- Tháng 1-2: hỗ trợ lập quy trình gia công, đo kiểm sản phẩm, cập nhật bản vẽ.\n- Tháng 3: thực hiện một đề tài nhỏ về cải tiến (giảm phế phẩm, tối ưu đồ gá...) và báo cáo trước ban giám đốc nhà máy.\n\nCó thể kết hợp làm đồ án tốt nghiệp với số liệu thật của nhà máy.",
+    "requirements": "- Sinh viên năm cuối ngành Cơ khí, Cơ điện tử, Chế tạo máy hoặc tương đương.\n- Đọc được bản vẽ kỹ thuật cơ bản, biết AutoCAD; biết SolidWorks là lợi thế.\n- Làm việc toàn thời gian ít nhất 3 tháng tại nhà máy.\n- Tính kỷ luật, tuân thủ nội quy an toàn.",
+    "benefitList": [
+      "Trợ cấp 3,5-5 triệu/tháng",
+      "Xe đưa đón và ăn ca miễn phí",
+      "Hướng dẫn thực hiện đồ án tốt nghiệp tại nhà máy",
+      "Ưu tiên tuyển dụng chính thức sau thực tập",
+      "Chứng nhận thực tập có dấu công ty"
+    ],
+    "howToApply": "Nộp hồ sơ qua hệ thống, ghi rõ trường, ngành và thời gian bạn có thể thực tập. Phỏng vấn ngắn tại nhà máy hoặc qua điện thoại nếu ở xa.",
+    "category": "engineering",
+    "level": "intern",
+    "employmentType": "internship",
+    "workMode": "onsite",
+    "city": "TP. Hồ Chí Minh",
+    "address": "Lô C2-5, Khu công nghiệp Mỹ Phước 3, phường Bến Cát",
+    "salary": {
+      "min": 3500000,
+      "max": 5000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "Đọc bản vẽ cơ khí"
+      },
+      {
+        "name": "AutoCAD"
+      },
+      {
+        "name": "Vật liệu cơ khí"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "SolidWorks"
+      },
+      {
+        "name": "Kiến thức gia công"
+      }
+    ],
+    "minYearsExperience": 0,
+    "maxYearsExperience": 0,
+    "minEducation": "college",
+    "vacancies": 5,
+    "status": "published",
+    "postedDaysAgo": 6,
+    "deadlineInDays": 23,
+    "viewsCount": 128,
+    "applicationsCount": 18
+  },
+  {
+    "employerEmail": "employer19@demo.com",
+    "title": "Cửa hàng trưởng Cà phê (Quận 1, Quận 3)",
+    "description": "Quán Gió Coffee có 42 cửa hàng, tập trung tại các quận trung tâm của Thành phố Hồ Chí Minh, với phong cách không gian mở và menu cà phê rang xay riêng. Cửa hàng trưởng chịu trách nhiệm vận hành một cửa hàng với 12-18 nhân viên, doanh thu 650 triệu - 1,2 tỷ đồng mỗi tháng.\n\nTrách nhiệm:\n- Quản lý lịch làm việc, đào tạo và đánh giá nhân viên pha chế, thu ngân, phục vụ.\n- Bảo đảm chất lượng đồ uống, vệ sinh an toàn thực phẩm và trải nghiệm khách hàng đồng nhất theo tiêu chuẩn thương hiệu.\n- Kiểm soát chi phí nguyên liệu, hao hụt, nhân công; chốt doanh thu và báo cáo hằng ngày.\n- Xử lý các phản hồi của khách hàng, theo dõi điểm đánh giá trên Google Maps và ứng dụng giao hàng.\n- Triển khai khuyến mãi, sản phẩm mới theo chiến dịch của trụ sở và đề xuất ý tưởng phù hợp khu vực.\n- Phối hợp với giám sát khu vực kiểm tra định kỳ.",
+    "requirements": "- Từ 2 năm quản lý cửa hàng hoặc ca trong F&B, bán lẻ hoặc dịch vụ.\n- Biết pha chế cơ bản hoặc sẵn sàng được đào tạo để nắm vững tiêu chuẩn đồ uống.\n- Kỹ năng lãnh đạo, khả năng giải quyết xung đột và tạo động lực cho đội ngũ trẻ.\n- Hiểu báo cáo kết quả kinh doanh cơ bản của một cửa hàng.\n- Có thể làm ca xoay, kể cả cuối tuần và ngày lễ.",
+    "benefitList": [
+      "Lương cứng cộng thưởng doanh thu và lợi nhuận cửa hàng, thu nhập 18-28 triệu/tháng",
+      "Thưởng tháng 13",
+      "Được ăn uống miễn phí trong ca làm việc",
+      "Đào tạo quản lý nội bộ, lộ trình lên Giám sát khu vực",
+      "Bảo hiểm xã hội đầy đủ và khám sức khỏe hằng năm"
+    ],
+    "howToApply": "Ứng tuyển trên hệ thống. Phỏng vấn tại văn phòng trụ sở Quận 3 gồm vòng với HR và vòng với Giám sát khu vực. Ứng viên sẽ làm thử 1 ca tại cửa hàng (có trả lương) trước khi ký hợp đồng.",
+    "category": "hospitality",
+    "level": "manager",
+    "employmentType": "full-time",
+    "workMode": "onsite",
+    "city": "TP. Hồ Chí Minh",
+    "address": "Cửa hàng Quán Gió - 18 Lê Thánh Tôn, Quận 1",
+    "salary": {
+      "min": 18000000,
+      "max": 28000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "Quản lý cửa hàng"
+      },
+      {
+        "name": "Quản lý nhân sự"
+      },
+      {
+        "name": "Dịch vụ khách hàng"
+      },
+      {
+        "name": "Kiểm soát chi phí"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "F&B"
+      },
+      {
+        "name": "Barista"
+      },
+      {
+        "name": "Phần mềm POS"
+      }
+    ],
+    "minYearsExperience": 2,
+    "maxYearsExperience": 5,
+    "minEducation": "college",
+    "vacancies": 3,
+    "status": "published",
+    "postedDaysAgo": 1,
+    "deadlineInDays": 21,
+    "viewsCount": 355,
+    "applicationsCount": 41
+  },
+  {
+    "employerEmail": "employer19@demo.com",
+    "title": "Nhân viên Pha chế (Barista)",
+    "description": "Các cửa hàng Quán Gió tuyển bạn pha chế làm theo ca 4-6 giờ, phù hợp sinh viên hoặc người cần thu nhập thêm. Bạn sẽ được đào tạo pha chế từ đầu trong 2 tuần với huấn luyện viên của thương hiệu, không cần kinh nghiệm trước đó.\n\nCông việc:\n- Pha chế cà phê espresso, cà phê phin, trà và đồ uống đá xay theo công thức chuẩn.\n- Chuẩn bị nguyên liệu đầu ca, vệ sinh máy móc và khu vực quầy theo quy trình.\n- Chào đón khách, gợi ý đồ uống và hỗ trợ thu ngân khi quán đông.\n- Kiểm kê nguyên liệu cuối ca và ghi nhận hao hụt.\n- Tham gia buổi huấn luyện latte art và thử vị cà phê hằng tháng.\n\nCa sáng 6h30-12h, ca chiều 12h-17h, ca tối 17h-22h; bạn đăng ký lịch làm một tuần trước.",
+    "requirements": "- Từ 18 tuổi, nhanh nhẹn, trung thực, yêu thích cà phê và dịch vụ khách hàng.\n- Có thể làm tối thiểu 4 ca/tuần, bao gồm 1 ngày cuối tuần.\n- Giao tiếp lịch sự và biết làm việc nhóm.\n- Có giấy khám sức khỏe hoặc chấp nhận khám theo quy định trước khi nhận việc.\n- Không cần kinh nghiệm, ưu tiên ứng viên đã làm ở quán cà phê.",
+    "benefitList": [
+      "Lương theo giờ từ 28.000đ cộng phụ cấp ca tối, tip chia chung",
+      "Ăn uống miễn phí trong ca",
+      "Được đào tạo pha chế chuyên nghiệp, có chứng nhận cuối khóa",
+      "Giảm 50% thức uống khi không làm việc",
+      "Cơ hội lên Trưởng ca và Cửa hàng phó"
+    ],
+    "howToApply": "Bấm Ứng tuyển, quản lý cửa hàng gần nhất sẽ gọi bạn trong 24 giờ để hẹn phỏng vấn nhanh và làm thử 1 ca có lương.",
+    "category": "hospitality",
+    "level": "fresher",
+    "employmentType": "part-time",
+    "workMode": "onsite",
+    "city": "TP. Hồ Chí Minh",
+    "address": "Hệ thống cửa hàng Quán Gió tại Quận 1, 3, 7, Bình Thạnh",
+    "salary": {
+      "min": 6000000,
+      "max": 9500000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "Pha chế"
+      },
+      {
+        "name": "Phục vụ khách hàng"
+      },
+      {
+        "name": "Làm việc nhóm"
+      },
+      {
+        "name": "Vệ sinh an toàn thực phẩm"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "Latte art"
+      },
+      {
+        "name": "Kinh nghiệm quán cà phê"
+      },
+      {
+        "name": "Tiếng Anh giao tiếp"
+      }
+    ],
+    "minYearsExperience": 0,
+    "maxYearsExperience": 1,
+    "minEducation": "high_school",
+    "vacancies": 15,
+    "status": "published",
+    "postedDaysAgo": 0,
+    "deadlineInDays": 9,
+    "viewsCount": 420,
+    "applicationsCount": 96
+  },
+  {
+    "employerEmail": "employer19@demo.com",
+    "title": "Chuyên viên Phát triển Menu & Sản phẩm",
+    "description": "Mỗi quý Quán Gió ra mắt 4-6 đồ uống mới và 2-3 món bánh, với mục tiêu giữ chân khách quen mà vẫn mang đến điều bất ngờ. Chuyên viên phát triển menu phụ trách toàn bộ vòng đời sản phẩm mới, từ ý tưởng đến khi triển khai đồng loạt trên 42 cửa hàng.\n\nBạn sẽ:\n- Theo dõi xu hướng đồ uống trong nước và quốc tế, khảo sát khách hàng và dữ liệu bán hàng để tìm cơ hội.\n- Phát triển công thức mới, thử nghiệm và hoàn thiện cùng đội barista tại bếp thử nghiệm.\n- Tính giá thành, tỷ lệ lợi nhuận gộp, độ phức tạp thao tác và thời gian pha chế của từng món.\n- Làm việc với nhà cung cấp nguyên liệu để đảm bảo chất lượng và nguồn cung ổn định.\n- Biên soạn tài liệu công thức, đào tạo cửa hàng và theo dõi kết quả bán sau ra mắt.",
+    "requirements": "- Từ 4 năm trong lĩnh vực F&B, tối thiểu 2 năm tại vị trí phát triển sản phẩm hoặc R&D chuỗi đồ uống.\n- Am hiểu cà phê và nguyên liệu chế biến đồ uống; vị giác tốt, có phương pháp thử nghiệm.\n- Hiểu bài toán giá thành và vận hành chuỗi.\n- Tư duy sáng tạo nhưng thực tế, cân nhắc được thao tác của nhân viên cửa hàng.\n- Có chứng chỉ Q Grader hoặc tương đương là điểm cộng.",
+    "benefitList": [
+      "Thưởng tháng 13 và thưởng theo hiệu quả sản phẩm mới",
+      "Ngân sách nghiên cứu thị trường và đi tham quan nước ngoài 1 lần/năm",
+      "Bếp thử nghiệm riêng, trang thiết bị đầy đủ",
+      "Bảo hiểm sức khỏe cao cấp",
+      "Đồ uống miễn phí không giới hạn tại văn phòng"
+    ],
+    "howToApply": "Nộp CV qua hệ thống, đính kèm ví dụ sản phẩm bạn từng phát triển (hình ảnh, doanh số nếu có). Vòng cuối là buổi thử vị và thuyết trình một ý tưởng đồ uống mới trước ban điều hành.",
+    "category": "hospitality",
+    "level": "senior",
+    "employmentType": "full-time",
+    "workMode": "onsite",
+    "city": "Lâm Đồng",
+    "address": "Xưởng rang Quán Gió, số 15 Trần Hưng Đạo, phường Xuân Hương - Đà Lạt",
+    "salary": {
+      "min": 28000000,
+      "max": 42000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "Phát triển sản phẩm F&B"
+      },
+      {
+        "name": "Công thức đồ uống"
+      },
+      {
+        "name": "Quản lý chi phí nguyên liệu"
+      },
+      {
+        "name": "Xu hướng thị trường"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "Công nghệ thực phẩm"
+      },
+      {
+        "name": "Rang xay cà phê"
+      },
+      {
+        "name": "Q Grader"
+      }
+    ],
+    "minYearsExperience": 4,
+    "maxYearsExperience": 8,
+    "minEducation": "bachelor",
+    "vacancies": 1,
+    "status": "published",
+    "postedDaysAgo": 15,
+    "deadlineInDays": 38,
+    "viewsCount": 192,
+    "applicationsCount": 8
+  },
+  {
+    "employerEmail": "employer20@demo.com",
+    "title": "Quản lý Siêu thị Mini (Cửa hàng Hải Châu)",
+    "description": "Vườn Phố Retail là chuỗi siêu thị mini và cửa hàng đồ gia dụng với 11 điểm bán tại Đà Nẵng, Quảng Nam và Huế, nổi tiếng với rau củ và thực phẩm sạch từ các hợp tác xã miền Trung. Cửa hàng Hải Châu có diện tích 420 m², doanh số khoảng 1,8 tỷ đồng mỗi tháng, với 22 nhân viên.\n\nQuản lý cửa hàng sẽ:\n- Điều hành hoạt động hằng ngày: mở cửa, nhập hàng, trưng bày, thu ngân và đóng cửa.\n- Kiểm soát tồn kho và hao hụt hàng tươi sống; đặt hàng theo nhu cầu để hàng luôn tươi nhưng không bị tồn.\n- Quản lý nhân viên, phân ca và tổ chức đào tạo về kiến thức sản phẩm, vệ sinh an toàn thực phẩm.\n- Thương lượng với nhà cung cấp địa phương và hợp tác xã về giá, chất lượng, thời gian giao.\n- Xây dựng quan hệ với cư dân khu vực, tổ chức chương trình thành viên và ngày hội nông sản.\n- Báo cáo doanh thu, lợi nhuận, hao hụt hằng tuần cho Giám đốc Vận hành.",
+    "requirements": "- Từ 3 năm quản lý cửa hàng bán lẻ (siêu thị mini, cửa hàng tiện lợi, thực phẩm).\n- Hiểu quy trình quản lý hàng tươi sống và quy định vệ sinh an toàn thực phẩm.\n- Kỹ năng quản lý đội ngũ, giải quyết khiếu nại khách hàng tốt.\n- Dùng được phần mềm quản lý bán hàng, đọc và phân tích báo cáo tồn kho.\n- Ưu tiên người sống tại Đà Nẵng, có thể làm ca xoay và cuối tuần.",
+    "benefitList": [
+      "Lương cứng cộng thưởng doanh thu và giảm hao hụt",
+      "Thưởng tháng 13",
+      "Chiết khấu 15% khi mua hàng tại hệ thống Vườn Phố",
+      "Bảo hiểm xã hội, bảo hiểm sức khỏe",
+      "Đào tạo và lộ trình lên Quản lý khu vực"
+    ],
+    "howToApply": "Nộp hồ sơ qua hệ thống hoặc trực tiếp tại cửa hàng (gặp chị Quản lý ca). Phỏng vấn tại cửa hàng, bao gồm đi một vòng quầy kệ và góp ý về trưng bày.",
+    "category": "hospitality",
+    "level": "manager",
+    "employmentType": "full-time",
+    "workMode": "onsite",
+    "city": "Đà Nẵng",
+    "address": "Số 102 Hùng Vương, quận Hải Châu",
+    "salary": {
+      "min": 16000000,
+      "max": 24000000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "Quản lý bán lẻ"
+      },
+      {
+        "name": "Quản lý tồn kho"
+      },
+      {
+        "name": "Quản lý nhân viên"
+      },
+      {
+        "name": "Trưng bày hàng hóa"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "Ngành hàng tươi sống"
+      },
+      {
+        "name": "Phần mềm POS"
+      },
+      {
+        "name": "Kiểm soát hao hụt"
+      }
+    ],
+    "minYearsExperience": 3,
+    "maxYearsExperience": 6,
+    "minEducation": "college",
+    "vacancies": 1,
+    "status": "published",
+    "postedDaysAgo": 7,
+    "deadlineInDays": 27,
+    "viewsCount": 205,
+    "applicationsCount": 13
+  },
+  {
+    "employerEmail": "employer20@demo.com",
+    "title": "Nhân viên Bán hàng & Thu ngân (Ca xoay)",
+    "description": "Vườn Phố tuyển nhân viên bán hàng và thu ngân cho các cửa hàng tại Đà Nẵng, làm theo ca xoay 8 giờ (một ngày nghỉ trong tuần).\n\nCông việc:\n- Đón khách, hướng dẫn tìm sản phẩm, giới thiệu nông sản và chương trình khuyến mãi.\n- Thu tiền bằng máy POS, nhận thanh toán tiền mặt, thẻ và ví điện tử.\n- Sắp xếp, bổ sung và kiểm tra hạn dùng hàng hóa trên kệ.\n- Giữ vệ sinh khu vực bán hàng, hỗ trợ kiểm kê cuối tháng.\n- Hướng dẫn khách đổi trả hàng, ghi nhận phản hồi về chất lượng nông sản để báo lại quản lý.\n\nCửa hàng mở từ 6h30 đến 21h30. Ca sáng (6h30-14h30) bắt đầu bằng việc nhận rau củ tươi từ hợp tác xã, ca chiều (13h30-21h30) phụ trách giờ cao điểm sau giờ tan tầm. Mỗi cửa hàng có 8-12 nhân viên và một quản lý ca luôn có mặt để hỗ trợ bạn trong tuần đầu.",
+    "requirements": "- Tốt nghiệp THPT trở lên, nhanh nhẹn, trung thực và thân thiện.\n- Có thể làm ca xoay, kể cả cuối tuần.\n- Không yêu cầu kinh nghiệm, công ty đào tạo trong 1 tuần.\n- Biết tính nhẩm nhanh và sử dụng điện thoại thông minh; ưu tiên ứng viên sống gần khu vực Hải Châu, Thanh Khê, Sơn Trà.\n- Trung thực khi giao dịch tiền và hàng hóa.",
+    "benefitList": [
+      "Lương cơ bản cộng phụ cấp chuyên cần và thưởng doanh số cửa hàng",
+      "Chiết khấu khi mua hàng",
+      "Bảo hiểm xã hội sau thử việc",
+      "Thưởng lễ, Tết"
+    ],
+    "howToApply": "Tin đang ở dạng nháp, chưa mở nhận hồ sơ.",
+    "category": "hospitality",
+    "level": "fresher",
+    "employmentType": "full-time",
+    "workMode": "onsite",
+    "city": "Đà Nẵng",
+    "address": "Hệ thống cửa hàng Vườn Phố tại Hải Châu, Thanh Khê, Sơn Trà",
+    "salary": {
+      "min": 6500000,
+      "max": 9500000,
+      "currency": "VND",
+      "negotiable": false
+    },
+    "requiredSkills": [
+      {
+        "name": "Thu ngân"
+      },
+      {
+        "name": "Bán hàng"
+      },
+      {
+        "name": "Giao tiếp"
+      },
+      {
+        "name": "Sắp xếp hàng hóa"
+      }
+    ],
+    "niceToHaveSkills": [
+      {
+        "name": "Kinh nghiệm bán lẻ"
+      },
+      {
+        "name": "Sử dụng máy POS"
+      }
+    ],
+    "minYearsExperience": 0,
+    "maxYearsExperience": 1,
+    "minEducation": "high_school",
+    "vacancies": 10,
+    "status": "draft",
+    "postedDaysAgo": 2,
+    "deadlineInDays": 20,
+    "viewsCount": 0,
+    "applicationsCount": 0
+  }
+]

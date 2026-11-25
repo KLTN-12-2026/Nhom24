@@ -1,0 +1,681 @@
+[
+  {
+    "email": "employer3@demo.com",
+    "password": "Employer@123",
+    "fullName": "Phạm Đức Thịnh",
+    "phone": "0902000003",
+    "role": "employer",
+    "company": {
+      "name": "Sao Băng Software",
+      "description": "Sao Băng Software xây dựng nền tảng quản lý chuỗi cửa hàng (bán hàng, kho, khuyến mãi) đang phục vụ hơn 1.800 điểm bán tại Việt Nam và Nhật Bản. Đội ngũ 320 kỹ sư làm việc theo mô hình sản phẩm, mỗi nhóm tự chịu trách nhiệm từ thiết kế đến vận hành. Công ty đầu tư mạnh cho đào tạo nội bộ và văn hóa review code công khai.",
+      "industry": "Phần mềm",
+      "size": "201-500",
+      "foundedYear": 2014,
+      "website": "https://saobang-software.example.com",
+      "address": "Tầng 9, tòa nhà Vạn Phúc, 25 Nguyễn Đình Chiểu, Quận 3",
+      "city": "TP. Hồ Chí Minh",
+      "contactEmail": "tuyendung@saobang-software.example.com",
+      "tags": [
+        "Java",
+        "Spring Boot",
+        "React",
+        "AWS",
+        "Kubernetes",
+        "Sản phẩm SaaS"
+      ],
+      "benefits": [
+        "Thưởng tháng 13 và thưởng hiệu suất 2 lần/năm",
+        "Làm việc hybrid",
+        "Bảo hiểm sức khỏe cho nhân viên và người thân",
+        "Ngân sách học tập 15-20 triệu/năm",
+        "Du lịch công ty hằng năm"
+      ],
+      "verification": {
+        "status": "verified",
+        "taxCode": "0301100000"
+      }
+    },
+    "emailVerified": true
+  },
+  {
+    "email": "employer4@demo.com",
+    "password": "Employer@123",
+    "fullName": "Lê Hoài Phương",
+    "phone": "0902000004",
+    "role": "employer",
+    "company": {
+      "name": "Gió Biển Tech",
+      "description": "Gió Biển Tech là công ty phần mềm tại Đà Nẵng, chuyên ứng dụng đặt tour, đặt phòng và hệ thống quản lý cho khách sạn, resort, công ty lữ hành miền Trung. Ngoài sản phẩm riêng với hơn 120.000 lượt cài đặt, công ty nhận làm phần mềm theo yêu cầu cho các chuỗi du lịch.",
+      "industry": "Phần mềm",
+      "size": "51-200",
+      "foundedYear": 2018,
+      "website": "https://giobien-tech.example.com",
+      "address": "58 Nguyễn Văn Linh, quận Hải Châu",
+      "city": "Đà Nẵng",
+      "contactEmail": "hr@giobien-tech.example.com",
+      "tags": [
+        "Flutter",
+        ".NET Core",
+        "Vue.js",
+        "Azure",
+        "Du lịch"
+      ],
+      "benefits": [
+        "Thưởng tháng 13",
+        "Du lịch công ty 2 lần/năm",
+        "Hybrid 2 ngày ở nhà mỗi tuần",
+        "Hỗ trợ tiền nhà tháng đầu cho nhân sự từ tỉnh khác",
+        "Cà phê, trái cây miễn phí"
+      ],
+      "verification": {
+        "status": "verified",
+        "taxCode": "0301107919"
+      }
+    },
+    "emailVerified": true
+  },
+  {
+    "email": "employer5@demo.com",
+    "password": "Employer@123",
+    "fullName": "Đỗ Quang Huy",
+    "phone": "0902000005",
+    "role": "employer",
+    "company": {
+      "name": "Bạch Dương Fintech",
+      "description": "Bạch Dương Fintech vận hành ví điện tử và dịch vụ mua trước trả sau với hơn 2 triệu người dùng hoạt động mỗi tháng. Công ty có đội ngũ kỹ sư, bảo mật và dữ liệu hơn 200 người, hợp tác với nhiều ngân hàng và tổ chức tài chính. Văn hóa trọng độ tin cậy: mọi thay đổi trên hệ thống thanh toán đều trải qua review và kiểm thử nhiều lớp.",
+      "industry": "Phần mềm",
+      "size": "201-500",
+      "foundedYear": 2016,
+      "website": "https://bachduong-fintech.example.com",
+      "address": "Tầng 12, tòa nhà Thăng Long Center, 98 Hoàng Quốc Việt, Cầu Giấy",
+      "city": "Hà Nội",
+      "contactEmail": "careers@bachduong-fintech.example.com",
+      "tags": [
+        "Golang",
+        "Kafka",
+        "PostgreSQL",
+        "Kubernetes",
+        "Fintech",
+        "Bảo mật"
+      ],
+      "benefits": [
+        "Thưởng tháng 13 và KPI tối đa 4 tháng lương",
+        "ESOP cho vị trí senior trở lên",
+        "Bảo hiểm Bảo Việt cho nhân viên và người thân",
+        "Ngân sách 25-30 triệu/năm cho đào tạo",
+        "Phòng gym tại văn phòng"
+      ],
+      "verification": {
+        "status": "verified",
+        "taxCode": "0301115838"
+      }
+    },
+    "emailVerified": true
+  },
+  {
+    "email": "employer6@demo.com",
+    "password": "Employer@123",
+    "fullName": "Vũ Thanh Mai",
+    "phone": "0902000006",
+    "role": "employer",
+    "company": {
+      "name": "Pha Lê Data",
+      "description": "Pha Lê Data xây dựng kho dữ liệu, hệ thống báo cáo và giải pháp phân tích cho ngân hàng, bán lẻ và hàng không nội địa. Mỗi dự án bắt đầu từ việc gom dữ liệu rải rác về một nơi sạch sẽ để khách hàng đưa ra quyết định bằng số liệu. Công ty có chương trình đào tạo Data Starter dành cho sinh viên năm cuối.",
+      "industry": "Dữ liệu & AI",
+      "size": "51-200",
+      "foundedYear": 2019,
+      "website": "https://phale-data.example.com",
+      "address": "Tầng 5, số 17 Duy Tân, Cầu Giấy",
+      "city": "Hà Nội",
+      "contactEmail": "talent@phale-data.example.com",
+      "tags": [
+        "Python",
+        "Airflow",
+        "Spark",
+        "dbt",
+        "Power BI",
+        "BigQuery"
+      ],
+      "benefits": [
+        "Thưởng tháng 13 và thưởng khi bàn giao đúng hạn",
+        "Hỗ trợ thi chứng chỉ cloud và Power BI",
+        "Hybrid 3 ngày tại văn phòng",
+        "Bảo hiểm sức khỏe và du lịch hằng năm"
+      ],
+      "verification": {
+        "status": "verified",
+        "taxCode": "0301123757"
+      }
+    },
+    "emailVerified": true
+  },
+  {
+    "email": "employer7@demo.com",
+    "password": "Employer@123",
+    "fullName": "Bùi Anh Tuấn",
+    "phone": "0902000007",
+    "role": "employer",
+    "company": {
+      "name": "Thiên Hà AI Lab",
+      "description": "Thiên Hà AI Lab là phòng nghiên cứu và sản phẩm 20 người chuyên về xử lý ngôn ngữ tiếng Việt và thị giác máy tính ứng dụng. Các mô hình của công ty đang phục vụ tổng đài ngân hàng, phân tích hợp đồng và giám sát kho bãi. Làm việc từ xa là mặc định; cả nhóm gặp nhau mỗi quý.",
+      "industry": "Dữ liệu & AI",
+      "size": "11-50",
+      "foundedYear": 2021,
+      "website": "https://thienha-ailab.example.com",
+      "address": "Số 8 Phan Kế Bính, Phường Đa Kao, Quận 1",
+      "city": "TP. Hồ Chí Minh",
+      "contactEmail": "join@thienha-ailab.example.com",
+      "tags": [
+        "PyTorch",
+        "NLP",
+        "LLM",
+        "Computer Vision",
+        "MLOps"
+      ],
+      "benefits": [
+        "Làm việc từ xa linh hoạt",
+        "Sử dụng cụm GPU cho nghiên cứu cá nhân",
+        "Ngân sách hội nghị quốc tế",
+        "ESOP",
+        "Bảo hiểm sức khỏe cao cấp"
+      ],
+      "verification": {
+        "status": "verified",
+        "taxCode": "0301131676"
+      }
+    },
+    "emailVerified": true
+  },
+  {
+    "email": "employer8@demo.com",
+    "password": "Employer@123",
+    "fullName": "Ngô Thùy Linh",
+    "phone": "0902000008",
+    "role": "employer",
+    "company": {
+      "name": "Mực Tím Studio",
+      "description": "Mực Tím Studio là studio thiết kế 18 người, làm sản phẩm số (ứng dụng, website) và nhận diện thương hiệu cho doanh nghiệp vừa, startup y tế, giáo dục và tài chính cá nhân. Studio có thư viện sách thiết kế riêng và tổ chức buổi review chéo hằng tháng để cả đội học hỏi lẫn nhau.",
+      "industry": "Thiết kế",
+      "size": "11-50",
+      "foundedYear": 2017,
+      "website": "https://muctim-studio.example.com",
+      "address": "31 Trần Nhật Duật, Phường Tân Định, Quận 1",
+      "city": "TP. Hồ Chí Minh",
+      "contactEmail": "hello@muctim-studio.example.com",
+      "tags": [
+        "Figma",
+        "Branding",
+        "UX Research",
+        "Motion",
+        "Design System"
+      ],
+      "benefits": [
+        "Bản quyền Adobe và font trả phí",
+        "Mỗi quý một tuần tự do sáng tạo",
+        "Ngân sách sách và khóa học thiết kế",
+        "Hybrid linh hoạt"
+      ],
+      "verification": {
+        "status": "verified",
+        "taxCode": "0301139595"
+      }
+    },
+    "emailVerified": true
+  },
+  {
+    "email": "employer9@demo.com",
+    "password": "Employer@123",
+    "fullName": "Trịnh Bảo Châu",
+    "phone": "0902000009",
+    "role": "employer",
+    "company": {
+      "name": "Nắng Mai Media",
+      "description": "Nắng Mai Media là agency truyền thông số 70 người, phục vụ khoảng 25 thương hiệu mẹ và bé, thực phẩm hữu cơ và nội thất. Dịch vụ gồm nội dung, quảng cáo hiệu suất, sản xuất video ngắn và quản trị cộng đồng. Mỗi nhân viên phụ trách tối đa 3 khách hàng để giữ chất lượng.",
+      "industry": "Marketing",
+      "size": "51-200",
+      "foundedYear": 2015,
+      "website": "https://nangmai-media.example.com",
+      "address": "Tầng 3, số 62 Nguyễn Thị Định, Cầu Giấy",
+      "city": "Hà Nội",
+      "contactEmail": "tuyendung@nangmai-media.example.com",
+      "tags": [
+        "SEO",
+        "Google Ads",
+        "Meta Ads",
+        "TikTok",
+        "Content"
+      ],
+      "benefits": [
+        "Thưởng tháng 13 và thưởng chiến dịch",
+        "Review lương 2 lần/năm",
+        "Bữa trưa miễn phí 3 ngày/tuần",
+        "Du lịch công ty và tiệc cuối quý"
+      ],
+      "verification": {
+        "status": "verified",
+        "taxCode": "0301147514"
+      }
+    },
+    "emailVerified": true
+  },
+  {
+    "email": "employer10@demo.com",
+    "password": "Employer@123",
+    "fullName": "Hoàng Minh Quân",
+    "phone": "0902000010",
+    "role": "employer",
+    "company": {
+      "name": "Cánh Buồm Growth",
+      "description": "Cánh Buồm Growth đồng hành cùng các thương hiệu bán trực tiếp đến người tiêu dùng (mỹ phẩm, thời trang bền vững, thực phẩm chức năng) tăng trưởng doanh thu trực tuyến. Công ty chạy quảng cáo, email, CRM và tối ưu trang bán hàng theo chu kỳ thử nghiệm hai tuần.",
+      "industry": "Marketing",
+      "size": "11-50",
+      "foundedYear": 2020,
+      "website": "https://canhbuom-growth.example.com",
+      "address": "Tầng 4, số 28 Trần Phú, phường Nha Trang",
+      "city": "Khánh Hòa",
+      "contactEmail": "people@canhbuom-growth.example.com",
+      "tags": [
+        "Growth",
+        "Email Marketing",
+        "CRM",
+        "Shopify",
+        "Performance"
+      ],
+      "benefits": [
+        "Thưởng theo doanh thu tăng trưởng của khách hàng",
+        "Làm việc từ xa với vị trí phù hợp",
+        "Ngân sách học tập và hội thảo 20 triệu/năm",
+        "Cơ hội trở thành đối tác điều hành"
+      ],
+      "verification": {
+        "status": "verified",
+        "taxCode": "0301155433"
+      }
+    },
+    "emailVerified": true
+  },
+  {
+    "email": "employer11@demo.com",
+    "password": "Employer@123",
+    "fullName": "Phan Văn Lộc",
+    "phone": "0902000011",
+    "role": "employer",
+    "company": {
+      "name": "Đại Ngàn Phân Phối",
+      "description": "Đại Ngàn Phân Phối là nhà phân phối gia vị, dầu ăn, nước giải khát và đồ dùng nhà bếp của hơn 30 nhãn hàng, có mặt tại hơn 1.400 điểm bán ở miền Bắc. Công ty đang mở rộng sang kênh bán hàng trực tuyến và thiết bị bếp công nghiệp cho nhà hàng, khách sạn.",
+      "industry": "Kinh doanh",
+      "size": "500+",
+      "foundedYear": 2005,
+      "website": "https://daingan-phanphoi.example.com",
+      "address": "Số 214 Nguyễn Xiển, Thanh Xuân",
+      "city": "Hà Nội",
+      "contactEmail": "nhansu@daingan-phanphoi.example.com",
+      "tags": [
+        "FMCG",
+        "Phân phối",
+        "B2B",
+        "Thiết bị bếp"
+      ],
+      "benefits": [
+        "Lương cứng cộng hoa hồng doanh số",
+        "Thưởng tháng 13 và thưởng thi đua quý",
+        "Hỗ trợ xăng xe và điện thoại",
+        "Đào tạo bán hàng chuyên nghiệp"
+      ],
+      "verification": {
+        "status": "verified",
+        "taxCode": "0301163352"
+      }
+    },
+    "emailVerified": true
+  },
+  {
+    "email": "employer12@demo.com",
+    "password": "Employer@123",
+    "fullName": "Nguyễn Thu Hiền",
+    "phone": "0902000012",
+    "role": "employer",
+    "company": {
+      "name": "Tín Hợp Advisory",
+      "description": "Tín Hợp Advisory cung cấp dịch vụ kế toán thuê ngoài, kiểm toán và tư vấn thuế cho gần 160 doanh nghiệp vừa và nhỏ tại miền Bắc. Công ty ủng hộ nhân viên học ACCA, CPA và có lộ trình thăng tiến rõ ràng cho kiểm toán viên trẻ.",
+      "industry": "Kế toán - Tài chính",
+      "size": "51-200",
+      "foundedYear": 2011,
+      "website": "https://tinhop-advisory.example.com",
+      "address": "Tầng 6, số 35 Láng Hạ, Đống Đa",
+      "city": "Hà Nội",
+      "contactEmail": "tuyendung@tinhop-advisory.example.com",
+      "tags": [
+        "Kế toán",
+        "Kiểm toán",
+        "Thuế",
+        "ACCA",
+        "MISA"
+      ],
+      "benefits": [
+        "Thưởng tháng 13 và thưởng mùa quyết toán",
+        "Hỗ trợ học phí và nghỉ phép thi ACCA/CPA",
+        "Đóng bảo hiểm trên toàn bộ lương",
+        "Không làm thứ Bảy ngoài mùa cao điểm"
+      ],
+      "verification": {
+        "status": "verified",
+        "taxCode": "0301171271"
+      }
+    },
+    "emailVerified": true
+  },
+  {
+    "email": "employer13@demo.com",
+    "password": "Employer@123",
+    "fullName": "Lý Khánh Vân",
+    "phone": "0902000013",
+    "role": "employer",
+    "company": {
+      "name": "Vạn Sự Talent",
+      "description": "Vạn Sự Talent là công ty tư vấn và cung ứng nhân sự, đồng hành với hơn 60 doanh nghiệp công nghệ, sản xuất và tài chính trong tuyển dụng cấp trung và cấp cao, quản lý lương và phát triển lãnh đạo. Đội ngũ 35 người làm việc theo mô hình phụ trách đầu-cuối từng đơn hàng.",
+      "industry": "Nhân sự - Hành chính",
+      "size": "11-50",
+      "foundedYear": 2019,
+      "website": "https://vansu-talent.example.com",
+      "address": "Số 90 Nguyễn Thị Minh Khai, Quận 3",
+      "city": "TP. Hồ Chí Minh",
+      "contactEmail": "hr@vansu-talent.example.com",
+      "tags": [
+        "Tuyển dụng",
+        "Headhunt",
+        "C&B",
+        "Đào tạo",
+        "Tư vấn nhân sự"
+      ],
+      "benefits": [
+        "Hoa hồng theo phí dịch vụ",
+        "Thưởng tháng 13",
+        "Hybrid 2 ngày ở nhà",
+        "Đào tạo headhunt và kỹ năng đàm phán"
+      ],
+      "verification": {
+        "status": "verified",
+        "taxCode": "0301179190"
+      }
+    },
+    "emailVerified": true
+  },
+  {
+    "email": "employer14@demo.com",
+    "password": "Employer@123",
+    "fullName": "Đặng Văn Hải",
+    "phone": "0902000014",
+    "role": "employer",
+    "company": {
+      "name": "Sóng Xanh Logistics",
+      "description": "Sóng Xanh Logistics là công ty giao nhận vận tải biển và đường bộ tại Hải Phòng, xử lý hơn 40.000 TEU hàng xuất nhập khẩu mỗi năm qua các cảng phía Bắc, với đội xe 38 đầu kéo riêng. Công ty đầu tư vào chuyển đổi số hồ sơ chứng từ và hệ thống theo dõi hành trình.",
+      "industry": "Logistics",
+      "size": "201-500",
+      "foundedYear": 2009,
+      "website": "https://songxanh-logistics.example.com",
+      "address": "Số 18 Lạch Tray, quận Ngô Quyền",
+      "city": "Hải Phòng",
+      "contactEmail": "nhansu@songxanh-logistics.example.com",
+      "tags": [
+        "Giao nhận",
+        "FCL/LCL",
+        "Hải quan",
+        "Vận tải đường bộ"
+      ],
+      "benefits": [
+        "Thưởng tháng 13 và thưởng theo số lô hàng",
+        "Xe đưa đón từ trung tâm thành phố",
+        "Hỗ trợ thi chứng chỉ khai báo hải quan, FIATA",
+        "Bảo hiểm xã hội và sức khỏe đầy đủ"
+      ],
+      "verification": {
+        "status": "verified",
+        "taxCode": "0301187109"
+      }
+    },
+    "emailVerified": true
+  },
+  {
+    "email": "employer15@demo.com",
+    "password": "Employer@123",
+    "fullName": "Cao Thị Ngọc",
+    "phone": "0902000015",
+    "role": "employer",
+    "company": {
+      "name": "Gấm Vân Fulfillment",
+      "description": "Gấm Vân Fulfillment vận hành kho lưu trữ và đóng gói đơn hàng cho hơn 200 thương hiệu bán trên các sàn thương mại điện tử. Kho Bình Tân rộng 8.000 m² xử lý khoảng 9.000 đơn mỗi ngày, có thể tăng gấp ba trong mùa cao điểm.",
+      "industry": "Logistics",
+      "size": "51-200",
+      "foundedYear": 2018,
+      "website": "https://gamvan-fulfillment.example.com",
+      "address": "Số 465 Quốc Lộ 1A, Phường Bình Hưng Hòa B, quận Bình Tân",
+      "city": "TP. Hồ Chí Minh",
+      "contactEmail": "tuyendung@gamvan-fulfillment.example.com",
+      "tags": [
+        "Fulfillment",
+        "Kho vận",
+        "Thương mại điện tử",
+        "WMS"
+      ],
+      "benefits": [
+        "Thưởng KPI tồn kho và đơn đúng hạn",
+        "Xe đưa đón Bình Tân, Tân Phú",
+        "Ăn ba bữa tại bếp ăn công ty",
+        "Thưởng đặc biệt mùa 11.11 và Tết"
+      ],
+      "verification": {
+        "status": "verified",
+        "taxCode": "0301195028"
+      }
+    },
+    "emailVerified": true
+  },
+  {
+    "email": "employer16@demo.com",
+    "password": "Employer@123",
+    "fullName": "Tạ Quỳnh Anh",
+    "phone": "0902000016",
+    "role": "employer",
+    "company": {
+      "name": "Hạt Giống Academy",
+      "description": "Hạt Giống Academy dạy tiếng Anh, lập trình và kỹ năng sống cho trẻ em từ 4 đến 15 tuổi, với 5 cơ sở tại Hà Nội. Chương trình học theo dự án: mỗi tháng lớp tạo ra một sản phẩm cụ thể như báo tường hay bản tin lớp. Giáo viên được bồi dưỡng chuyên môn hằng tháng.",
+      "industry": "Giáo dục",
+      "size": "51-200",
+      "foundedYear": 2016,
+      "website": "https://hatgiong-academy.example.com",
+      "address": "Số 41 Trần Đăng Ninh, Cầu Giấy",
+      "city": "Hà Nội",
+      "contactEmail": "tuyendung@hatgiong-academy.example.com",
+      "tags": [
+        "Tiếng Anh thiếu nhi",
+        "Lập trình cho trẻ",
+        "Kỹ năng sống",
+        "Học theo dự án"
+      ],
+      "benefits": [
+        "Thưởng tháng 13 và thưởng chất lượng giảng dạy",
+        "Hỗ trợ học phí TESOL/CELTA",
+        "Con em nhân viên giảm 50% học phí",
+        "Nghỉ hè 2 tuần có lương"
+      ],
+      "verification": {
+        "status": "verified",
+        "taxCode": "0301202947"
+      }
+    },
+    "emailVerified": true
+  },
+  {
+    "email": "employer17@demo.com",
+    "password": "Employer@123",
+    "fullName": "Mai Xuân Bách",
+    "phone": "0902000017",
+    "role": "employer",
+    "company": {
+      "name": "Phúc Lâm Medical Center",
+      "description": "Phúc Lâm Medical Center là phòng khám đa khoa với 14 chuyên khoa và phòng xét nghiệm đạt tiêu chuẩn ISO 15189, tiếp nhận khoảng 450 lượt khám mỗi ngày tại Quận 3. Công ty có chương trình đào tạo liên tục cho điều dưỡng và bác sĩ trẻ.",
+      "industry": "Y tế",
+      "size": "201-500",
+      "foundedYear": 2012,
+      "website": "https://phuclam-medical.example.com",
+      "address": "Số 234 đường 30 Tháng 4, phường Ninh Kiều",
+      "city": "Cần Thơ",
+      "contactEmail": "nhansu@phuclam-medical.example.com",
+      "tags": [
+        "Đa khoa",
+        "Nhi khoa",
+        "Xét nghiệm",
+        "Tiêm chủng"
+      ],
+      "benefits": [
+        "Khám chữa bệnh miễn phí cho nhân viên, giảm 50% cho người thân",
+        "Hội thảo chuyên môn hằng tháng, cấp chứng chỉ CME",
+        "Suất ăn ca miễn phí",
+        "Bảo hiểm sức khỏe cao cấp"
+      ],
+      "verification": {
+        "status": "pending",
+        "taxCode": "0301210866"
+      }
+    },
+    "emailVerified": true
+  },
+  {
+    "email": "employer18@demo.com",
+    "password": "Employer@123",
+    "fullName": "Lương Văn Đạt",
+    "phone": "0902000018",
+    "role": "employer",
+    "company": {
+      "name": "Hưng Lộc Precision",
+      "description": "Hưng Lộc Precision sản xuất chi tiết cơ khí chính xác cho ngành ô tô, xe máy và thiết bị điện tử, với 120 máy CNC, tiện và phay đặt tại nhà máy 3,2 ha ở Bình Dương. Hệ thống chất lượng đạt IATF 16949, khách hàng gồm nhiều hãng ô tô và xe máy lắp ráp trong nước.",
+      "industry": "Kỹ thuật - Sản xuất",
+      "size": "500+",
+      "foundedYear": 2007,
+      "website": "https://hungloc-precision.example.com",
+      "address": "Lô C2-5, Khu công nghiệp Mỹ Phước 3, phường Bến Cát",
+      "city": "TP. Hồ Chí Minh",
+      "contactEmail": "tuyendung@hungloc-precision.example.com",
+      "tags": [
+        "CNC",
+        "IATF 16949",
+        "Cơ khí chính xác",
+        "Lean"
+      ],
+      "benefits": [
+        "Xe đưa đón nhiều tuyến và ba bữa ăn ca miễn phí",
+        "Thưởng tháng 13 và thưởng cải tiến Kaizen",
+        "Đào tạo tại nhà máy đối tác Nhật Bản",
+        "Bảo hiểm sức khỏe cho cả gia đình"
+      ],
+      "verification": {
+        "status": "pending",
+        "taxCode": "0301218785"
+      }
+    },
+    "emailVerified": true
+  },
+  {
+    "email": "employer19@demo.com",
+    "password": "Employer@123",
+    "fullName": "Tô Thục Quyên",
+    "phone": "0902000019",
+    "role": "employer",
+    "company": {
+      "name": "Quán Gió Coffee",
+      "description": "Quán Gió Coffee là chuỗi 42 cửa hàng cà phê tại Thành phố Hồ Chí Minh, nổi tiếng với không gian mở và cà phê rang xay riêng. Công ty đào tạo barista từ đầu và có lộ trình rõ ràng từ nhân viên lên cửa hàng trưởng và giám sát khu vực.",
+      "industry": "Nhà hàng - Bán lẻ",
+      "size": "201-500",
+      "foundedYear": 2016,
+      "website": "https://quangio-coffee.example.com",
+      "address": "Văn phòng Quán Gió, 56 Võ Văn Tần, Quận 3",
+      "city": "TP. Hồ Chí Minh",
+      "contactEmail": "tuyendung@quangio-coffee.example.com",
+      "tags": [
+        "Cà phê",
+        "F&B",
+        "Chuỗi cửa hàng",
+        "Barista"
+      ],
+      "benefits": [
+        "Ăn uống miễn phí trong ca",
+        "Đào tạo pha chế có chứng nhận",
+        "Giảm 50% thức uống",
+        "Lộ trình lên Cửa hàng trưởng và Giám sát khu vực"
+      ],
+      "verification": {
+        "status": "pending",
+        "taxCode": "0301226704"
+      }
+    },
+    "emailVerified": true
+  },
+  {
+    "email": "employer20@demo.com",
+    "password": "Employer@123",
+    "fullName": "Châu Gia Bảo",
+    "phone": "0902000020",
+    "role": "employer",
+    "company": {
+      "name": "Vườn Phố Retail",
+      "description": "Vườn Phố Retail vận hành 11 siêu thị mini và cửa hàng đồ gia dụng tại Đà Nẵng, Quảng Nam và Huế, nổi tiếng với rau củ và thực phẩm sạch từ các hợp tác xã miền Trung. Công ty ưu tiên tuyển dụng và đào tạo nhân sự tại địa phương.",
+      "industry": "Nhà hàng - Bán lẻ",
+      "size": "51-200",
+      "foundedYear": 2013,
+      "website": "https://vuonpho-retail.example.com",
+      "address": "Số 102 Hùng Vương, quận Hải Châu",
+      "city": "Đà Nẵng",
+      "contactEmail": "nhansu@vuonpho-retail.example.com",
+      "tags": [
+        "Siêu thị mini",
+        "Thực phẩm sạch",
+        "Bán lẻ",
+        "Nông sản"
+      ],
+      "benefits": [
+        "Chiết khấu 15% khi mua hàng tại hệ thống",
+        "Thưởng lễ, Tết",
+        "Bảo hiểm xã hội sau thử việc",
+        "Lộ trình lên Quản lý khu vực"
+      ],
+      "verification": {
+        "status": "verified",
+        "taxCode": "0301234623"
+      }
+    },
+    "emailVerified": true
+  },
+  {
+    "email": "employer21@demo.com",
+    "emailVerified": true,
+    "password": "Employer@123",
+    "fullName": "Lâm Thảo Nguyên",
+    "phone": "0902000021",
+    "role": "employer",
+    "company": {
+      "name": "Lá Nhỏ Studio",
+      "description": "Studio thiết kế đồ họa và nhận diện thương hiệu quy mô nhỏ, mới bắt đầu tuyển dụng trên nền tảng. Công ty chưa gửi hồ sơ xác minh nên mọi tin đăng đều qua kiểm duyệt thủ công của quản trị viên.",
+      "industry": "Thiết kế",
+      "size": "1-10",
+      "foundedYear": 2023,
+      "website": "https://lanho-studio.example.com",
+      "address": "18 Trần Phú, Quận Hải Châu",
+      "city": "Đà Nẵng",
+      "contactEmail": "hello@lanho-studio.example.com",
+      "tags": [
+        "Figma",
+        "Branding",
+        "Illustrator"
+      ],
+      "benefits": [
+        "Làm việc linh hoạt",
+        "Môi trường sáng tạo, nhóm nhỏ",
+        "Thưởng theo dự án khi khách hàng hài lòng"
+      ],
+      "verification": {
+        "status": "unverified"
+      }
+    }
+  }
+]
