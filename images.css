@@ -1,0 +1,222 @@
+/* ---------- tải ảnh có cắt (logo, ảnh bìa, ảnh đại diện) ---------- */
+.img-up {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 12px;
+  min-width: 0;
+  max-width: 100%;
+}
+.img-up__preview {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  max-width: 100%;
+  border: 1px solid var(--c-line);
+  background: var(--c-paper-2);
+  color: var(--c-ink-3);
+}
+.img-up__preview img {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+.img-up__preview--avatar {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+}
+.img-up__preview--avatar img {
+  object-fit: cover;
+}
+.img-up__preview--logo {
+  width: 120px;
+  height: 120px;
+  border-radius: var(--radius);
+  background: var(--c-surface);
+}
+.img-up__preview--logo img {
+  object-fit: contain;
+}
+.img-up__preview--cover {
+  width: 100%;
+  max-width: 480px;
+  aspect-ratio: 3 / 1;
+  border-radius: var(--radius);
+}
+.img-up__preview--cover img {
+  object-fit: cover;
+}
+.img-up__actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.img-group {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+.img-group__item h3 {
+  margin: 0 0 8px;
+  font-size: 15px;
+  font-weight: 600;
+}
+
+/* khung cắt trong hộp thoại */
+.crop-dialog {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+.crop {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  border: 1px solid var(--c-line-strong);
+  background: var(--c-paper-2);
+  cursor: grab;
+  touch-action: none;
+  user-select: none;
+}
+.crop:active {
+  cursor: grabbing;
+}
+.crop:focus-visible {
+  outline: 2px solid var(--c-accent);
+  outline-offset: 2px;
+}
+.crop--avatar {
+  max-width: 320px;
+  margin: 0 auto;
+  border-radius: 50%;
+}
+.crop--logo {
+  max-width: 320px;
+  margin: 0 auto;
+  background: var(--c-surface);
+}
+.crop img {
+  position: absolute;
+  max-width: none;
+  pointer-events: none;
+  user-select: none;
+}
+.crop-dialog__zoom {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr);
+  align-items: center;
+  gap: 16px;
+  color: var(--c-ink-2);
+}
+.crop-dialog__zoom .ant-slider {
+  margin: 8px 6px;
+}
+.crop-dialog .form-note {
+  margin: 0;
+}
+
+/* ảnh bìa trang công ty */
+.co-cover {
+  aspect-ratio: 3 / 1;
+  overflow: hidden;
+  border-bottom: 1px solid var(--c-line);
+  border-radius: var(--radius) var(--radius) 0 0;
+  background: var(--c-paper-2);
+}
+.co-cover img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* ảnh đại diện trong menu tài khoản */
+.user-avatar {
+  display: inline-block;
+  width: 28px;
+  height: 28px;
+  margin-left: 8px;
+  border-radius: 50%;
+  object-fit: cover;
+  vertical-align: middle;
+}
+.shell__account-avatar {
+  display: block;
+  width: 40px;
+  height: 40px;
+  margin-bottom: 8px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+@media (max-width: 575px) {
+  .img-up__preview--avatar,
+  .img-up__preview--logo {
+    width: 104px;
+    height: 104px;
+  }
+  .crop-dialog__zoom {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 0;
+  }
+}
+
+/* khối hình ảnh công ty trong trang admin */
+.img-admin {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 12px;
+}
+.img-admin__logo {
+  width: 64px;
+  height: 64px;
+  border: 1px solid var(--c-line);
+  border-radius: var(--radius);
+  object-fit: contain;
+  background: var(--c-surface);
+}
+.img-admin__cover {
+  width: 240px;
+  max-width: 100%;
+  aspect-ratio: 3 / 1;
+  border: 1px solid var(--c-line);
+  border-radius: var(--radius);
+  object-fit: cover;
+}
+.img-admin__log {
+  margin: 8px 0 0;
+  padding-left: 18px;
+  color: var(--c-ink-2);
+  font-size: 13px;
+}
+
+/* Ảnh đại diện ứng viên cho nhà tuyển dụng (v1.24): tròn, kích thước cố định */
+.cand-avatar {
+  display: inline-flex;
+  flex: none;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  border: 1px solid var(--c-line);
+  border-radius: 50%;
+  background: var(--c-paper-2);
+  font-weight: 600;
+  line-height: 1;
+}
+.cand-avatar img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.cand-row {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  min-width: 0;
+}
+.cand-row__main {
+  min-width: 0;
+}
